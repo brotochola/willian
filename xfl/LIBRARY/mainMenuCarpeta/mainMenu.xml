@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mainMenuCarpeta/mainMenu" itemID="5ccc7756-00000af1" linkageExportForAS="true" linkageClassName="mainMenu" lastModified="1577212801">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="mainMenu">
+      <layers>
+        <DOMLayer name="papelitos" color="#FF0000" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="anima inicial/papelitos" selected="true">
+                  <matrix>
+                    <Matrix tx="202.6" ty="-2.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="700.35" y="386.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="copia_willian" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 181 3" name="w1">
+                  <matrix>
+                    <Matrix a="1.02032470703125" d="1.02032470703125" tx="806.5" ty="428.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="137.2" y="215.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

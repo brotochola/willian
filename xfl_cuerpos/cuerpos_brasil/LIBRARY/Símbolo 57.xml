@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 57" itemID="5d13b077-00000064" symbolType="graphic" lastModified="1561571447">
+  <timeline>
+    <DOMTimeline name="Símbolo 57">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 30" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.911361694335938" d="0.911361694335938" tx="8.1" ty="8.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.6" y="35.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 31" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.911361694335938" d="0.911361694335938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.9" y="15.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 32" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.911361694335938" d="0.911361694335938" tx="60.25" ty="13.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.8" y="33.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

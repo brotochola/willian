@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 10" itemID="5c363345-0000012c" symbolType="graphic" lastModified="1550671419">
+  <timeline>
+    <DOMTimeline name="Symbol 10">
+      <layers>
+        <DOMLayer name="Layer_1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="p0_inner">
+                  <matrix>
+                    <Matrix a="1.18841552734375" d="1.18841552734375" tx="1195.05" ty="-25.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="468.45" y="60.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p0_inner">
+                  <matrix>
+                    <Matrix a="1.18841552734375" d="1.18841552734375" tx="32.7" ty="-25.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="468.45" y="60.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p0_inner">
+                  <matrix>
+                    <Matrix a="1.18841552734375" d="1.18841552734375" tx="3524.05" ty="-25.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="468.45" y="60.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p0_inner">
+                  <matrix>
+                    <Matrix a="1.18841552734375" d="1.18841552734375" tx="2357.45" ty="-25.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="468.45" y="60.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p0_inner">
+                  <matrix>
+                    <Matrix a="1.18841552734375" d="1.18841552734375" tx="4692.35" ty="-25.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="468.4" y="60.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p0_inner">
+                  <matrix>
+                    <Matrix a="1.18841552734375" d="1.18841552734375" tx="-1131.65" ty="-25.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="468.4" y="60.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p0_inner">
+                  <matrix>
+                    <Matrix a="1.18841552734375" d="1.18841552734375" tx="-2294" ty="-25.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="468.45" y="60.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

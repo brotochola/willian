@@ -1,0 +1,192 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 68" itemID="5e164acd-00000072" symbolType="graphic" lastModified="1579301557" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Símbolo 68" currentFrame="17">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 15" selected="true">
+                  <matrix>
+                    <Matrix tx="27.4" ty="54.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 16" selected="true">
+                  <matrix>
+                    <Matrix tx="210.65" ty="60.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 17">
+                  <matrix>
+                    <Matrix tx="27.4" ty="54.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 18">
+                  <matrix>
+                    <Matrix tx="210.65" ty="60.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 19">
+                  <matrix>
+                    <Matrix tx="27.4" ty="54.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 20">
+                  <matrix>
+                    <Matrix tx="210.65" ty="60.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 21">
+                  <matrix>
+                    <Matrix tx="27.4" ty="54.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 22" selected="true">
+                  <matrix>
+                    <Matrix tx="210.65" ty="60.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 14">
+                  <matrix>
+                    <Matrix tx="210.65" ty="60.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 13" centerPoint3DX="27.4" centerPoint3DY="54.55">
+                  <matrix>
+                    <Matrix tx="27.4" ty="54.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 21">
+                  <matrix>
+                    <Matrix tx="27.4" ty="54.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 22" selected="true">
+                  <matrix>
+                    <Matrix tx="210.65" ty="60.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 19">
+                  <matrix>
+                    <Matrix tx="27.4" ty="54.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 20">
+                  <matrix>
+                    <Matrix tx="210.65" ty="60.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 17">
+                  <matrix>
+                    <Matrix tx="27.4" ty="54.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 18">
+                  <matrix>
+                    <Matrix tx="210.65" ty="60.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 15">
+                  <matrix>
+                    <Matrix tx="27.4" ty="54.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 16">
+                  <matrix>
+                    <Matrix tx="210.65" ty="60.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

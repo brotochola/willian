@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 5" itemID="5df3d584-00000b44" lastModified="1576261049" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Símbolo 5" currentFrame="4">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 7">
+                  <matrix>
+                    <Matrix tx="72.05" ty="-66.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.25" y="1.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 6">
+                  <matrix>
+                    <Matrix tx="50.25" ty="-85.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 6" centerPoint3DX="40.95" centerPoint3DY="-85.5">
+                  <matrix>
+                    <Matrix a="0.98565673828125" b="-0.16876220703125" c="0.16876220703125" d="0.98565673828125" tx="40.9" ty="-85.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.35" y="55.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 7">
+                  <matrix>
+                    <Matrix a="-0.993087768554688" b="0.11737060546875" c="0.11737060546875" d="0.993087768554688" tx="1.35" ty="-85.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.25" y="1.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 8">
+                  <matrix>
+                    <Matrix tx="12.5" ty="-83"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

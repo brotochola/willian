@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="copia caja_palo" itemID="5e41acaf-00000977" linkageExportForAS="true" linkageClassName="copiacaja_palo" lastModified="1581362351">
+  <timeline>
+    <DOMTimeline name="copia caja_palo">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Mapa de bits 2">
+                  <matrix>
+                    <Matrix tx="-226" ty="-49"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

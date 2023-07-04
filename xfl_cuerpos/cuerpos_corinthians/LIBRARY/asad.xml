@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="asad" itemID="5d6c9a64-0000016e" symbolType="graphic" lastModified="1567398500">
+  <timeline>
+    <DOMTimeline name="asad">
+      <layers>
+        <DOMLayer name="Capa_1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!203 2S2[325 -11 345 65!345 65[345 67 345 69!345 69[783 79 1052 295!1052 295[1076 314 1058 343!1058 343[1024 401 938 408!938 408[333 462 14 161!14 161[-14 134 13 103!13 103[80 25 203 2"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

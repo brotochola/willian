@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 31" itemID="5c3d088a-00000137" lastModified="1574728947" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Symbol 31">
+      <layers>
+        <DOMLayer name="Layer_1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol_29" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="bla/Mapa de bits 63gg35g3g3g">
+                  <matrix>
+                    <Matrix a="0.499954223632813" d="0.499954223632813" tx="-45" ty="-45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="90" y="90"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol_2_copy_2" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

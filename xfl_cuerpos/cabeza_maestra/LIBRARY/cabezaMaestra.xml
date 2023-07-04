@@ -1,0 +1,171 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="cabezaMaestra" itemID="5c421275-000001f6" linkageExportForAS="true" linkageClassName="cabezaMaestra" lastModified="1579026951" lastUniqueIdentifier="5">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="cabezaMaestra">
+      <layers>
+        <DOMLayer name="flequillo" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 58" name="flequillos">
+                  <matrix>
+                    <Matrix tx="52.8" ty="40.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.45" y="23.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pestaneo" color="#9933CC" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pestaneos" name="pestaneos" selected="true">
+                  <matrix>
+                    <Matrix tx="74.25" ty="104.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.8" y="13.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cejas" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="cejas" name="cejas" centerPoint3DX="132.5" centerPoint3DY="92.1">
+                  <matrix>
+                    <Matrix tx="76.05" ty="78.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="56.3" y="13.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="nariz" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="copia Símbolo 29" name="nariz" centerPoint3DX="141.75" centerPoint3DY="134.8">
+                  <matrix>
+                    <Matrix tx="121" ty="102.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.75" y="32.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="boca" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bocas" name="boca" centerPoint3DX="135" centerPoint3DY="198.1">
+                  <matrix>
+                    <Matrix tx="91.5" ty="171"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.5" y="27.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="forma_ojos" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="forma_ojos" name="formaOjos" selected="true">
+                  <matrix>
+                    <Matrix tx="74.8" ty="102.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="52.5" y="24.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pupi" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pupilas" name="pupilas">
+                  <matrix>
+                    <Matrix a="0.997589111328125" b="-0.06939697265625" c="0.06939697265625" d="0.997589111328125" tx="101.35" ty="122.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.8" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="blanco_ojo" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mainmenu/copia Símbolo 17 2" name="blancoAtras">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="75.05" ty="97.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.9" y="67.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="craneo" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="craneos" name="cara" centerPoint3DX="99.45" centerPoint3DY="153.3">
+                  <matrix>
+                    <Matrix tx="5.85" ty="52.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="93.05" y="100.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pelo" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelos" name="pelo" centerPoint3DX="83" centerPoint3DY="38.1">
+                  <matrix>
+                    <Matrix tx="-93.5" ty="-129.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="176.65" y="167.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

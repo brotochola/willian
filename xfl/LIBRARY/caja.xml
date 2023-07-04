@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="caja" itemID="5e024a14-000000b9" linkageExportForAS="true" linkageClassName="caja" lastModified="1577208415">
+  <timeline>
+    <DOMTimeline name="caja">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="Mapa de bits 1">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-208" ty="-125"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-1000 -1000S2|1000 -1000!1000 -1000|1000 1000!1000 1000|-1000 1000!-1000 1000|-1000 -1000"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

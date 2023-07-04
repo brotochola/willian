@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Carpeta de elementos duplicados/Símbolo 77" itemID="5defe561-0000041f" lastModified="1575838017">
+  <timeline>
+    <DOMTimeline name="Símbolo 77">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#009700"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#006633"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!49 0S6[79 15 110 24!110 24[241 49 351 0!351 0[429 654 351 1244!351 1244[349 1253 348 1262!348 1262[258 2015 361 2758!361 2758[350 2748 340 2738!340 2738|181 2559!181 2559|177 2565!177 2565|64 2769!64 2769[59 2752 56 2736!56 2736[-53
+ 2018 49 1245!49 1245[156 624 49 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

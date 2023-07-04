@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 46" itemID="5e696c43-000000ef" lastModified="1583967299">
+  <timeline>
+    <DOMTimeline name="Símbolo 46">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0300"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!646 0S2|1669 0!1669 0[1890 0 2011 194!2011 194|2337 744!2337 744|0 744!0 744|304 201!304 201[411 0 646 0"/>
+                    <Edge cubics="!1669 0(;1817,0 1930,67 2011,194q1669 0Q1890 0q2011 194);"/>
+                    <Edge cubics="!2011 194(;2011,194 2337,744 2337,744q2011 194 2337 744);"/>
+                    <Edge cubics="!304 201(;378,67 492,0 646,0q304 201Q411 0q646 0);"/>
+                    <Edge cubics="!0 744(;0,744 304,201 304,201q0 744 304 201);"/>
+                    <Edge cubics="!646 0(;646,0 1669,0 1669,0q646 0 1669 0);"/>
+                    <Edge cubics="!2337 744(;2337,744 0,744 0,744q2337 744 0 744);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

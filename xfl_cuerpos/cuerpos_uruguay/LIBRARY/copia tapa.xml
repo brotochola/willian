@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="copia tapa" itemID="5cbe91d0-00000cf6" lastModified="1555995395">
+  <timeline>
+    <DOMTimeline name="copia tapa">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 176" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="0.05" ty="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54.15" y="26.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="33" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="35" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[
+
+this.stop();
+
+]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

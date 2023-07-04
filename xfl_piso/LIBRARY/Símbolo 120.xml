@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 120" itemID="5c903eeb-000010d0" lastModified="1552957164">
+  <timeline>
+    <DOMTimeline name="Símbolo 120">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#719925"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!63 301S2[18 136 4 51!4 51[-23 -119 133 281!133 281[173 184 207 114!207 114[274 -26 243 111!243 111|193 331!193 331[248 251 298 194!298 194[398 79 373 191!373 191|333 371!333 371|63 391!63 391|63 301"/>
+                    <Edge cubics="!63 301(;63,301 -117,-359 133,281q63 301Q18 136q4 51Q-23 -119q133 281);"/>
+                    <Edge cubics="!133 281(;133,281 293,-109 243,111q133 281Q173 184q207 114Q274 -26q243 111);"/>
+                    <Edge cubics="!243 111(;193,331 193,331 193,331q243 111 193 331);"/>
+                    <Edge cubics="!193 331(;193,331 413,11 373,191q193 331Q248 251q298 194Q398 79q373 191);"/>
+                    <Edge cubics="!373 191(;333,371 333,371 333,371q373 191 333 371);"/>
+                    <Edge cubics="!333 371(;333,371 63,391 63,391q333 371 63 391);"/>
+                    <Edge cubics="!63 391(;63,391 63,301 63,301q63 391 63 301);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

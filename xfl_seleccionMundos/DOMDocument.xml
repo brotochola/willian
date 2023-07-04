@@ -1,0 +1,195 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1080" currentTimeline="1" xflVersion="2.97" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 19.0 build 326" majorVersion="19" buildNumber="326" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="540" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="5357E17EC16333408F648ECF3074730B">
+     <folders>
+          <DOMFolderItem name="bla" itemID="5defe583-00000446"/>
+          <DOMFolderItem name="Carpeta de elementos duplicados" itemID="5d9b8afc-00000245"/>
+          <DOMFolderItem name="mainmenu" itemID="5d6c97bb-00000134"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/copia Mapa de bits 17" itemID="5ded63d2-00000456" sourceLastImported="1575837909" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/copia Mapa de bits 17.png" bitmapDataHRef="M 15 1576004878.dat" frameRight="3640" frameBottom="4600"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/copia Mapa de bits 18" itemID="5ded63d2-00000457" sourceLastImported="1575838066" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/copia Mapa de bits 18.png" bitmapDataHRef="M 12 1576004878.dat" frameRight="5940" frameBottom="5420"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/copia Mapa de bits 19" itemID="5ded63d2-00000458" sourceLastImported="1575838079" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/copia Mapa de bits 19.png" bitmapDataHRef="M 11 1576004878.dat" frameRight="2700" frameBottom="5280"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/copia Mapa de bits 20" itemID="5ded63d2-00000459" sourceLastImported="1575838211" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/copia Mapa de bits 20.png" bitmapDataHRef="M 8 1576004878.dat" frameRight="5980" frameBottom="5500"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/copia Mapa de bits 21" itemID="5ded63d2-0000045a" sourceLastImported="1575838215" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/copia Mapa de bits 21.png" bitmapDataHRef="M 7 1576004878.dat" frameRight="2360" frameBottom="4880"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/copia Mapa de bits 22" itemID="5ded63d2-0000045b" sourceLastImported="1575838267" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/copia Mapa de bits 22.png" bitmapDataHRef="M 10 1576004878.dat" frameRight="6080" frameBottom="5600"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/copia Mapa de bits 23" itemID="5ded63d2-0000045c" sourceLastImported="1575838281" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/copia Mapa de bits 23.png" bitmapDataHRef="M 9 1576004878.dat" frameRight="3040" frameBottom="5140"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/copia Mapa de bits 25" itemID="5ded63d3-0000045d" sourceLastImported="1575838490" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/copia Mapa de bits 25.png" bitmapDataHRef="M 17 1576004878.dat" frameRight="38660" frameBottom="22100"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/copia Mapa de bits 4" itemID="5ded63d3-0000045e" sourceLastImported="1575837670" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/copia Mapa de bits 4.png" bitmapDataHRef="M 6 1576004878.dat" frameRight="6480" frameBottom="5880"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/copia Mapa de bits 5!!" itemID="5defeb93-0000189f" sourceLastImported="1576004499" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/copia Mapa de bits 5!!.png" bitmapDataHRef="M 14 1576004878.dat" frameRight="6080" frameBottom="5660"/>
+          <DOMBitmapItem name="Mapa de bits 1" itemID="5e46be81-00000dca" sourceLastImported="1581694593" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 1" bitmapDataHRef="M 19 1581694593.dat" frameRight="1420" frameBottom="560"/>
+          <DOMBitmapItem name="bla/Mapa de bits 123gg35g3g3g" itemID="5defe591-0000045c" sourceLastImported="1576002961" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bla/Mapa de bits 123gg35g3g3g.png" bitmapDataHRef="M 13 1576004878.dat" frameRight="3140" frameBottom="4600"/>
+          <DOMBitmapItem name="Mapa de bits 16" itemID="5ded6034-00000104" sourceLastImported="1575837748" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 16.png" bitmapDataHRef="M 16 1576004878.dat" frameRight="5940" frameBottom="5420"/>
+          <DOMBitmapItem name="bla/Mapa de bits 173gg35g3g3g" itemID="5defe59e-00000468" sourceLastImported="1576002974" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bla/Mapa de bits 173gg35g3g3g.png" bitmapDataHRef="M 18 1576004878.dat" frameRight="260" frameBottom="300"/>
+          <DOMBitmapItem name="bla/Mapa de bits 1sdf " itemID="5defe6ee-00000d4b" sourceLastImported="1576003018" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bla/Mapa de bits 1sdf&amp;#032.png" bitmapDataHRef="M 4 1576004877.dat" frameRight="3340" frameBottom="3360"/>
+          <DOMBitmapItem name="Mapa de bits 2" itemID="5e46be88-00000dd0" sourceLastImported="1581694600" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 2" bitmapDataHRef="M 20 1581694600.dat" frameRight="400" frameBottom="340"/>
+          <DOMBitmapItem name="bla/Mapa de bits 53gg35g3g3g" itemID="5defe58d-00000457" sourceLastImported="1576002957" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bla/Mapa de bits 53gg35g3g3g.png" bitmapDataHRef="M 5 1576004877.dat" frameRight="3440" frameBottom="3440"/>
+          <DOMBitmapItem name="bla/Mapa de bits 63gg35g3g3g" itemID="5defe6ee-00000d4e" sourceLastImported="1576003018" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bla/Mapa de bits 63gg35g3g3g.png" bitmapDataHRef="M 3 1576004877.dat" frameRight="3600" frameBottom="3600"/>
+          <DOMBitmapItem name="bla/Mapa de bits 83gg35g3g3g" itemID="5defe594-00000460" sourceLastImported="1576002964" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bla/Mapa de bits 83gg35g3g3g.png" bitmapDataHRef="M 2 1576004877.dat" frameRight="4040" frameBottom="4920"/>
+          <DOMBitmapItem name="bla/Mapa de bits 93gg35g3g3g" itemID="5defe593-0000045f" sourceLastImported="1576002963" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bla/Mapa de bits 93gg35g3g3g.png" bitmapDataHRef="M 1 1576004877.dat" frameRight="4220" frameBottom="4920"/>
+     </media>
+     <symbols>
+          <Include href="brazo.xml" itemIcon="1" loadImmediate="false" itemID="5c4f34fa-00000116" lastModified="1574710744"/>
+          <Include href="brillo pelota.xml" loadImmediate="false" itemID="5e46bd89-00000503" lastModified="1581694600"/>
+          <Include href="cabeza w3.xml" itemIcon="1" loadImmediate="false" itemID="5e024d06-00000830" lastModified="1581620358"/>
+          <Include href="cabeza w5.xml" loadImmediate="false" itemID="5e024ce1-0000082b" lastModified="1577209057"/>
+          <Include href="Carpeta de elementos duplicados/br1.xml" loadImmediate="false" itemID="5defe5bb-0000046f" lastModified="1576003003"/>
+          <Include href="Carpeta de elementos duplicados/Copia de Símbolo 45.xml" itemIcon="1" loadImmediate="false" itemID="5defe561-00000408" lastModified="1575838032"/>
+          <Include href="Carpeta de elementos duplicados/cori.xml" loadImmediate="false" itemID="5defe5b6-0000046e" lastModified="1577209225"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 11.xml" loadImmediate="false" itemID="5defe561-00000407" lastModified="1575838932"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 45.xml" itemIcon="1" loadImmediate="false" itemID="5defe561-00000421" lastModified="1575838010"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 57.xml" loadImmediate="false" itemID="5ded63d2-0000044f" lastModified="1575839902"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 65.xml" loadImmediate="false" itemID="5defe561-00000437" lastModified="1575837997"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 66.xml" loadImmediate="false" itemID="5defe561-00000436" lastModified="1575837997"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 67.xml" loadImmediate="false" itemID="5defe561-00000435" lastModified="1575837998"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 68.xml" loadImmediate="false" itemID="5defe561-00000434" lastModified="1575837999"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 69.xml" loadImmediate="false" itemID="5defe561-00000433" lastModified="1575838000"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 70.xml" loadImmediate="false" itemID="5defe561-00000432" lastModified="1575838001"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 71.xml" loadImmediate="false" itemID="5defe561-00000431" lastModified="1575838001"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 72.xml" loadImmediate="false" itemID="5defe561-00000430" lastModified="1575838002"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 73.xml" loadImmediate="false" itemID="5defe561-0000042f" lastModified="1575838003"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 74.xml" loadImmediate="false" itemID="5defe561-0000042e" lastModified="1575838003"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 75.xml" loadImmediate="false" itemID="5defe561-0000042d" lastModified="1575838004"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 76.xml" loadImmediate="false" itemID="5defe561-00000420" lastModified="1575838016"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 77.xml" loadImmediate="false" itemID="5defe561-0000041f" lastModified="1575838017"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 78.xml" loadImmediate="false" itemID="5defe561-0000041e" lastModified="1575838018"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 79.xml" loadImmediate="false" itemID="5defe561-0000041d" lastModified="1575838018"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 80.xml" loadImmediate="false" itemID="5defe561-0000041c" lastModified="1575838019"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 81.xml" loadImmediate="false" itemID="5defe561-0000041b" lastModified="1575838019"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 82.xml" loadImmediate="false" itemID="5defe561-0000041a" lastModified="1575838020"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 83.xml" loadImmediate="false" itemID="5defe561-00000419" lastModified="1575838021"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 85.xml" loadImmediate="false" itemID="5defe561-00000418" lastModified="1575838022"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 86.xml" loadImmediate="false" itemID="5defe561-00000417" lastModified="1575838023"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 87.xml" loadImmediate="false" itemID="5defe561-00000416" lastModified="1575838024"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 88.xml" loadImmediate="false" itemID="5defe561-00000415" lastModified="1575838025"/>
+          <Include href="copia Copia de cabezaMaestra 2.xml" itemID="5dffd455-000000c4" lastModified="1577047168"/>
+          <Include href="Copia de brazo.xml" itemIcon="1" loadImmediate="false" itemID="5ddc0814-0000012a" lastModified="1574713872"/>
+          <Include href="Copia de brazo 2.xml" itemIcon="1" loadImmediate="false" itemID="5ddc1031-0000032d" lastModified="1574703166"/>
+          <Include href="Copia de brazo 3.xml" itemIcon="1" loadImmediate="false" itemID="5ddc27d3-00000463" lastModified="1574709206"/>
+          <Include href="Copia de cabezaMaestra.xml" itemID="5ddc34aa-00000aa1" lastModified="1574712597"/>
+          <Include href="Copia de cabezaMaestra 2.xml" itemID="5ddc3527-00000b08" lastModified="1574712761"/>
+          <Include href="Copia de cabezaMaestra 3.xml" itemID="5ddc3585-00000b20" lastModified="1574712742"/>
+          <Include href="Copia de Símbolo 45 2 2.xml" itemIcon="1" loadImmediate="false" itemID="5de98253-00000137" lastModified="1575838134"/>
+          <Include href="Copia de Símbolo 176.xml" itemIcon="1" loadImmediate="false" itemID="5ddc085c-0000013a" lastModified="1574713896"/>
+          <Include href="Copia de Símbolo 176 2.xml" itemIcon="1" loadImmediate="false" itemID="5ddc1467-0000038d" lastModified="1574713947"/>
+          <Include href="Copia de Símbolo 176 3.xml" itemIcon="1" loadImmediate="false" itemID="5ddc294c-00000473" lastModified="1574713987"/>
+          <Include href="Copia de Símbolo 177.xml" itemIcon="1" loadImmediate="false" itemID="5ddc07e5-00000101" lastModified="1574710740"/>
+          <Include href="Copia de Símbolo 177 2.xml" itemIcon="1" loadImmediate="false" itemID="5ddc0802-00000126" lastModified="1574702337"/>
+          <Include href="Copia de Símbolo 177 3.xml" itemIcon="1" loadImmediate="false" itemID="5ddc0f95-0000025c" lastModified="1574703006"/>
+          <Include href="Copia de Símbolo 177 4.xml" itemIcon="1" loadImmediate="false" itemID="5ddc27c4-0000045f" lastModified="1574709193"/>
+          <Include href="Copia de Símbolo 178.xml" itemIcon="1" loadImmediate="false" itemID="5ddc084e-00000136" lastModified="1574701141"/>
+          <Include href="Copia de Símbolo 178 3.xml" itemIcon="1" loadImmediate="false" itemID="5ddc288f-0000046f" lastModified="1574709395"/>
+          <Include href="Copia de Símbolo 179.xml" itemIcon="1" loadImmediate="false" itemID="5cfacb36-0000041e" lastModified="1559962348"/>
+          <Include href="Copia de Símbolo 180.xml" itemIcon="1" loadImmediate="false" itemID="5ddc0830-00000132" lastModified="1574713883"/>
+          <Include href="Copia de Símbolo 180 2.xml" itemIcon="1" loadImmediate="false" itemID="5ddc12ef-0000035c" lastModified="1574713931"/>
+          <Include href="Copia de Símbolo 180 3.xml" itemIcon="1" loadImmediate="false" itemID="5ddc27de-0000046b" lastModified="1574720496"/>
+          <Include href="copia Símbolo 36.xml" loadImmediate="false" itemID="5c4250fe-00001ba1" lastModified="1547850241"/>
+          <Include href="copia Símbolo 37.xml" loadImmediate="false" itemID="5c4250fe-00001ba2" lastModified="1547850251"/>
+          <Include href="Interpolación 1.xml" itemIcon="1" loadImmediate="false" itemID="5cfad543-000004a6" lastModified="1559942467"/>
+          <Include href="Interpolación 2.xml" itemIcon="1" loadImmediate="false" itemID="5cfae2c9-0000079c" lastModified="1559945929"/>
+          <Include href="mainmenu/copia Símbolo 18.xml" itemIcon="1" loadImmediate="false" itemID="5d13b96d-000005c9" lastModified="1560963403"/>
+          <Include href="mainmenu/copia Símbolo 50.xml" itemIcon="1" loadImmediate="false" itemID="5d13b434-000004ff" lastModified="1565216144"/>
+          <Include href="mainmenu/Símbolo 6.xml" loadImmediate="false" itemID="5cff1b39-0000064a" lastModified="1547848676"/>
+          <Include href="mainmenu/Símbolo 7.xml" loadImmediate="false" itemID="5cff1b39-0000064b" lastModified="1547848678"/>
+          <Include href="mainmenu/Símbolo 8.xml" itemIcon="1" loadImmediate="false" itemID="5d13b434-000004f4" lastModified="1561572507"/>
+          <Include href="mainmenu/Símbolo 10.xml" loadImmediate="false" itemID="5d13b434-000004fb" lastModified="1561043610"/>
+          <Include href="mainmenu/Símbolo 44.xml" itemIcon="1" loadImmediate="false" itemID="5d13b434-000004f7" lastModified="1565216208"/>
+          <Include href="mainmenu/Símbolo 176.xml" itemIcon="1" loadImmediate="false" itemID="5cff1b3b-00000924" lastModified="1559942310"/>
+          <Include href="pelota.xml" itemIcon="1" itemID="5c27f5e2-0000012a" lastModified="1581694358"/>
+          <Include href="seleccionMundos.xml" itemID="5dd44110-00000caf" lastModified="1581694166"/>
+          <Include href="sombrapelo.xml" itemIcon="1" loadImmediate="false" itemID="5e46bd93-00000504" lastModified="1581694593"/>
+          <Include href="Symbol 31.xml" loadImmediate="false" itemID="5c3d088a-00000137" lastModified="1574728947"/>
+          <Include href="Símbolo 3.xml" itemIcon="1" loadImmediate="false" itemID="5c4216ed-00000066" lastModified="1565216166"/>
+          <Include href="Símbolo 5.xml" loadImmediate="false" itemID="5dd443a6-000010eb" lastModified="1574192038"/>
+          <Include href="Símbolo 6.xml" loadImmediate="false" itemID="5dd443a7-000010f0" lastModified="1574192039"/>
+          <Include href="Símbolo 7.xml" loadImmediate="false" itemID="5dd44c02-000022a2" lastModified="1575673293"/>
+          <Include href="Símbolo 11.xml" loadImmediate="false" itemID="5ded6409-00000466" lastModified="1575838932"/>
+          <Include href="Símbolo 19.xml" itemIcon="1" loadImmediate="false" itemID="5d0aa122-00000065" lastModified="1560979108"/>
+          <Include href="Símbolo 21.xml" itemIcon="1" loadImmediate="false" itemID="5d0aa666-0000006e" lastModified="1560979046"/>
+          <Include href="Símbolo 22.xml" itemIcon="1" loadImmediate="false" itemID="5d0aa676-00000072" lastModified="1560979079"/>
+          <Include href="Símbolo 23.xml" itemIcon="1" loadImmediate="false" itemID="5d0aa6c1-00000076" lastModified="1560979138"/>
+          <Include href="Símbolo 24.xml" itemIcon="1" loadImmediate="false" itemID="5d0aa6cc-0000007a" lastModified="1560979148"/>
+          <Include href="Símbolo 25.xml" itemIcon="1" loadImmediate="false" itemID="5d0aa6d3-0000007e" lastModified="1560979155"/>
+          <Include href="Símbolo 26.xml" itemIcon="1" loadImmediate="false" itemID="5d0aa6db-00000082" lastModified="1560979163"/>
+          <Include href="Símbolo 27.xml" itemIcon="1" loadImmediate="false" itemID="5d0aa6de-00000086" lastModified="1560979166"/>
+          <Include href="Símbolo 28.xml" itemIcon="1" loadImmediate="false" itemID="5d0aa6fb-0000008a" lastModified="1561061408"/>
+          <Include href="Símbolo 29.xml" itemIcon="1" loadImmediate="false" itemID="5d0aa701-00000096" lastModified="1561061394"/>
+          <Include href="Símbolo 30.xml" itemIcon="1" loadImmediate="false" itemID="5d0aa896-000000a5" lastModified="1560979606"/>
+          <Include href="Símbolo 31.xml" itemIcon="1" loadImmediate="false" itemID="5d0aa89a-000000a9" lastModified="1560979610"/>
+          <Include href="Símbolo 32.xml" itemIcon="1" loadImmediate="false" itemID="5d0aa8a2-000000ad" lastModified="1560979618"/>
+          <Include href="Símbolo 35.xml" loadImmediate="false" itemID="5c424bfb-000000f6" lastModified="1565216199"/>
+          <Include href="Símbolo 36.xml" itemIcon="1" loadImmediate="false" itemID="5c3cc7d4-0000005e" lastModified="1547487188"/>
+          <Include href="Símbolo 37.xml" loadImmediate="false" itemID="5c424bfd-000000fa" lastModified="1547848701"/>
+          <Include href="Símbolo 39.xml" loadImmediate="false" itemID="5c6d5687-000009c4" lastModified="1574728442"/>
+          <Include href="Símbolo 41.xml" loadImmediate="false" itemID="5c424bfe-00000100" lastModified="1565216188"/>
+          <Include href="Símbolo 42.xml" loadImmediate="false" itemID="5c424c0a-00000106" lastModified="1547848714"/>
+          <Include href="Símbolo 45.xml" itemIcon="1" loadImmediate="false" itemID="5de95d5e-00000093" lastModified="1575838010"/>
+          <Include href="Símbolo 55.xml" loadImmediate="false" itemID="5deada12-00000d86" lastModified="1575672530"/>
+          <Include href="Símbolo 56.xml" itemIcon="1" loadImmediate="false" itemID="5d13b070-00000055" lastModified="1561571440"/>
+          <Include href="Símbolo 57.xml" itemIcon="1" loadImmediate="false" itemID="5d13b077-00000064" lastModified="1561571447"/>
+          <Include href="Símbolo 58.xml" loadImmediate="false" itemID="5ded5f3a-000000bf" lastModified="1575839904"/>
+          <Include href="Símbolo 59.xml" loadImmediate="false" itemID="5ded5f3c-000000c7" lastModified="1575839909"/>
+          <Include href="Símbolo 65.xml" loadImmediate="false" itemID="5ded612d-00000114" lastModified="1575837997"/>
+          <Include href="Símbolo 66.xml" loadImmediate="false" itemID="5ded612d-00000118" lastModified="1575837997"/>
+          <Include href="Símbolo 67.xml" loadImmediate="false" itemID="5ded612e-0000011c" lastModified="1575837998"/>
+          <Include href="Símbolo 68.xml" loadImmediate="false" itemID="5ded612f-00000120" lastModified="1575837999"/>
+          <Include href="Símbolo 69.xml" loadImmediate="false" itemID="5ded6130-00000124" lastModified="1575838000"/>
+          <Include href="Símbolo 70.xml" loadImmediate="false" itemID="5ded6131-00000128" lastModified="1575838001"/>
+          <Include href="Símbolo 71.xml" loadImmediate="false" itemID="5ded6131-0000012c" lastModified="1575838001"/>
+          <Include href="Símbolo 72.xml" loadImmediate="false" itemID="5ded6132-00000130" lastModified="1575838002"/>
+          <Include href="Símbolo 73.xml" loadImmediate="false" itemID="5ded6132-00000134" lastModified="1575838003"/>
+          <Include href="Símbolo 74.xml" loadImmediate="false" itemID="5ded6133-00000138" lastModified="1575838003"/>
+          <Include href="Símbolo 75.xml" loadImmediate="false" itemID="5ded6134-0000013c" lastModified="1575838004"/>
+          <Include href="Símbolo 84.xml" loadImmediate="false" itemID="5c6d568f-000009c9" lastModified="1574728457"/>
+          <Include href="Símbolo 89.xml" loadImmediate="false" itemID="5ded61a7-00000197" lastModified="1575838119"/>
+          <Include href="Símbolo 90.xml" loadImmediate="false" itemID="5ded61aa-0000019b" lastModified="1575838122"/>
+          <Include href="Símbolo 91.xml" loadImmediate="false" itemID="5ded61ab-0000019f" lastModified="1575838123"/>
+          <Include href="Símbolo 92.xml" loadImmediate="false" itemID="5ded61ab-000001a3" lastModified="1575838123"/>
+          <Include href="Símbolo 93.xml" loadImmediate="false" itemID="5ded61ac-000001a7" lastModified="1575838124"/>
+          <Include href="Símbolo 94.xml" loadImmediate="false" itemID="5ded61ad-000001ab" lastModified="1575838125"/>
+          <Include href="Símbolo 95.xml" loadImmediate="false" itemID="5ded61ad-000001af" lastModified="1575838125"/>
+          <Include href="Símbolo 96.xml" loadImmediate="false" itemID="5ded61ae-000001b3" lastModified="1575838126"/>
+          <Include href="Símbolo 97.xml" loadImmediate="false" itemID="5ded61af-000001b7" lastModified="1575838127"/>
+          <Include href="Símbolo 98.xml" loadImmediate="false" itemID="5ded61af-000001bb" lastModified="1575838127"/>
+          <Include href="Símbolo 99.xml" loadImmediate="false" itemID="5ded61b0-000001bf" lastModified="1575838128"/>
+          <Include href="Símbolo 100.xml" loadImmediate="false" itemID="5ded61b1-000001c3" lastModified="1575838129"/>
+          <Include href="Símbolo 101.xml" loadImmediate="false" itemID="5ded61b2-000001c7" lastModified="1575838130"/>
+          <Include href="Símbolo 102.xml" loadImmediate="false" itemID="5ded62e3-00000247" lastModified="1575838490"/>
+          <Include href="Símbolo 175.xml" itemIcon="1" loadImmediate="false" itemID="5cfab943-000001e7" lastModified="1559945076"/>
+          <Include href="Símbolo 177.xml" itemIcon="1" loadImmediate="false" itemID="5cfac293-000003d2" lastModified="1574700978"/>
+          <Include href="Símbolo 178.xml" itemIcon="1" loadImmediate="false" itemID="5cfac29c-000003d6" lastModified="1559963277"/>
+          <Include href="Símbolo 179.xml" itemIcon="1" loadImmediate="false" itemID="5cfac2a6-000003da" lastModified="1559938006"/>
+          <Include href="Símbolo 180.xml" itemIcon="1" loadImmediate="false" itemID="5cfac2b9-000003de" lastModified="1559963056"/>
+          <Include href="Símbolo 182.xml" itemIcon="1" loadImmediate="false" itemID="5cfae753-00000820" lastModified="1581694330"/>
+          <Include href="w1.xml" itemIcon="1" itemID="5e024ced-0000082e" lastModified="1581620358"/>
+          <Include href="w2.xml" itemIcon="1" itemID="5e024ce4-0000082c" lastModified="1581620358"/>
+          <Include href="w4.xml" itemIcon="1" itemID="5e024d22-00000834" lastModified="1581620370"/>
+          <Include href="w5.xml" itemIcon="1" itemID="5e024d0b-00000831" lastModified="1581694224"/>
+          <Include href="ws.xml" loadImmediate="false" itemID="5dddaed2-000029a4" lastModified="1581694171"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Escena 1">
+               <layers>
+                    <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="seleccionMundos" selected="true">
+                                             <transformationPoint>
+                                                  <Point x="961" y="545.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

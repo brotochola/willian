@@ -1,0 +1,170 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="arcoAtras" itemID="5c3d097a-000001ec" linkageExportForAS="true" linkageClassName="arcoAtras" lastModified="1580855782">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="arcoAtras" currentFrame="16">
+      <layers>
+        <DOMLayer name="Capa_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 14">
+                  <matrix>
+                    <Matrix tx="-11.2" ty="-31.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="138.75" y="224.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 24">
+                  <matrix>
+                    <Matrix tx="18.95" ty="13.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="172.75" y="253.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 23">
+                  <matrix>
+                    <Matrix tx="18.8" ty="13.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="172.75" y="254.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 22">
+                  <matrix>
+                    <Matrix tx="18.55" ty="13.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="172.8" y="252.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 23">
+                  <matrix>
+                    <Matrix tx="18.8" ty="13.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="172.75" y="254.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 19">
+                  <matrix>
+                    <Matrix tx="18.85" ty="13.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="173.1" y="252.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 24">
+                  <matrix>
+                    <Matrix tx="18.95" ty="13.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="172.75" y="253.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 17">
+                  <matrix>
+                    <Matrix tx="18.75" ty="13.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="174.45" y="253.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 24">
+                  <matrix>
+                    <Matrix tx="18.95" ty="13.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="172.75" y="253.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo 108" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="17" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo 15" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 15" selected="true">
+                  <matrix>
+                    <Matrix c="0.939559936523438" tx="-130.85" ty="317.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="51.3" y="5.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo 108" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="17" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

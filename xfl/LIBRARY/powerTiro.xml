@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="powerTiro" itemID="5dded74d-0000062a" lastModified="1574885322">
+  <timeline>
+    <DOMTimeline name="powerTiro" currentFrame="4">
+      <layers>
+        <DOMLayer name="5.png" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 73gg35g3g3g">
+                  <matrix>
+                    <Matrix tx="772" ty="378"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 113gg35g3g3g">
+                  <matrix>
+                    <Matrix tx="808" ty="288"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 133gg35g3g3g">
+                  <matrix>
+                    <Matrix tx="934" ty="264"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 143gg35g3g3g">
+                  <matrix>
+                    <Matrix tx="808" ty="365"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 153gg35g3g3g">
+                  <matrix>
+                    <Matrix tx="788" ty="333"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Carpeta de elementos duplicados/Símbolo 88" itemID="5defe561-00000415" lastModified="1575838025">
+  <timeline>
+    <DOMTimeline name="Símbolo 88">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#007F00"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#006633"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!86 0S6[116 16 148 25!148 25[276 49 384 2!384 2[193 707 382 1230!382 1230[385 1238 388 1246!388 1246[683 2045 513 2723!513 2723[509 2738 505 2753!505 2753|410 2531!410 2531|406 2524!406 2524|274 2717!274 2717[263 2732 252 2747!252 2747
+[393 2128 86 1245!86 1245[-85 636 86 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

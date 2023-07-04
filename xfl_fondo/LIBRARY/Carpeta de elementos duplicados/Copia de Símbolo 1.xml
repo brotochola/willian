@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Carpeta de elementos duplicados/Copia de Símbolo 1" itemID="5d94e132-00000110" symbolType="graphic" lastModified="1570038011">
+  <timeline>
+    <DOMTimeline name="Copia de Símbolo 1">
+      <layers>
+        <DOMLayer name="fffffdd0013_png" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="13" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="fffffdd0013.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fffffdd0007_png" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="fffffdd0007.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fffffdd0001_png" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="fffffdd0001.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="13" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Carpeta de elementos duplicados/Símbolo 69" itemID="5defe561-00000433" lastModified="1575838000">
+  <timeline>
+    <DOMTimeline name="Símbolo 69">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E6C200"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#BF6A07"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!32 0S6[62 16 94 25!94 25[223 49 332 1!332 1[244 687 330 1235!330 1235[331 1243 333 1252!333 1252[480 2033 415 2737!415 2737[408 2742 401 2748!401 2748|282 2542!282 2542|278 2540!278 2540|153 2737!153 2737[145 2740 137 2742!137 2742[181
+ 2086 32 1245!32 1245[-32 632 32 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Carpeta de elementos duplicados/Símbolo 80" itemID="5defe561-0000041c" lastModified="1575838019">
+  <timeline>
+    <DOMTimeline name="Símbolo 80">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#008C00"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#006633"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!8 0S6[38 15 69 24!69 24[199 49 308 1!308 1[268 677 307 1238!307 1238[308 1246 308 1255!308 1255[388 2028 371 2743!371 2743[363 2744 355 2745!355 2745|225 2547!225 2547|221 2547!221 2547|99 2746!99 2746[92 2743 85 2741!85 2741[86 2067
+ 8 1245!8 1245[-7 630 8 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

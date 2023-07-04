@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Carpeta de elementos duplicados/Símbolo 25" itemID="5dc08913-0000022b" symbolType="graphic" lastModified="1572046295">
+  <timeline>
+    <DOMTimeline name="Símbolo 25">
+      <layers>
+        <DOMLayer name="Capa_1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="gre.png">
+                  <matrix>
+                    <Matrix a="0.402618408203125" d="0.402618408203125" tx="78.95" ty="-0.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="pixel.png">
+                  <matrix>
+                    <Matrix a="0.402618408203125" d="0.402618408203125" tx="159.45" ty="-0.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Copia de juega.png">
+                  <matrix>
+                    <Matrix a="0.271942138671875" d="0.271942138671875" tx="240" ty="-0.4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Copia de aduken.png">
+                  <matrix>
+                    <Matrix a="0.402297973632813" d="0.402297973632813" tx="-1.5" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.35"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="cielo2" itemID="5dd44e96-000029cb" linkageExportForAS="true" linkageClassName="cielo1" lastModified="1576003739">
+  <timeline>
+    <DOMTimeline name="cielo2">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 11">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-24"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="270.75" y="188"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 11">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="1029"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="270.8" y="188"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

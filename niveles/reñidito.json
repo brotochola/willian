@@ -1,0 +1,228 @@
+{
+  "_debug_cejas": [
+    "cejas_willian",
+    "cejas_1",
+    "cejas_2",
+    "cejas_3"
+  ],
+  "_debug_pelos": [
+    "willian",
+    "negro1",
+    "rubio1",
+    "willian_trencitas",
+    "willian2",
+    "willian3",
+    "disco1",
+    "johnny_bravo",
+    "johnyy_bravo2",
+    "johnny_bravo3"
+  ],
+  "arco": {
+    "x": 1650
+  },
+  "arquero": {
+    "_debug_opciones_accionAnteWillian": [
+      "reventarla",
+      "atajada"
+    ],
+    "_debug_opciones_accionCuandoVeAWillian": [
+      "corriendo",
+      "trotando",
+      "caminando",
+      "vuelveALaLinea",
+      "esperaEnElAreaChica",
+      "esperaEnElAreaGrande"
+    ],
+    "aQVelDaReboteAbajo": 200,
+    "aQVelDaReboteArriba": 200,
+    "aQVelDaReboteMedio": 200,
+    "aQVelLaAtajaAbajo": 0,
+    "aQVelLaAtajaArriba": 0,
+    "aQVelLaAtajaMedio": 0,
+    "aQueDistanciaVeAWillian": 2000,
+    "accionAnteWillian": "reventarla",
+    "accionCuandoVeAWillian": "esperaEnElAreaChica",
+    "altura": 140,
+    "cara": {
+      "boca": 1,
+      "cejas": "cejas_willian",
+      "ojos": 0,
+      "pelo": "rubio1",
+      "piel": 1
+    },
+    "empieza": "parado",
+    "flanqueableConGambeta360": false,
+    "fuerzaX": -50,
+    "fuerzaY": -50,
+    "nombre": "arqui",
+    "saltaAnteSombrerito": true,
+    "saltoMax": 150,
+    "velocidadMax": 210,
+    "x": 1700,
+    "y": 750
+  },
+  "camisetaContrincantes": "brasil",
+  "camisetaRival": 3,
+  "camisetaWillian": "chelsea",
+  "descripcion": "aca va descripcion del nivel, contanos cómo se gana",
+  "enemigos": [
+    {
+      "_debug_opciones_queHaceCuandoLaRecupera": [
+        "revienta",
+        "lePegaAlRas",
+        "lePegaParaArriba",
+        "pegarleDespacitoParaAdelante",
+        "lePegaParaAtrasDespacio",
+        "correHaciaAdelanteConLaPelota",
+        "seResbala",
+        "laDomina"
+      ],
+      "aQueDistanciaVeAWillian": 800,
+      "accionDpsDePegarle": "parado",
+      "altura": 1.8,
+      "camiseta": "brasil",
+      "cara": {
+        "boca": 1,
+        "cejas": "cejas_1",
+        "flequillo": "negro1",
+        "ojos": 2,
+        "pelo": "negro1",
+        "piel": 1
+      },
+      "empieza": "caminando",
+      "flanqueableConGambeta1": false,
+      "flanqueableConGambeta2": false,
+      "flanqueableConGambeta360": true,
+      "flanqueableConOneTwo": false,
+      "leGanaAWillianCabeceando": false,
+      "nombre": "Chango",
+      "queHaceCuandoLaRecupera": "parado",
+      "queHaceCuandoVeAWillian": "salto",
+      "saltaAnteBarrida": false,
+      "saltaAnteSombrerito": false,
+      "saltaParaCabecear": false,
+      "saltoMax": 150,
+      "seBarreCuandoTieneAWillianA2m": true,
+      "velocidadMax": 200,
+      "x": -500,
+      "y": 750
+    },
+    {
+      "_debug_opciones_queHaceCuandoLaRecupera": [
+        "revienta",
+        "lePegaAlRas",
+        "lePegaParaArriba",
+        "pegarleDespacitoParaAdelante",
+        "lePegaParaAtrasDespacio",
+        "correHaciaAdelanteConLaPelota",
+        "seResbala",
+        "laDomina"
+      ],
+      "aQueDistanciaVeAWillian": 800,
+      "accionDpsDePegarle": "parado",
+      "altura": 1.8,
+      "camiseta": "brasil",
+      "cara": {
+        "boca": 1,
+        "cejas": "cejas_1",
+        "flequillo": "negro1",
+        "ojos": 2,
+        "pelo": "negro1",
+        "piel": 1
+      },
+      "empieza": "caminando",
+      "flanqueableConGambeta1": false,
+      "flanqueableConGambeta2": false,
+      "flanqueableConGambeta360": true,
+      "flanqueableConOneTwo": false,
+      "leGanaAWillianCabeceando": false,
+      "nombre": "Chango",
+      "queHaceCuandoLaRecupera": "revienta",
+      "queHaceCuandoVeAWillian": "barrida",
+      "saltaAnteBarrida": false,
+      "saltaAnteSombrerito": false,
+      "saltaParaCabecear": false,
+      "saltoMax": 150,
+      "seBarreCuandoTieneAWillianA2m": true,
+      "velocidadMax": 200,
+      "x": -440,
+      "y": 750
+    },
+    {
+      "_debug_opciones_queHaceCuandoLaRecupera": [
+        "revienta",
+        "lePegaAlRas",
+        "lePegaParaArriba",
+        "pegarleDespacitoParaAdelante",
+        "lePegaParaAtrasDespacio",
+        "correHaciaAdelanteConLaPelota",
+        "seResbala",
+        "laDomina"
+      ],
+      "aQueDistanciaVeAWillian": 800,
+      "accionDpsDePegarle": "parado",
+      "altura": 1.8,
+      "camiseta": "brasil",
+      "cara": {
+        "boca": 1,
+        "cejas": "cejas_1",
+        "flequillo": "negro1",
+        "ojos": 2,
+        "pelo": "negro1",
+        "piel": 1
+      },
+      "empieza": "caminando",
+      "flanqueableConGambeta1": false,
+      "flanqueableConGambeta2": false,
+      "flanqueableConGambeta360": true,
+      "flanqueableConOneTwo": false,
+      "leGanaAWillianCabeceando": false,
+      "nombre": "Chango",
+      "queHaceCuandoLaRecupera": "revienta",
+      "queHaceCuandoVeAWillian": "parado",
+      "saltaAnteBarrida": false,
+      "saltaAnteSombrerito": false,
+      "saltaParaCabecear": false,
+      "saltoMax": 150,
+      "seBarreCuandoTieneAWillianA2m": true,
+      "velocidadMax": 200,
+      "x": 200,
+      "y": 750
+    }
+  ],
+  "estrella": {
+    "x": 100,
+    "y": 270
+  },
+  "fondo": "potrero",
+  "key": "-LkQ_Qv3lDVxbJTDPcl5",
+  "mundo": 4,
+  "nombre": "reñidito",
+  "orden": 2,
+  "pelota": {
+    "angularVel": 0,
+    "fuerzaX": 30,
+    "fuerzaY": 0,
+    "x": -750,
+    "y": 200
+  },
+  "piso": "cesped",
+  "tiempoObjetivo": 3,
+  "willian": {
+    "accionDpsDePegarle": "corriendo",
+    "camiseta": "corinthians",
+    "cara": {
+      "boca": 0,
+      "cejas": "cejas_willian",
+      "ojos": 0,
+      "pelo": "willian2",
+      "piel": 0
+    },
+    "empieza": "corriendo",
+    "nombre": "Willian",
+    "saltoMax": 150,
+    "velocidadMax": 250,
+    "x": -1300,
+    "y": 750
+  }
+}

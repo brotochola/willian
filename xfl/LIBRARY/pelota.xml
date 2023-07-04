@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pelota" itemID="5c27f5e2-0000012a" linkageExportForAS="true" linkageClassName="pelota" symbolType="graphic" lastModified="1580597890" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="pelota">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 31" selected="true" centerPoint3DX="-0.9" centerPoint3DY="-0.85">
+                  <matrix>
+                    <Matrix a="0.849990844726563" d="0.849990844726563" tx="-0.9" ty="-0.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol 1 copy" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 39" name="pelotaGiratoria" selected="true" centerPoint3DX="-1.35" centerPoint3DY="1.15">
+                  <matrix>
+                    <Matrix a="0.849990844726563" d="0.849990844726563" tx="-35.65" ty="-33.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.35" y="40.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol 3 copy 3" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 84" selected="true" centerPoint3DX="-0.9" centerPoint3DY="-0.8">
+                  <matrix>
+                    <Matrix a="0.849990844726563" d="0.849990844726563" tx="-37.5" ty="-37.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.05" y="42.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

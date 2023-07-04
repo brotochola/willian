@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Copia de Símbolo 1" itemID="5d9250e9-0000009f" symbolType="graphic" lastModified="1570490656">
+  <timeline>
+    <DOMTimeline name="Copia de Símbolo 1">
+      <layers>
+        <DOMLayer name="Capa_2" color="#9933CC" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="95" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Copia de Símbolo 1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.742446899414063" d="0.742446899414063" tx="-21.7" ty="-59.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="159" y="113.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Copia de Símbolo 1" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.19549560546875" b="-0.0022735595703125" d="1.19549560546875" tx="146.35" ty="-139.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="159.05" y="113.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="95" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 38" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix b="-0.0350799560546875" tx="-2.6" ty="-117.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="245.1" y="92.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

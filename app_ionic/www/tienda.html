@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<!--
+	NOTES:
+	1. All tokens are represented by '$' sign in the template.
+	2. You can write your code only wherever mentioned.
+	3. All occurrences of existing tokens will be replaced by their appropriate values.
+	4. Blank lines will be removed automatically.
+	5. Remove unnecessary comments before creating your template.
+-->
+<html>
+  
+  <head>
+    <link rel="stylesheet" href="tienda/css/style.css">
+    <link rel="stylesheet" href="tienda/css/owl.carousel.min.css">
+    
+    <script src="tienda/js/jquery-3.4.1.min.js"></script>
+    <script src="tienda/js/owl.carousel.min.js"></script>
+  </head>
+  
+  <body>
+    <header>
+      <span class="monedas">750</span>
+      <div class="titulo">Avatar</div>
+      <span class="billetes">750</span>
+    </header>
+    
+    <div class="contenido">
+      <ul class="principal">
+        <li class="active">
+          <div class="titulo">
+            <span class="item">
+              <img src="tienda/img/items/item1.png" />
+            </span>
+            PELOS / SOMBREROS
+          </div>
+          
+          <!-- ITEMS PARA COMPRAR -->
+          <div class="desplegable">
+            <div class="opciones">
+              <ul class="items">
+                <li>
+                  <img src="tienda/img/items/item1_big.png" />
+                </li>
+                <li>
+                  <img src="tienda/img/items/item2_big_locked.png" />
+                </li>
+                <li>
+                  <img src="tienda/img/items/item2_big_locked.png" />
+                </li>
+                <li>
+                  <img src="tienda/img/items/item2_big_locked.png" />
+                </li>
+                <li>
+                  <img src="tienda/img/items/item2_big_locked.png" />
+                </li>
+                <li>
+                  <img src="tienda/img/items/item2_big_locked.png" />
+                </li>
+              </ul>
+            </div>
+              
+              <div class="info">
+                <div class="info1">WORLD CUP <span class="monedas">750</span></div>
+                <div class="info2">BRAZIL JUNE 2014 <span class="billetes">750</span></div>
+                <button>Buy</button>
+              </div>
+          </div>
+          <!-- FIN ITEMS PARA COMPRAR -->
+          
+        </li>
+        <li>
+          <div class="titulo">
+            <span class="item">
+              <img src="tienda/img/items/item2.png" />
+            </span>
+            VESTUARIO
+          </div>
+          
+          <!-- ITEMS PARA COMPRAR -->
+          <div class="desplegable">
+            <div class="opciones">
+              <ul class="items">
+                <li>
+                  <img src="tienda/img/items/item1_big.png" />
+                </li>
+                <li>
+                  <img src="tienda/img/items/item2_big_locked.png" />
+                </li>
+                <li>
+                  <img src="tienda/img/items/item2_big_locked.png" />
+                </li>
+                <li>
+                  <img src="tienda/img/items/item2_big_locked.png" />
+                </li>
+                <li>
+                  <img src="tienda/img/items/item2_big_locked.png" />
+                </li>
+                <li>
+                  <img src="tienda/img/items/item2_big_locked.png" />
+                </li>
+              </ul>
+            </div>
+              
+              <div class="info">
+                <div class="info1">WORLD CUP <span class="monedas">750</span></div>
+                <div class="info2">BRAZIL JUNE 2014 <span class="billetes">750</span></div>
+                <button>Buy</button>
+              </div>
+          </div>
+          <!-- FIN ITEMS PARA COMPRAR -->
+        </li>
+        <li>
+          <div class="titulo">
+            <span class="item">
+              <img src="tienda/img/items/item3.png" />
+            </span>
+            PELOTAS
+          </div>
+        </li>
+        <li>
+          <div class="titulo">
+            <span class="item">
+              <img src="tienda/img/items/item4.png" />
+            </span>
+            BOTINES
+          </div>
+        </li>
+      </ul>
+    </div>
+  </body>
+  
+  <script>
+    $(document).ready(function(){
+      
+      $('.opciones ul.items').owlCarousel({
+        dots: false
+      });
+      
+      $('ul.principal li').on("click", function() {
+        $('ul.principal li').removeClass("active");
+        $(this).addClass("active");
+      });
+    });
+  </script>
+  
+</html>

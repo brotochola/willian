@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mainmenu/copia Símbolo 17 2" itemID="5d13b542-00000543" symbolType="graphic" lastModified="1556665945">
+  <timeline>
+    <DOMTimeline name="copia Símbolo 17 2">
+      <layers>
+        <DOMLayer name="Capa_1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mainmenu/copia Símbolo 1 3" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="8.85" ty="16.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="52" y="52.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="mainmenu/copia Símbolo 1 3" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.824691772460938" d="0.831817626953125" tx="214.95" ty="23.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="51.9" y="52.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo_1" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

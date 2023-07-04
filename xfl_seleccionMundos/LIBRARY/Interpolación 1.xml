@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interpolación 1" itemID="5cfad543-000004a6" symbolType="graphic" lastModified="1559942467">
+  <timeline>
+    <DOMTimeline name="Interpolación 1">
+      <layers>
+        <DOMLayer name="Capa_1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-66.35" ty="-401.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#BB8B62"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1320 8043S2|1323 8029!1323 8029|1334 8042!1334 8042|1320 8043"/>
+                    <Edge cubics="!1323 8029(;1323,8029 1334,8042 1334,8042q1323 8029 1334 8042);"/>
+                    <Edge cubics="!1334 8042(;1334,8042 1320,8043 1320,8043q1334 8042 1320 8043);"/>
+                    <Edge cubics="!1320 8043(;1321,8038 1322,8034 1323,8029q1320 8043Q1321 8036q1323 8029);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

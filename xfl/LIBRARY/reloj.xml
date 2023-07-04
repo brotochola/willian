@@ -1,0 +1,280 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="reloj" itemID="5e0a578b-000000e3" linkageExportForAS="true" linkageClassName="reloj" lastModified="1580855964">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="reloj" currentFrame="27">
+      <layers>
+        <DOMLayer name="Capa_4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop()]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="27" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="ma_20">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_21">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_22">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_23">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_24">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_25">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_26">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_27">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_28">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_29">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_30">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_31">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_32">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_33">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_34">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_35">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_36">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_37">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_38">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_39">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_40">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_41">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_42">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_43">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ma_44">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Carpeta de elementos duplicados/ma_45">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Carpeta de elementos duplicados/ma_46">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Carpeta de elementos duplicados/Mapa de bits 29">
+                  <matrix>
+                    <Matrix tx="-61" ty="-53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

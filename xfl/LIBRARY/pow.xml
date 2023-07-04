@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pow" itemID="5ddd6dd3-00001d32" linkageExportForAS="true" linkageClassName="pow" symbolType="graphic" lastModified="1574885349">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="pow" currentFrame="5">
+      <layers>
+        <DOMLayer name="Capa_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.parent.removeChild(this)
+this.stop();
+
+]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="5.png" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 73gg35g3g3g">
+                  <matrix>
+                    <Matrix tx="-183" ty="-151"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Mapa de bits 113gg35g3g3g">
+                  <matrix>
+                    <Matrix tx="-147" ty="-241"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Mapa de bits 133gg35g3g3g">
+                  <matrix>
+                    <Matrix tx="-21" ty="-265"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Mapa de bits 143gg35g3g3g">
+                  <matrix>
+                    <Matrix tx="-147" ty="-164"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 153gg35g3g3g">
+                  <matrix>
+                    <Matrix tx="-167" ty="-196"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

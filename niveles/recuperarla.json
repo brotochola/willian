@@ -1,0 +1,209 @@
+{
+  "_debug_cejas": [
+    "cejas_willian",
+    "cejas_1",
+    "cejas_2",
+    "cejas_3"
+  ],
+  "_debug_pelos": [
+    "willian",
+    "negro1",
+    "rubio1",
+    "willian_trencitas",
+    "willian2",
+    "willian3",
+    "disco1",
+    "johnny_bravo",
+    "johnyy_bravo2",
+    "johnny_bravo3"
+  ],
+  "amigos": [
+    {
+      "accionCuandoLaPelotaLoPasa": "parado",
+      "accionDpsDePegarle": "parado",
+      "altura": 1.8,
+      "camiseta": "corinthians",
+      "cara": {
+        "boca": 1,
+        "cejas": "cejas_willian",
+        "flequillo": "johnny_bravo",
+        "ojos": 0,
+        "pelo": "johnny_bravo",
+        "piel": 1
+      },
+      "empieza": "caminando",
+      "fuerzaX": 160,
+      "fuerzaY": -370,
+      "nombre": "charly",
+      "precision": 1,
+      "queHaceCuandoLaRecupera": "caminando",
+      "saltaParaPararla": false,
+      "saltoMax": 150,
+      "tiempoEsperaParaPasarselaAWillian": 0.6,
+      "velMaxParaPararla": 500,
+      "velocidadMax": 200,
+      "x": 2600,
+      "y": 750
+    }
+  ],
+  "arco": {
+    "x": 7500
+  },
+  "arquero": {
+    "_debug_opciones_accionAnteWillian": [
+      "reventarla",
+      "atajada"
+    ],
+    "_debug_opciones_accionCuandoVeAWillian": [
+      "corriendo",
+      "trotando",
+      "caminando",
+      "vuelveALaLinea",
+      "esperaEnElAreaChica",
+      "esperaEnElAreaGrande"
+    ],
+    "aQVelDaReboteAbajo": 99999,
+    "aQVelDaReboteArriba": 99999,
+    "aQVelDaReboteMedio": 99999,
+    "aQVelLaAtajaAbajo": 480,
+    "aQVelLaAtajaArriba": 450,
+    "aQVelLaAtajaMedio": 500,
+    "aQueDistanciaVeAWillian": 2000,
+    "accionAnteWillian": "reventarla",
+    "accionCuandoVeAWillian": "corriendo",
+    "altura": 140,
+    "cara": {
+      "boca": 1,
+      "cejas": "cejas_1",
+      "ojos": 1,
+      "pelo": 1,
+      "piel": 1
+    },
+    "empieza": "parado",
+    "flanqueableConGambeta360": false,
+    "fuerzaX": -50,
+    "fuerzaY": -50,
+    "nombre": "arqui",
+    "saltaAnteSombrerito": true,
+    "saltoMax": 150,
+    "velocidadMax": 210,
+    "x": 7300,
+    "y": 750
+  },
+  "camisetaContrincantes": "brasil",
+  "camisetaRival": 3,
+  "camisetaWillian": "corinthians",
+  "descripcion": "barrida",
+  "enemigos": [
+    {
+      "_debug_opciones_queHaceCuandoLaRecupera": [
+        "revienta",
+        "lePegaAlRas",
+        "lePegaParaArriba",
+        "pegarleDespacitoParaAdelante",
+        "lePegaParaAtrasDespacio",
+        "correHaciaAdelanteConLaPelota",
+        "seResbala",
+        "laDomina"
+      ],
+      "aQueDistanciaVeAWillian": 800,
+      "accionDpsDePegarle": "parado",
+      "altura": 1.8,
+      "camiseta": "brasil",
+      "cara": {
+        "boca": 1,
+        "cejas": "cejas_1",
+        "flequillo": "negro1",
+        "ojos": 2,
+        "pelo": "negro1",
+        "piel": 1
+      },
+      "empieza": "corriendo",
+      "flanqueableConGambeta360": true,
+      "nombre": "Chango",
+      "queHaceCuandoLaRecupera": "correHaciaAdelanteConLaPelota",
+      "queHaceCuandoVeAWillian": "corriendo",
+      "saltaAnteBarrida": false,
+      "saltaAnteSombrerito": false,
+      "saltaParaCabecear": false,
+      "saltoMax": 150,
+      "seBarreCuandoTieneAWillianA2m": true,
+      "velocidadMax": 200,
+      "x": 2000,
+      "y": 750
+    },
+    {
+      "_debug_opciones_queHaceCuandoLaRecupera": [
+        "revienta",
+        "lePegaAlRas",
+        "lePegaParaArriba",
+        "pegarleDespacitoParaAdelante",
+        "lePegaParaAtrasDespacio",
+        "correHaciaAdelanteConLaPelota",
+        "seResbala",
+        "laDomina"
+      ],
+      "aQueDistanciaVeAWillian": 999999,
+      "accionDpsDePegarle": "parado",
+      "altura": 1.8,
+      "camiseta": "brasil",
+      "cara": {
+        "boca": 1,
+        "cejas": "cejas_1",
+        "ojos": 0,
+        "pelo": "willian_trencitas",
+        "piel": 0
+      },
+      "empieza": "corriendo",
+      "flanqueableConGambeta360": true,
+      "nombre": "inmovil",
+      "queHaceCuandoLaRecupera": "corriendo",
+      "queHaceCuandoVeAWillian": "parado",
+      "saltaAnteBarrida": false,
+      "saltaAnteSombrerito": false,
+      "saltaParaCabecear": false,
+      "saltoMax": 150,
+      "seBarreCuandoTieneAWillianA2m": true,
+      "velocidadMax": 200,
+      "x": 4000,
+      "y": 750
+    }
+  ],
+  "estrella": {
+    "x": 100,
+    "y": 100
+  },
+  "fondo": "potrero",
+  "key": "-LkRV5fezGRXga7j34tj",
+  "mundo": 2,
+  "nombre": "7-recuperarla",
+  "orden": 5,
+  "pelota": {
+    "angularVel": 0.3,
+    "fuerzaX": 0,
+    "fuerzaY": 0,
+    "x": 1666,
+    "y": 700
+  },
+  "piso": "cesped",
+  "tiempoObjetivo": 3,
+  "willian": {
+    "accionDpsDePegarle": "corriendo",
+    "altura": 130,
+    "camiseta": "corinthians",
+    "cara": {
+      "boca": 0,
+      "cejas": "cejas_willian",
+      "ojos": 0,
+      "pelo": "willian3",
+      "piel": 0
+    },
+    "empieza": "corriendo",
+    "look": 0,
+    "nombre": "Willian",
+    "saltoMax": 150,
+    "velocidadMax": 250,
+    "x": -500,
+    "y": 750
+  }
+}

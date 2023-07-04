@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 62" itemID="5e152060-000001eb" symbolType="graphic" lastModified="1579301646">
+  <timeline>
+    <DOMTimeline name="Símbolo 62" currentFrame="22">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 52" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="149.2" y="156.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 53" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix ty="91.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.95" y="73.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

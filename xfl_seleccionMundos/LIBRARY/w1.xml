@@ -1,0 +1,3409 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="w1" itemID="5e024ced-0000082e" linkageExportForAS="true" linkageClassName="w1" symbolType="graphic" lastModified="1581620358" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="w1" currentFrame="64">
+      <layers>
+        <DOMLayer name="Capa_9" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="184.65" ty="26.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="1" centerPoint3DX="184.7" centerPoint3DY="32.2" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="185.4" ty="32.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="2" centerPoint3DX="186.95" centerPoint3DY="51.2" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="187.65" ty="51.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="3" centerPoint3DX="190.65" centerPoint3DY="82.8" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="191.35" ty="83.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="4" centerPoint3DX="195.9" centerPoint3DY="127.05" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="196.6" ty="127.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="5" centerPoint3DX="202.6" centerPoint3DY="183.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="203.3" ty="184.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="6" centerPoint3DX="210.8" centerPoint3DY="253.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="211.5" ty="254.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="7" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="221.2" ty="336.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="8" centerPoint3DX="221.2" centerPoint3DY="302.4" loop="loop">
+                  <matrix>
+                    <Matrix a="0.794662475585938" d="0.794662475585938" tx="221.95" ty="303.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="9" centerPoint3DX="220.1" centerPoint3DY="274.35" loop="loop">
+                  <matrix>
+                    <Matrix a="0.81207275390625" d="0.81207275390625" tx="220.85" ty="275.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="10" centerPoint3DX="217.1" centerPoint3DY="250.7" loop="loop">
+                  <matrix>
+                    <Matrix a="0.826797485351563" d="0.826797485351563" tx="217.85" ty="251.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="11" centerPoint3DX="212" centerPoint3DY="231.75" loop="loop">
+                  <matrix>
+                    <Matrix a="0.838851928710938" d="0.838851928710938" tx="212.75" ty="232.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="12" centerPoint3DX="204.5" centerPoint3DY="218.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.848220825195313" d="0.848220825195313" tx="205.3" ty="219"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="13" centerPoint3DX="195.6" centerPoint3DY="211.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.85491943359375" d="0.85491943359375" tx="196.4" ty="212.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="14" centerPoint3DX="188.95" centerPoint3DY="209.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.858932495117188" d="0.858932495117188" tx="189.75" ty="210.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" selected="true" symbolType="graphic" firstFrame="15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="187.4" ty="210.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="16" centerPoint3DX="184.6" centerPoint3DY="210.15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.858917236328125" d="0.858917236328125" tx="185.35" ty="210.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.7" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="17" centerPoint3DX="178.65" centerPoint3DY="211.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.85491943359375" d="0.85491943359375" tx="179.4" ty="212.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="18" centerPoint3DX="170.1" centerPoint3DY="218.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.84820556640625" d="0.84820556640625" tx="170.8" ty="219.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.7" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="19" centerPoint3DX="162.95" centerPoint3DY="233.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.838851928710938" d="0.838851928710938" tx="163.7" ty="233.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.7" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="20" centerPoint3DX="158.45" centerPoint3DY="252.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.8267822265625" d="0.8267822265625" tx="159.15" ty="253.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="21" centerPoint3DX="156.35" centerPoint3DY="276.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.81207275390625" d="0.81207275390625" tx="157.05" ty="277.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" centerPoint3DX="156.2" centerPoint3DY="304.15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.794647216796875" d="0.794647216796875" tx="156.9" ty="304.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.7" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="23" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="158.5" ty="336.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="2" centerPoint3DX="156.25" centerPoint3DY="302.8" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="156.95" ty="303.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="3" centerPoint3DX="156.55" centerPoint3DY="274.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="157.25" ty="275.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="4" centerPoint3DX="158.8" centerPoint3DY="251.4" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="159.5" ty="252.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="5" centerPoint3DX="163.3" centerPoint3DY="232.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="164" ty="233.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="6" centerPoint3DX="170.25" centerPoint3DY="218.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="170.95" ty="219.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="7" centerPoint3DX="178.7" centerPoint3DY="211.8" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="179.4" ty="212.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="8" centerPoint3DX="185.25" centerPoint3DY="209.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="185.95" ty="210.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="31" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="188.15" ty="210.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="10" centerPoint3DX="187.75" centerPoint3DY="212.55" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="188.45" ty="213.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="11" centerPoint3DX="188.75" centerPoint3DY="220.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="189.45" ty="220.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="12" centerPoint3DX="190.35" centerPoint3DY="232.75" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="191.05" ty="233.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="13" centerPoint3DX="192.65" centerPoint3DY="250.4" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="193.35" ty="251.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="14" centerPoint3DX="195.55" centerPoint3DY="273.15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="196.25" ty="273.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="15" centerPoint3DX="199.15" centerPoint3DY="300.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="199.85" ty="301.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" selected="true" symbolType="graphic" firstFrame="38" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="204.05" ty="334.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="17" centerPoint3DX="205.7" centerPoint3DY="296.75" loop="loop">
+                  <matrix>
+                    <Matrix a="0.794662475585938" d="0.794662475585938" tx="206.45" ty="297.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="18" centerPoint3DX="206.5" centerPoint3DY="265.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.81207275390625" d="0.81207275390625" tx="207.25" ty="266.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="19" centerPoint3DX="205.7" centerPoint3DY="239.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.826797485351563" d="0.826797485351563" tx="206.45" ty="239.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="20" centerPoint3DX="203.2" centerPoint3DY="217.55" loop="loop">
+                  <matrix>
+                    <Matrix a="0.838851928710938" d="0.838851928710938" tx="204" ty="218.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="21" centerPoint3DX="198.95" centerPoint3DY="201.15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.848220825195313" d="0.848220825195313" tx="199.7" ty="201.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" centerPoint3DX="192.85" centerPoint3DY="190.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.85491943359375" d="0.85491943359375" tx="193.6" ty="191.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.7" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="1" centerPoint3DX="186.75" centerPoint3DY="186.25" loop="loop">
+                  <matrix>
+                    <Matrix a="0.858932495117188" d="0.858932495117188" tx="187.5" ty="186.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.7" y="-2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="46" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="185.05" ty="186.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="47" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="3" centerPoint3DX="181.85" centerPoint3DY="185.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.858917236328125" d="0.858917236328125" tx="182.6" ty="186.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.7" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="4" centerPoint3DX="175.2" centerPoint3DY="187.55" loop="loop">
+                  <matrix>
+                    <Matrix a="0.85491943359375" d="0.85491943359375" tx="175.95" ty="188.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.7" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="5" centerPoint3DX="167.9" centerPoint3DY="199" loop="loop">
+                  <matrix>
+                    <Matrix a="0.84820556640625" d="0.84820556640625" tx="168.65" ty="199.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="6" centerPoint3DX="163.55" centerPoint3DY="217.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.838851928710938" d="0.838851928710938" tx="164.3" ty="217.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.7" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="7" centerPoint3DX="161.15" centerPoint3DY="240.15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.8267822265625" d="0.8267822265625" tx="161.85" ty="240.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="52" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="8" centerPoint3DX="160.2" centerPoint3DY="267.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.81207275390625" d="0.81207275390625" tx="160.95" ty="268.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="53" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="9" centerPoint3DX="160.5" centerPoint3DY="299.15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.794647216796875" d="0.794647216796875" tx="161.2" ty="299.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" selected="true" symbolType="graphic" firstFrame="54" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="162.7" ty="335.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="11" centerPoint3DX="160.85" centerPoint3DY="299.2" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="161.55" ty="299.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="12" centerPoint3DX="161.25" centerPoint3DY="268.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="161.95" ty="268.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="13" centerPoint3DX="163.25" centerPoint3DY="241.25" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="163.95" ty="241.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="14" centerPoint3DX="167" centerPoint3DY="218.65" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="167.7" ty="219.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="15" centerPoint3DX="172.6" centerPoint3DY="200.7" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="173.3" ty="201.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="16" centerPoint3DX="180" centerPoint3DY="187.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="180.7" ty="188.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="61" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="17" centerPoint3DX="188.2" centerPoint3DY="181.05" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="188.9" ty="181.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="62" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="18" centerPoint3DX="194.35" centerPoint3DY="178.8" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="195.05" ty="179.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" selected="true" symbolType="graphic" firstFrame="63" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="197.2" ty="179.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="20" centerPoint3DX="197" centerPoint3DY="180.85" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="197.7" ty="181.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="65" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="21" centerPoint3DX="198.55" centerPoint3DY="188" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="199.25" ty="188.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" centerPoint3DX="201.1" centerPoint3DY="199.85" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="201.8" ty="200.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="67" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="1" centerPoint3DX="204.65" centerPoint3DY="216.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="205.35" ty="217.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="68" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="2" centerPoint3DX="209.2" centerPoint3DY="237.8" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="209.9" ty="238.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="3" centerPoint3DX="214.8" centerPoint3DY="263.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="215.5" ty="264.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="4" centerPoint3DX="221.4" centerPoint3DY="294.75" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="222.1" ty="295.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" selected="true" symbolType="graphic" firstFrame="71" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="229.8" ty="331"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="6" centerPoint3DX="233.2" centerPoint3DY="257.85" loop="loop">
+                  <matrix>
+                    <Matrix a="0.792572021484375" d="0.792572021484375" tx="233.95" ty="258.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="73" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="7" centerPoint3DX="234.8" centerPoint3DY="195.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.808441162109375" d="0.808441162109375" tx="235.55" ty="196.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="74" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="8" centerPoint3DX="234" centerPoint3DY="141.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.822189331054688" d="0.822189331054688" tx="234.7" ty="142.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="75" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="9" centerPoint3DX="230.6" centerPoint3DY="95.7" loop="loop">
+                  <matrix>
+                    <Matrix a="0.833831787109375" d="0.833831787109375" tx="231.4" ty="96.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="76" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="10" centerPoint3DX="224.3" centerPoint3DY="58.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.843353271484375" d="0.843353271484375" tx="225.05" ty="59.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="77" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="11" centerPoint3DX="214.5" centerPoint3DY="30.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.850753784179688" d="0.850753784179688" tx="215.25" ty="31.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="78" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="12" centerPoint3DX="200.3" centerPoint3DY="15.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.856048583984375" d="0.856048583984375" tx="201.05" ty="15.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="79" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="13" centerPoint3DX="188.05" centerPoint3DY="11.15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.859222412109375" d="0.859222412109375" tx="188.8" ty="11.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="80" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" selected="true" symbolType="graphic" firstFrame="80" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="184.35" ty="11.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="81" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="15" centerPoint3DX="182.2" centerPoint3DY="11.05" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="182.95" ty="11.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="82" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="16" centerPoint3DX="178.1" centerPoint3DY="11.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="178.85" ty="12.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="83" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="17" centerPoint3DX="171.65" centerPoint3DY="15.15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="172.4" ty="15.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="84" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="18" centerPoint3DX="164.5" centerPoint3DY="22.65" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="165.25" ty="23.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="85" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="19" centerPoint3DX="158.35" centerPoint3DY="34.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="159.1" ty="35.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="86" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="20" centerPoint3DX="153.6" centerPoint3DY="49.7" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="154.35" ty="50.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="87" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="21" centerPoint3DX="150.2" centerPoint3DY="67.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="150.95" ty="68.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" selected="true" symbolType="graphic" firstFrame="88" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="148.7" ty="89.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="1" centerPoint3DX="150.05" centerPoint3DY="50.05" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="150.8" ty="50.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="90" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="2" centerPoint3DX="150.6" centerPoint3DY="17.75" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="151.35" ty="18.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="91" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="3" centerPoint3DX="151.05" centerPoint3DY="-8.8" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="151.8" ty="-8.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="92" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="4" centerPoint3DX="151.3" centerPoint3DY="-29.55" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="152.05" ty="-28.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="93" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="5" centerPoint3DX="151.45" centerPoint3DY="-44.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="152.2" ty="-43.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="6" centerPoint3DX="151.55" centerPoint3DY="-53.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="152.3" ty="-52.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="95" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="151" ty="-55.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="96" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="8" centerPoint3DX="151.55" centerPoint3DY="-54.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="152.3" ty="-53.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="97" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="9" centerPoint3DX="151.5" centerPoint3DY="-47.2" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="152.25" ty="-46.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="98" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="10" centerPoint3DX="151.35" centerPoint3DY="-35.4" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="152.1" ty="-34.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="99" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="11" centerPoint3DX="151.15" centerPoint3DY="-19.15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="151.9" ty="-18.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="100" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="12" centerPoint3DX="150.85" centerPoint3DY="1.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="151.6" ty="2.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="101" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="13" centerPoint3DX="150.45" centerPoint3DY="26.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="151.2" ty="27.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="102" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="14" centerPoint3DX="149.95" centerPoint3DY="55.65" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="150.7" ty="56.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="103" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" selected="true" symbolType="graphic" firstFrame="103" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="148.7" ty="89.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="104" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="16" centerPoint3DX="150.05" centerPoint3DY="50.05" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="150.8" ty="50.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="105" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="17" centerPoint3DX="150.6" centerPoint3DY="17.75" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="151.35" ty="18.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="106" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="18" centerPoint3DX="151.05" centerPoint3DY="-8.8" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="151.8" ty="-8.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="107" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="19" centerPoint3DX="151.3" centerPoint3DY="-29.55" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="152.05" ty="-28.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="108" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="20" centerPoint3DX="151.45" centerPoint3DY="-44.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="152.2" ty="-43.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="109" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="21" centerPoint3DX="151.55" centerPoint3DY="-53.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="152.3" ty="-52.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="110" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" selected="true" symbolType="graphic" firstFrame="110" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="151" ty="-55.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="111" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="1" centerPoint3DX="150.1" centerPoint3DY="-54.2" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="150.85" ty="-53.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="112" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="2" centerPoint3DX="149.55" centerPoint3DY="-47.15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="150.3" ty="-46.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="113" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="3" centerPoint3DX="148.7" centerPoint3DY="-35.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="149.45" ty="-34.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="114" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="4" centerPoint3DX="147.5" centerPoint3DY="-19.05" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="148.25" ty="-18.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="115" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="5" centerPoint3DX="145.95" centerPoint3DY="2.05" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="146.7" ty="2.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="116" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="6" centerPoint3DX="144.05" centerPoint3DY="27.85" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="144.8" ty="28.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="117" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="7" centerPoint3DX="141.8" centerPoint3DY="58.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="142.55" ty="59"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="118" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="8" centerPoint3DX="139.25" centerPoint3DY="93.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="140" ty="94.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="119" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" selected="true" symbolType="graphic" firstFrame="119" loop="loop">
+                  <matrix>
+                    <Matrix a="0.860275268554688" d="0.860275268554688" tx="137.05" ty="134"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="120" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="10" centerPoint3DX="139.1" centerPoint3DY="100.4" loop="loop">
+                  <matrix>
+                    <Matrix a="0.837539672851563" d="0.837539672851563" tx="139.85" ty="101.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="121" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="11" centerPoint3DX="143.8" centerPoint3DY="73.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.81829833984375" d="0.81829833984375" tx="144.5" ty="74.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.7" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="122" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="12" centerPoint3DX="150.45" centerPoint3DY="51.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.802566528320313" d="0.802566528320313" tx="151.15" ty="52.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.7" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="123" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="13" centerPoint3DX="159.15" centerPoint3DY="36.65" loop="loop">
+                  <matrix>
+                    <Matrix a="0.790313720703125" d="0.790313720703125" tx="159.85" ty="37.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="124" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="14" centerPoint3DX="169" centerPoint3DY="28.35" loop="loop">
+                  <matrix>
+                    <Matrix a="0.781570434570313" d="0.781570434570313" tx="169.65" ty="29"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.7" y="-3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="125" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" symbolType="graphic" firstFrame="15" centerPoint3DX="176.45" centerPoint3DY="25.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.776336669921875" d="0.776336669921875" tx="177.15" ty="26.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="126" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pelota" selected="true" symbolType="graphic" firstFrame="126" loop="loop">
+                  <matrix>
+                    <Matrix a="0.774581909179688" d="0.774581909179688" tx="179.75" ty="26.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="-2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cabezaMaestra" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.763946533203125" b="0.0393524169921875" c="-0.0393524169921875" d="0.763946533203125" tx="69.1" ty="101"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.6" y="229.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" selected="true" symbolType="graphic" firstFrame="7" loop="loop">
+                  <matrix>
+                    <Matrix a="0.762893676757813" b="-0.055816650390625" c="0.055816650390625" d="0.762893676757813" tx="30.6" ty="106.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.65" y="229.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="7" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" selected="true" symbolType="graphic" firstFrame="8" centerPoint3DX="114.8" centerPoint3DY="197.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.762374877929688" b="-0.0601959228515625" c="0.0601959228515625" d="0.762374877929688" tx="34.35" ty="107.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.65" y="229.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="8" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" firstFrame="15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.761077880859375" b="-0.0770111083984375" c="0.0770111083984375" d="0.761077880859375" tx="46" ty="110.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.7" y="229.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" duration="8" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" firstFrame="23" loop="loop">
+                  <matrix>
+                    <Matrix a="0.76263427734375" b="-0.059173583984375" c="0.059173583984375" d="0.76263427734375" tx="33.45" ty="106.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.65" y="229.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="7" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" firstFrame="31" loop="loop">
+                  <matrix>
+                    <Matrix a="0.763946533203125" b="0.0393524169921875" c="-0.0393524169921875" d="0.763946533203125" tx="69.1" ty="101"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.6" y="229.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" duration="8" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" firstFrame="38" loop="loop">
+                  <matrix>
+                    <Matrix a="0.760147094726563" b="0.0858001708984375" c="-0.0858001708984375" d="0.760147094726563" tx="50.7" ty="91.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.6" y="228.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="8" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" firstFrame="46" loop="loop">
+                  <matrix>
+                    <Matrix a="0.763336181640625" b="-0.049957275390625" c="0.049957275390625" d="0.763336181640625" tx="42.45" ty="108.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.65" y="229.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="9" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" selected="true" symbolType="graphic" firstFrame="54" loop="loop">
+                  <matrix>
+                    <Matrix a="0.762619018554688" b="-0.059661865234375" c="0.059661865234375" d="0.762619018554688" tx="31.75" ty="106.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.55" y="229.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" duration="8" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" firstFrame="63" loop="loop">
+                  <matrix>
+                    <Matrix a="0.763946533203125" b="0.0393524169921875" c="-0.0393524169921875" d="0.763946533203125" tx="69.1" ty="101"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.6" y="229.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" duration="9" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" firstFrame="71" loop="loop">
+                  <matrix>
+                    <Matrix a="0.762893676757813" b="-0.055816650390625" c="0.055816650390625" d="0.762893676757813" tx="30.6" ty="106.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.65" y="229.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="80" duration="8" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" selected="true" symbolType="graphic" firstFrame="80" loop="loop">
+                  <matrix>
+                    <Matrix a="0.74462890625" b="-0.17523193359375" c="0.17523193359375" d="0.74462890625" tx="21.8" ty="121.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.75" y="229.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" duration="3" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" firstFrame="88" centerPoint3DX="91.6" centerPoint3DY="159.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.7327880859375" b="-0.21954345703125" c="0.21954345703125" d="0.7327880859375" tx="16" ty="130.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.55" y="229.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="91" duration="4" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" firstFrame="91" centerPoint3DX="123.05" centerPoint3DY="146.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.761505126953125" b="-0.0648956298828125" c="0.0648956298828125" d="0.761505126953125" tx="55.1" ty="102.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.5" y="229.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="95" duration="8" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" firstFrame="95" centerPoint3DX="100.4" centerPoint3DY="147.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.7327880859375" b="-0.21954345703125" c="0.21954345703125" d="0.7327880859375" tx="24.8" ty="118.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.55" y="229.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="103" duration="3" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" firstFrame="103" centerPoint3DX="91.6" centerPoint3DY="159.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.7327880859375" b="-0.21954345703125" c="0.21954345703125" d="0.7327880859375" tx="16" ty="130.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.55" y="229.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="106" duration="4" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" firstFrame="106" centerPoint3DX="122.05" centerPoint3DY="146.4" loop="loop">
+                  <matrix>
+                    <Matrix a="0.760971069335938" b="-0.0709991455078125" c="0.0709991455078125" d="0.760971069335938" tx="53.7" ty="102.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.55" y="229.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="110" duration="9" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" firstFrame="110" centerPoint3DX="100.4" centerPoint3DY="147.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.7327880859375" b="-0.21954345703125" c="0.21954345703125" d="0.7327880859375" tx="24.8" ty="118.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.55" y="229.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="119" duration="3" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" firstFrame="119" centerPoint3DX="91.6" centerPoint3DY="159.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.7327880859375" b="-0.21954345703125" c="0.21954345703125" d="0.7327880859375" tx="16" ty="130.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.55" y="229.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="122" duration="4" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" firstFrame="122" centerPoint3DX="121.6" centerPoint3DY="146.35" loop="loop">
+                  <matrix>
+                    <Matrix a="0.760665893554688" b="-0.0741729736328125" c="0.0741729736328125" d="0.760665893554688" tx="53.05" ty="103.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.5" y="229.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="126" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de cabezaMaestra 2" symbolType="graphic" firstFrame="126" loop="loop">
+                  <matrix>
+                    <Matrix a="0.763946533203125" b="0.0393524169921875" c="-0.0393524169921875" d="0.763946533203125" tx="69.1" ty="101"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.6" y="229.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="brazo" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="112.1" centerPoint3DY="307.6" loop="loop">
+                  <matrix>
+                    <Matrix a="1.07708740234375" b="-0.570571899414063" c="0.570419311523438" d="1.077392578125" tx="68.3" ty="281.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="92.55" centerPoint3DY="307.55" loop="loop">
+                  <matrix>
+                    <Matrix a="1.18917846679688" b="0.267318725585938" c="-0.267654418945313" d="1.1893310546875" tx="74.6" ty="259.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.1" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="110.7" centerPoint3DY="306.4" loop="loop">
+                  <matrix>
+                    <Matrix a="1.19677734375" b="-0.230972290039063" c="0.230728149414063" d="1.19705200195313" tx="76.8" ty="269.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="23.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="96.35" centerPoint3DY="307.75" loop="loop">
+                  <matrix>
+                    <Matrix a="1.19035339355469" b="0.262069702148438" c="-0.262405395507813" d="1.19049072265625" tx="78.05" ty="259.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.15" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="111.95" centerPoint3DY="307.65" loop="loop">
+                  <matrix>
+                    <Matrix a="1.07708740234375" b="-0.570571899414063" c="0.570419311523438" d="1.077392578125" tx="68.3" ty="281.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="89.4" centerPoint3DY="307.15" loop="loop">
+                  <matrix>
+                    <Matrix a="1.21293640136719" b="0.119888305664063" c="-0.120208740234375" d="1.213134765625" tx="65.45" ty="261.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.15" y="24.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="102.5" centerPoint3DY="309.25" loop="loop">
+                  <matrix>
+                    <Matrix a="1.20880126953125" b="-0.15643310546875" c="0.15618896484375" d="1.20901489257813" tx="70.45" ty="271.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="24.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="94.85" centerPoint3DY="307.8" loop="loop">
+                  <matrix>
+                    <Matrix a="1.19052124023438" b="0.26129150390625" c="-0.261642456054688" d="1.190673828125" tx="76.45" ty="259.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.15" y="23.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="112.1" centerPoint3DY="307.6" loop="loop">
+                  <matrix>
+                    <Matrix a="1.07708740234375" b="-0.570571899414063" c="0.570419311523438" d="1.077392578125" tx="68.3" ty="281.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="92.55" centerPoint3DY="307.55" loop="loop">
+                  <matrix>
+                    <Matrix a="1.18917846679688" b="0.267318725585938" c="-0.267654418945313" d="1.1893310546875" tx="74.6" ty="259.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.1" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="80" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="113.15" centerPoint3DY="303.95" loop="loop">
+                  <matrix>
+                    <Matrix a="1.06167602539063" b="-0.59869384765625" c="0.598556518554688" d="1.06199645996094" tx="68.95" ty="280.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.15" y="23.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="128.8" centerPoint3DY="291.3" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.0084075927734375" b="-1.21884155273438" c="1.21903991699219" d="-0.0081329345703125" tx="86.6" ty="317.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.15" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="95" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="113.45" centerPoint3DY="286.7" loop="loop">
+                  <matrix>
+                    <Matrix a="1.18608093261719" b="-0.280807495117188" c="0.280548095703125" d="1.186279296875" tx="78" ty="252.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.15" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="103" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="128.8" centerPoint3DY="291.3" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.0084075927734375" b="-1.21884155273438" c="1.21903991699219" d="-0.0081329345703125" tx="86.6" ty="317.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.15" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="110" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="113.45" centerPoint3DY="286.7" loop="loop">
+                  <matrix>
+                    <Matrix a="1.18608093261719" b="-0.280807495117188" c="0.280548095703125" d="1.186279296875" tx="78" ty="252.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.15" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="119" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="128.8" centerPoint3DY="291.3" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.0084075927734375" b="-1.21884155273438" c="1.21903991699219" d="-0.0081329345703125" tx="86.6" ty="317.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.15" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="126" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="112.1" centerPoint3DY="307.6" loop="loop">
+                  <matrix>
+                    <Matrix a="1.07708740234375" b="-0.570571899414063" c="0.570419311523438" d="1.077392578125" tx="68.3" ty="281.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo_180" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999969482421875" b="-0.0089111328125" c="0.0089111328125" d="0.999969482421875" tx="101.05" ty="349.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" centerPoint3DX="145.3" centerPoint3DY="393.05" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.998458862304688" b="0.05572509765625" c="-0.05572509765625" d="0.998458862304688" tx="101.7" ty="347"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.85" y="9.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999267578125" b="0.038604736328125" c="-0.038604736328125" d="0.999267578125" tx="101.55" ty="347.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="29" centerPoint3DX="165.4" centerPoint3DY="374.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.816879272460938" b="-0.576828002929688" c="0.576828002929688" d="0.816879272460938" tx="102.4" ty="365.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.75" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999969482421875" b="-0.0089111328125" c="0.0089111328125" d="0.999969482421875" tx="101.05" ty="349.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" centerPoint3DX="145.3" centerPoint3DY="393.05" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.998458862304688" b="0.05572509765625" c="-0.05572509765625" d="0.998458862304688" tx="101.7" ty="347"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.85" y="9.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999267578125" b="0.038604736328125" c="-0.038604736328125" d="0.999267578125" tx="101.55" ty="347.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="29" centerPoint3DX="165.4" centerPoint3DY="374.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.816879272460938" b="-0.576828002929688" c="0.576828002929688" d="0.816879272460938" tx="102.4" ty="365.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.75" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999969482421875" b="-0.0089111328125" c="0.0089111328125" d="0.999969482421875" tx="101.05" ty="349.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" centerPoint3DX="145.3" centerPoint3DY="393.05" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.998458862304688" b="0.05572509765625" c="-0.05572509765625" d="0.998458862304688" tx="101.7" ty="347"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.85" y="9.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="80" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" selected="true" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999267578125" b="0.038604736328125" c="-0.038604736328125" d="0.999267578125" tx="101.55" ty="347.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999267578125" b="0.038604736328125" c="-0.038604736328125" d="0.999267578125" tx="101.55" ty="347.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="95" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.992660522460938" b="0.120819091796875" c="-0.120819091796875" d="0.992660522460938" tx="99.25" ty="344.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.85" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="103" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999267578125" b="0.038604736328125" c="-0.038604736328125" d="0.999267578125" tx="101.55" ty="347.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="110" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.983551025390625" b="0.180618286132813" c="-0.180618286132813" d="0.983551025390625" tx="100.15" ty="342.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.85" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="119" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999267578125" b="0.038604736328125" c="-0.038604736328125" d="0.999267578125" tx="101.55" ty="347.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="126" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999969482421875" b="-0.0089111328125" c="0.0089111328125" d="0.999969482421875" tx="101.05" ty="349.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo_177" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.991363525390625" b="-0.131057739257813" c="0.131057739257813" d="0.991363525390625" tx="61.2" ty="275.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.05" y="72.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" centerPoint3DX="125.25" centerPoint3DY="337.55" loop="loop">
+                  <matrix>
+                    <Matrix a="0.932968139648438" b="-0.359954833984375" c="0.359954833984375" d="0.932968139648438" tx="42.8" ty="289.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.15" y="72.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.995712280273438" b="-0.0922393798828125" c="0.0922393798828125" d="0.995712280273438" tx="64.85" ty="271.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60" y="72.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" centerPoint3DX="128.5" centerPoint3DY="336.7" loop="loop">
+                  <matrix>
+                    <Matrix a="0.931365966796875" b="-0.36407470703125" c="0.36407470703125" d="0.931365966796875" tx="46.45" ty="289.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.1" y="72.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.991363525390625" b="-0.131057739257813" c="0.131057739257813" d="0.991363525390625" tx="61.2" ty="275.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.05" y="72.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" centerPoint3DX="124.5" centerPoint3DY="331.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.881942749023438" b="-0.471328735351563" c="0.471328735351563" d="0.881942749023438" tx="37.6" ty="295"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.1" y="72.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" centerPoint3DX="126.7" centerPoint3DY="340.2" loop="loop">
+                  <matrix>
+                    <Matrix a="0.980987548828125" b="-0.190872192382813" c="0.190872192382813" d="0.980987548828125" tx="54.55" ty="279.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.15" y="72.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.982467651367188" b="-0.1864013671875" c="0.1864013671875" d="0.982467651367188" tx="54.95" ty="279.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.05" y="72.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" centerPoint3DX="126.85" centerPoint3DY="336.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.931137084960938" b="-0.364654541015625" c="0.364654541015625" d="0.931137084960938" tx="44.85" ty="289.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.1" y="72.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.991363525390625" b="-0.131057739257813" c="0.131057739257813" d="0.991363525390625" tx="61.2" ty="275.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.05" y="72.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" centerPoint3DX="125.25" centerPoint3DY="337.55" loop="loop">
+                  <matrix>
+                    <Matrix a="0.932968139648438" b="-0.359954833984375" c="0.359954833984375" d="0.932968139648438" tx="42.8" ty="289.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.15" y="72.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="80" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9854736328125" b="-0.169692993164063" c="0.169692993164063" d="0.9854736328125" tx="61.45" ty="275.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60" y="72.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" centerPoint3DX="130.75" centerPoint3DY="336.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.98406982421875" b="-0.177581787109375" c="0.177581787109375" d="0.98406982421875" tx="60.3" ty="275.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60" y="72.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="95" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9998779296875" b="-0.0140380859375" c="0.0140380859375" d="0.9998779296875" tx="70.05" ty="259.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60" y="72.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="103" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" centerPoint3DX="130.75" centerPoint3DY="336.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.98406982421875" b="-0.177581787109375" c="0.177581787109375" d="0.98406982421875" tx="60.3" ty="275.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60" y="72.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="110" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9998779296875" b="-0.0140380859375" c="0.0140380859375" d="0.9998779296875" tx="70.05" ty="259.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60" y="72.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="119" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" centerPoint3DX="130.75" centerPoint3DY="336.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.98406982421875" b="-0.177581787109375" c="0.177581787109375" d="0.98406982421875" tx="60.3" ty="275.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60" y="72.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="126" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 177 3" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.991363525390625" b="-0.131057739257813" c="0.131057739257813" d="0.991363525390625" tx="61.2" ty="275.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.05" y="72.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo_180" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999847412109375" b="-0.016571044921875" c="0.016571044921875" d="0.999847412109375" tx="126" ty="344.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="13.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="9" centerPoint3DX="199.8" centerPoint3DY="367.2" loop="loop">
+                  <matrix>
+                    <Matrix a="0.7857666015625" b="-0.618484497070313" c="0.618484497070313" d="0.7857666015625" tx="125.4" ty="364.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="13.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999847412109375" b="-0.016571044921875" c="0.016571044921875" d="0.999847412109375" tx="126" ty="344.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="13.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999847412109375" b="-0.016571044921875" c="0.016571044921875" d="0.999847412109375" tx="119.25" ty="342.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="13.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999847412109375" b="-0.016571044921875" c="0.016571044921875" d="0.999847412109375" tx="126" ty="344.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="13.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="29" centerPoint3DX="205.3" centerPoint3DY="363.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.824356079101563" b="-0.566024780273438" c="0.566024780273438" d="0.824356079101563" tx="131.3" ty="355.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.55" y="13.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999847412109375" b="-0.016571044921875" c="0.016571044921875" d="0.999847412109375" tx="126" ty="344.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="13.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999847412109375" b="-0.016571044921875" c="0.016571044921875" d="0.999847412109375" tx="119.25" ty="342.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="13.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999847412109375" b="-0.016571044921875" c="0.016571044921875" d="0.999847412109375" tx="126" ty="344.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="13.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="9" centerPoint3DX="203.35" centerPoint3DY="353.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.523361206054688" b="-0.852081298828125" c="0.852081298828125" d="0.523361206054688" tx="132.55" ty="377"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="13.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="80" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999847412109375" b="-0.016571044921875" c="0.016571044921875" d="0.999847412109375" tx="126" ty="344.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="13.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999847412109375" b="-0.016571044921875" c="0.016571044921875" d="0.999847412109375" tx="126" ty="344.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="13.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="95" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999176025390625" b="0.0400238037109375" c="-0.0400238037109375" d="0.999176025390625" tx="123.5" ty="341.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="13.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="103" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999847412109375" b="-0.016571044921875" c="0.016571044921875" d="0.999847412109375" tx="126" ty="344.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="13.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="110" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.997543334960938" b="0.0695037841796875" c="-0.0695037841796875" d="0.997543334960938" tx="124" ty="340.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.45" y="13.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="119" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999847412109375" b="-0.016571044921875" c="0.016571044921875" d="0.999847412109375" tx="126" ty="344.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="13.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="126" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 180 2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999847412109375" b="-0.016571044921875" c="0.016571044921875" d="0.999847412109375" tx="126" ty="344.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="13.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="brazo" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="168.75" centerPoint3DY="297.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.552398681640625" b="-1.08653259277344" c="1.0865478515625" d="0.552703857421875" tx="118.6" ty="302.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="23.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="156.65" centerPoint3DY="286.1" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.149490356445313" b="-1.20965576171875" c="1.2098388671875" d="-0.149246215820313" tx="117.45" ty="318.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.25" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="171.75" centerPoint3DY="293.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.278472900390625" b="-1.18663024902344" c="1.18675231933594" d="0.278778076171875" tx="124.65" ty="310.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="23.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="165.45" centerPoint3DY="290.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.230743408203125" b="-1.19682312011719" c="1.1968994140625" d="0.231048583984375" tx="118.45" ty="309.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.25" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="168.75" centerPoint3DY="297.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.552398681640625" b="-1.08653259277344" c="1.0865478515625" d="0.552703857421875" tx="118.6" ty="302.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="23.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="159.4" centerPoint3DY="279.3" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.887969970703125" b="-0.834930419921875" c="0.835235595703125" d="-0.887893676757813" tx="149.85" ty="328.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.3" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="169" centerPoint3DY="294.75" loop="loop">
+                  <matrix>
+                    <Matrix a="0.335601806640625" b="-1.1717529296875" c="1.17184448242188" d="0.335891723632813" tx="120.95" ty="309.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="23.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="163.75" centerPoint3DY="283.35" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.416778564453125" b="-1.1453857421875" c="1.14561462402344" d="-0.416580200195313" tx="132.9" ty="323.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.3" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="168.75" centerPoint3DY="297.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.552398681640625" b="-1.08653259277344" c="1.0865478515625" d="0.552703857421875" tx="118.6" ty="302.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="23.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="156.65" centerPoint3DY="286.1" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.149490356445313" b="-1.20965576171875" c="1.2098388671875" d="-0.149246215820313" tx="117.45" ty="318.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.25" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="80" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="169.6" centerPoint3DY="291.15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.4066162109375" b="-1.1490478515625" c="1.14909362792969" d="0.40692138671875" tx="121" ty="302.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="23.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="174.8" centerPoint3DY="275.7" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.01519775390625" b="-1.21875" c="1.21893310546875" d="-0.014923095703125" tx="133.3" ty="303.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="23.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="95" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="168.05" centerPoint3DY="289.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.822738647460938" b="-0.8992919921875" c="0.899215698242188" d="0.823043823242188" tx="119.35" ty="281.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="23.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="103" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="174.8" centerPoint3DY="275.7" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.01519775390625" b="-1.21875" c="1.21893310546875" d="-0.014923095703125" tx="133.3" ty="303.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="23.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="110" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="168.05" centerPoint3DY="289.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.822738647460938" b="-0.8992919921875" c="0.899215698242188" d="0.823043823242188" tx="119.35" ty="281.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="23.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="119" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="174.8" centerPoint3DY="275.7" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.01519775390625" b="-1.21875" c="1.21893310546875" d="-0.014923095703125" tx="133.3" ty="303.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="23.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="126" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de brazo 2" symbolType="graphic" centerPoint3DX="168.75" centerPoint3DY="297.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.552398681640625" b="-1.08653259277344" c="1.0865478515625" d="0.552703857421875" tx="118.6" ty="302.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.2" y="23.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_8" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" centerPoint3DX="66.35" centerPoint3DY="401.8" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" centerPoint3DX="66.35" centerPoint3DY="401.8" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" centerPoint3DX="66.35" centerPoint3DY="401.8" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" centerPoint3DX="66.35" centerPoint3DY="401.8" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" centerPoint3DX="66.35" centerPoint3DY="401.8" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="80" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" centerPoint3DX="66.35" centerPoint3DY="401.8" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="95" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="103" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" centerPoint3DX="66.35" centerPoint3DY="401.8" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="110" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="119" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" centerPoint3DX="66.35" centerPoint3DY="401.8" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="126" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interpolación 1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="66.35" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

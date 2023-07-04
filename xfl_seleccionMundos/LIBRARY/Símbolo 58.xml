@@ -1,0 +1,122 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 58" itemID="5ded5f3a-000000bf" lastModified="1575839904">
+  <timeline>
+    <DOMTimeline name="Símbolo 58" currentFrame="1">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo_18" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Carpeta de elementos duplicados/copia Mapa de bits 4">
+                  <matrix>
+                    <Matrix tx="-7" ty="-5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo_49" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 11">
+                  <matrix>
+                    <Matrix tx="75.05" ty="46"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75.85" y="88.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Copia_de_Símbolo_45_2_2" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Copia_de_Símbolo_45_2_2" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 45 2 2">
+                  <matrix>
+                    <Matrix a="-1.0311279296875" b="0.0938720703125" c="0.099700927734375" d="1.09527587890625" tx="187.75" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.3" y="4.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 45 2 2">
+                  <matrix>
+                    <Matrix a="1.03298950195313" b="0.0700836181640625" c="0.003753662109375" d="1.1025390625" tx="56.6" ty="112.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.45" y="5.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_8" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Carpeta de elementos duplicados/copia Mapa de bits 23">
+                  <matrix>
+                    <Matrix tx="45" ty="26"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo_63" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Carpeta de elementos duplicados/copia Mapa de bits 22"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_5" color="#009999">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

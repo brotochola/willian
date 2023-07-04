@@ -1,0 +1,581 @@
+@font-face {
+  font-family: "grobold";
+  src: url("grobold.svg#GROBOLD") format("svg"),
+    url("grobold.ttf") format("truetype"), url("grobold.woff") format("woff"),
+    url("grobold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+* {
+  font-family: "grobold";
+}
+
+div#negro {
+  position: fixed;
+
+  width: 100%;
+  height: 100%;
+  display: none;
+  background: rgba(0, 0, 0, 0.25);
+}
+
+div.boton {
+  position: fixed;
+  width: 10%;
+  height: 10%;
+  display: block;
+  /* z-index: 9; */
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+div.boton#tienda {
+  background-image: url(img/tienda.png);
+  right: 0.5%;
+  width: 13%;
+  z-index: 4;
+  display: none;
+  height: 14%;
+  top: 4%;
+}
+div.boton#config {
+  background-image: url(img/volver.png?3434);
+  left: 0.5%; /* width: 13%; */ /* height: 14%; */
+  z-index: 9;
+  top: 4vh;
+}
+div.boton#raya {
+  background-image: url(img/raya.png);
+  left: 0.5%;
+  width: 100%;
+  height: 17%;
+  z-index: 2;
+  bottom: 0px;
+}
+div.boton#audio {
+  background-image: url(img/audio_on.png);
+  left: 25%;
+  width: 13%;
+  height: 14%;
+  z-index: 4;
+  bottom: 1.5%;
+}
+div#audio.off {
+  background-image: url(img/audio_off.png);
+}
+div.boton#campaign {
+  background-image: url(img/campaign.png);
+  left: 50%;
+  width: 26%;
+  z-index: 9;
+  transform: translateX(-50%);
+  height: 24%; /* z-index: 1; */
+  bottom: -0.5%;
+}
+div.boton#logo {
+  background-image: url(img/logo.png);
+  left: 50%;
+  width: 36%;
+  transform: translateX(-50%);
+  height: 36%;
+  z-index: 7;
+  top: 1.2%;
+}
+div.boton#avatar {
+  display: none;
+  background-image: url(img/avatar.png);
+  right: 25%;
+  width: 13%;
+  height: 14%;
+  z-index: 4;
+  bottom: 1.5%;
+}
+div.boton#fondo {
+  background-image: url(img/fondo_mainMenu.png.png);
+  right: 0px;
+  width: 100%;
+  display: block;
+  z-index: -11;
+  background-position: center;
+  height: 100%;
+  background-size: 110% auto; /* z-index: 1; */
+  bottom: 0px;
+}
+
+video#tutorial {
+  width: 100%;
+  z-index: 999999999;
+  height: 100%;
+  top: 0px;
+  padding: 0px;
+  margin: 0px;
+  object-fit: cover;
+  position: fixed;
+
+  left: 0px;
+}
+
+#seleccionDeNiveles {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+}
+#niveles {
+  position: fixed;
+  left: 51%;
+  transform: translateX(-50%) translateY(-62%);
+  width: 40%;
+  height: 70%;
+  top: 50%;
+  overflow: visible;
+  text-align: center;
+}
+#niveles .nivel {
+  width: 25%;
+  height: 25%;
+  background-size: contain;
+  text-align: center;
+  color: white;
+  padding-top: 6px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  font-size: 3.8vw;
+  font-family: "grobold";
+  position: absolute;
+  background-repeat: no-repeat;
+  background-image: url(img/nivel_0.png);
+}
+#niveles .nivel.bloqueado {
+  background-image: url(img/nivel_bloqueado.png);
+  font-size: 0px;
+}
+
+#niveles .nivel.estrella1 {
+  background-image: url(img/nivel_1.png);
+}
+#niveles .nivel.estrella2 {
+  background-image: url(img/nivel_2.png);
+}
+#niveles .nivel.estrella3 {
+  background-image: url(img/nivel_3.png);
+}
+
+#niveles .nivel.especial.bloqueado:nth-child(4n + 4) {
+  background-image: url(img/nivel_b_bloqueado.png);
+}
+
+#niveles .nivel.especial {
+  background-image: url(img/nivel_b_0.png?34=34);
+}
+
+#niveles .nivel.especial.estrella1 {
+  background-image: url(img/nivel_b_1.png?34=34);
+}
+#niveles .nivel.especial.estrella2 {
+  background-image: url(img/nivel_b_2.png?34=34);
+}
+
+#niveles .nivel.especial.estrella3 {
+  background-image: url(img/nivel_b_3.png?34=34);
+}
+
+#niveles .nivel:nth-child(1) {
+  top: 9%;
+  left: 0%;
+}
+
+#niveles .nivel:nth-child(2) {
+  top: 23%;
+  left: 22%;
+}
+
+#niveles .nivel:nth-child(3) {
+  top: 9%;
+  left: 44%;
+}
+
+#niveles .nivel:nth-child(4) {
+  top: 23%;
+  left: 66%;
+}
+
+#niveles .nivel:nth-child(5) {
+  top: 37%;
+  left: 0%;
+}
+#niveles .nivel:nth-child(6) {
+  top: 50%;
+  left: 22%;
+}
+
+#niveles .nivel:nth-child(7) {
+  top: 37%;
+  left: 44%;
+}
+
+#niveles .nivel:nth-child(8) {
+  top: 50%;
+  left: 66%;
+}
+
+#niveles .nivel:nth-child(9) {
+  top: 64%;
+  left: 0%;
+}
+#niveles .nivel:nth-child(10) {
+  top: 77%;
+  left: 22%;
+}
+
+#niveles .nivel:nth-child(11) {
+  top: 64%;
+  left: 44%;
+}
+
+#niveles .nivel:nth-child(12) {
+  top: 77%;
+  left: 66%;
+}
+
+seccion {
+  /* position:fixed; */ /* width:100%; */ /* height:100%; */ /* top:0px; */ /* left:0px; */
+}
+
+body button,
+canvas {
+  user-select: none;
+  outline: none;
+}
+button {
+  -webkit-touch-callout: none; /* iOS Safari */
+
+  -webkit-user-select: none; /* Safari */
+
+  -khtml-user-select: none; /* Konqueror HTML */
+
+  -moz-user-select: none; /* Old versions of Firefox */
+
+  -ms-user-select: none; /* Internet Explorer/Edge */
+
+  outline: none;
+
+  border: none;
+
+  text-decoration: none;
+
+  user-select: none;
+}
+video {
+  touch-action: none;
+  pointer-events: none;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+#jsoneditor {
+  z-index: 99999;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: space-evenly;
+  background: white;
+  overflow-y: scroll;
+  display: none;
+}
+
+#jsoneditor div.jsoneditor {
+  height: 100vh;
+}
+
+.listaDeNiveles {
+  width: 0px;
+  height: 100%;
+  left: 70%;
+  overflow-y: scroll;
+  z-index: 999999;
+  display: none;
+  position: fixed;
+  background: white;
+}
+.listaDeNiveles a {
+  user-select: none;
+  margin: 13px !important;
+  display: block;
+}
+#loading {
+  display: none;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  left: 0px;
+  z-index: 999;
+  top: 0px;
+  /* background:black; */
+  color: white;
+  font-family: Ubuntu;
+  margin: 0px;
+  object-position: center;
+  /* padding-top:40%; */
+  text-align: center;
+}
+#imgPix {
+  z-index: 9999999999;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  display: none;
+  object-fit: cover;
+  margin: 0px;
+  object-position: center;
+}
+#cantEstrellas,
+#tiempoNivel {
+  position: fixed;
+  top: 4vh;
+  right: 0vw;
+  z-index: 998;
+  width: 10vw;
+  font-size: 4vw;
+  overflow: visible;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+  text-align: left;
+  color: white;
+  float: right;
+  display: none;
+}
+
+#tiempoNivel {
+  right: unset;
+  left: 50%;
+  display: block;
+  transform: translateX(-50%);
+  width: max-content;
+  text-align: center;
+}
+
+#tiempoNivel.rojo {
+  color: red;
+}
+.contEstre {
+  position: fixed;
+  z-index: 998;
+  width: 10vw;
+  left: 16vw;
+  font-size: 4vw;
+  overflow: visible;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+  text-align: left;
+  color: white !important;
+  float: right;
+  text-decoration: none !important;
+  font-size: 3vw;
+}
+
+.contEstre:nth-child(odd) {
+  left: 32vw !important;
+}
+
+.contEstre.m2 {
+  top: 41.5vh;
+}
+.contEstre.m4 {
+  top: 74.6vh;
+}
+.contEstre.m3 {
+  top: 58vh;
+}
+.contEstre.m5 {
+  top: 90vh;
+}
+
+#seleccionDeMundos {
+  display: none;
+}
+
+.contEstre a {
+  color: white !important;
+}
+
+#cantEstrellas:before,
+.contEstre:before {
+  float: left;
+  width: 10vw;
+  position: absolute;
+  height: 8vh;
+  top: 0.2vh;
+  right: 5vw;
+  z-index: 999;
+
+  background-image: url(img/estrella.png);
+  content: "";
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: contain;
+  width: 100%;
+  display: inline-block;
+}
+
+.contEstre:before {
+  height: 6vh;
+  width: 8.7vw;
+}
+
+#restart,
+#volver {
+  position: fixed;
+  top: 10px;
+  /* border: 1px solid orangered; */
+  background: none;
+  /* border-radius: 10px; */
+  color: black;
+  padding: 20px;
+  border: none;
+  width: 50px;
+  user-select: none;
+  left: 0px;
+}
+#restart {
+  right: 10px;
+  left: unset;
+  height: 50px;
+  background-image: url(img/restart.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: fixed;
+}
+
+#volver {
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: fixed;
+  left: 10px;
+  right: unset;
+  height: 50px;
+  background-image: url(img/menu.png);
+}
+
+canvas {
+  width: 100% !important;
+  height: 100% !important;
+  left: 0px;
+  top: 0px;
+  position: fixed;
+  transform: translate3d(0px, 0px, 0px);
+}
+
+* {
+  /* margin: 0px !important; */
+  /* padding: 0px !important; */
+  overflow: hidden;
+}
+
+#canvasCreateJs {
+  display: block;
+}
+
+#canvasBox2d {
+  display: none;
+  background: black;
+  touch-action: none;
+  pointer-events: none;
+}
+
+button.botonesEditor {
+  position: relative;
+  z-index: 99;
+  display: inline-flex;
+  justify-content: center;
+  min-width: 80px;
+  margin-left: 3px !important;
+  margin-right: 3px !important;
+}
+.contBotonesEditor {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  width: 100%;
+}
+#contBotones {
+  z-index: 9999999999 !important;
+  position: fixed;
+  overflow: visible !important;
+}
+
+button#botonMenu {
+  left: 77vw;
+  top: 0px;
+  /* padding: 10px !important; */
+  height: 31px;
+  width: 54px;
+}
+
+button#botonMenu,
+.botonesEditor {
+  background: orange;
+  z-index: 99999999;
+  display: block;
+  position: absolute;
+  border: none;
+  color: white;
+  padding: 2px !important;
+}
+
+#botonpausa {
+  left: 74px;
+  bottom: 0px !important;
+  /* padding: 10px !important; */
+  height: 31px;
+  width: 54px;
+  position: fixed;
+}
+
+a {
+  color: white !important;
+  text-decoration: none !important;
+}
+
+div#cantEstrellas.mm {
+  bottom: 4vh;
+  right: 20.5vw;
+  top: unset;
+}
+
+@media (height: 768px) and (width: 1024px) {
+  div#cantEstrellas.mm {
+    bottom: 3vh;
+    right: 20vw;
+    line-height: 4.5vw;
+    top: unset;
+    font-size: 5vw;
+    padding: 1vw;
+  }
+}
+
+@media (height: 1024px) and (width: 1366px) {
+  div#cantEstrellas.mm {
+    bottom: 3vh;
+    right: 20vw;
+    line-height: 4.5vw;
+    top: unset;
+    font-size: 5vw;
+    padding: 1vw;
+  }
+}
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+@media (width: 812px) and (height: 375px) {
+  body #cantEstrellas:before {
+    height: 10vh;
+  }
+}

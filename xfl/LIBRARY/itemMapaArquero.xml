@@ -1,0 +1,120 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="itemMapaArquero" itemID="5de81605-00000739" linkageExportForAS="true" linkageClassName="itemMapaArquero" lastModified="1583968290">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="itemMapaArquero">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFA502"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-535 -1335S1|488 -1335!488 -1335[709 -1335 830 -1141!830 -1141|1405 -171!1405 -171[1526 23 1412 231!1412 231|877 1141!877 1141[763 1335 535 1335!535 1335|-535 1335!-535 1335[-770 1335 -877 1141!-877 1141|-877 1134!-877 1134|-1405 191
+!-1405 191[-1519 3 -1405 -191!-1405 -191|-877 -1134!-877 -1134[-770 -1335 -535 -1335!488 -1603|-535 -1603!-535 -1603[-930 -1603 -1111 -1261!-1111 -1261|-1640 -318!-1640 -318|-1640 -324!-1640 -324[-1827 3 -1640 325!-1640 325|-1111 1268
+!-1111 1268[-930 1603 -535 1603!-535 1603|535 1603!535 1603[910 1603 1104 1275!1104 1275|1639 365!1639 365|1646 365!1646 365[1833 23 1633 -311!1633 -311|1057 -1281!1057 -1281[856 -1603 488 -1603"/>
+                    <Edge cubics="!1405 -171(;1485,-43 1485,90 1412,231q1405 -171Q1526 23q1412 231);"/>
+                    <Edge cubics="!1646 365(;1773,137 1767,-90 1633,-311q1646 365Q1833 23q1633 -311);"/>
+                    <Edge cubics="!1639 365(;1639,365 1646,365 1646,365q1639 365 1646 365);"/>
+                    <Edge cubics="!1057 -1281(;923,-1496 736,-1603 488,-1603q1057 -1281Q856 -1603q488 -1603);"/>
+                    <Edge cubics="!488 -1335(;636,-1335 749,-1268 830,-1141q488 -1335Q709 -1335q830 -1141);"/>
+                    <Edge cubics="!1633 -311(;1633,-311 1057,-1281 1057,-1281q1633 -311 1057 -1281);"/>
+                    <Edge cubics="!830 -1141(;830,-1141 1405,-171 1405,-171q830 -1141 1405 -171);"/>
+                    <Edge cubics="!-1111 -1261(;-1111,-1261 -1640,-318 -1640,-318q-1111 -1261 -1640 -318);"/>
+                    <Edge cubics="!-1640 -324(;-1767,-104 -1767,110 -1640,325q-1640 -324Q-1827 3q-1640 325);"/>
+                    <Edge cubics="!-877 -1134(;-803,-1268 -689,-1335 -535,-1335q-877 -1134Q-770 -1335q-535 -1335);"/>
+                    <Edge cubics="!-1640 -318(;-1640,-318 -1640,-324 -1640,-324q-1640 -318 -1640 -324);"/>
+                    <Edge cubics="!-1405 -191(;-1405,-191 -877,-1134 -877,-1134q-1405 -191 -877 -1134);"/>
+                    <Edge cubics="!-1405 191(;-1479,64 -1479,-64 -1405,-191q-1405 191Q-1519 3q-1405 -191);"/>
+                    <Edge cubics="!-535 -1603(;-796,-1603 -990,-1489 -1111,-1261q-535 -1603Q-930 -1603q-1111 -1261);"/>
+                    <Edge cubics="!-1111 1268(;-990,1489 -796,1603 -535,1603q-1111 1268Q-930 1603q-535 1603);"/>
+                    <Edge cubics="!-535 1335(;-689,1335 -803,1268 -877,1141q-535 1335Q-770 1335q-877 1141);"/>
+                    <Edge cubics="!-877 1141(;-877,1141 -877,1134 -877,1134q-877 1141 -877 1134);"/>
+                    <Edge cubics="!535 1603(;783,1603 977,1496 1104,1275q535 1603Q910 1603q1104 1275);"/>
+                    <Edge cubics="!877 1141(;803,1268 689,1335 535,1335q877 1141Q763 1335q535 1335);"/>
+                    <Edge cubics="!1104 1275(;1104,1275 1639,365 1639,365q1104 1275 1639 365);"/>
+                    <Edge cubics="!-535 -1335(;-535,-1335 488,-1335 488,-1335q-535 -1335 488 -1335);"/>
+                    <Edge cubics="!488 -1603(;488,-1603 -535,-1603 -535,-1603q488 -1603 -535 -1603);"/>
+                    <Edge cubics="!1412 231(;1412,231 877,1141 877,1141q1412 231 877 1141);"/>
+                    <Edge cubics="!-535 1603(;-535,1603 535,1603 535,1603q-535 1603 535 1603);"/>
+                    <Edge cubics="!535 1335(;535,1335 -535,1335 -535,1335q535 1335 -535 1335);"/>
+                    <Edge cubics="!-1640 325(;-1640,325 -1111,1268 -1111,1268q-1640 325 -1111 1268);"/>
+                    <Edge cubics="!-877 1134(;-877,1134 -1405,191 -1405,191q-877 1134 -1405 191);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="abajo" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 41" name="abajo">
+                  <matrix>
+                    <Matrix a="1.24888610839844" d="-1.1624755859375" tx="-73.4" ty="69.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.1" y="18.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="arriba" color="#009999" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 41" name="arriba" selected="true">
+                  <matrix>
+                    <Matrix a="1.18942260742188" d="1.31988525390625" tx="-70" ty="-73.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.35" y="18.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="medio" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 42" name="medio">
+                  <matrix>
+                    <Matrix a="1.10357666015625" tx="-80.55" ty="-28.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="73.15" y="27.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

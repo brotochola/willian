@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 8" itemID="5dded0a9-00000063" lastModified="1574883497">
+  <timeline>
+    <DOMTimeline name="Símbolo 8">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 778S2[37 515 74 253!74 253[75 244 75 234!75 234[75 225 75 216!75 216[75 178 75 141!75 141[120 -132 115 122!115 122[112 290 94 459!94 459[94 469 96 478!96 478[107 538 75 553!75 553[75 694 75 834!75 834[75 844 75 853!75 853[66 853 56
+ 853!56 853[28 853 0 853!0 853[0 844 0 834!0 834[0 807 0 778!337 478[435 374 395 530!395 530[366 643 337 478"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

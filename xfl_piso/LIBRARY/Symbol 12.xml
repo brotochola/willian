@@ -1,0 +1,149 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 12" itemID="5c3634d8-0000023b" symbolType="graphic" lastModified="1567398423">
+  <timeline>
+    <DOMTimeline name="Symbol 12">
+      <layers>
+        <DOMLayer name="Layer_1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol_5" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol_5" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol_5" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="p2_inner">
+                  <matrix>
+                    <Matrix a="0.792022705078125" d="0.792022705078125" tx="2782.15" ty="18.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="331" y="90.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol_5" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="p2_inner">
+                  <matrix>
+                    <Matrix a="0.792022705078125" d="0.792022705078125" tx="2262.3" ty="18.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="331" y="90.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol_5" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="p2_inner">
+                  <matrix>
+                    <Matrix a="0.792022705078125" d="0.792022705078125" tx="1751.4" ty="18.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="331" y="90.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol_5" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="p2_inner">
+                  <matrix>
+                    <Matrix a="0.792022705078125" d="0.792022705078125" tx="1234.85" ty="18.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="331" y="90.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol_5" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="p2_inner">
+                  <matrix>
+                    <Matrix a="0.792022705078125" d="0.792022705078125" tx="715" ty="18.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="331" y="90.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p2_inner">
+                  <matrix>
+                    <Matrix a="0.792022705078125" d="0.792022705078125" tx="-311.35" ty="18.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="330.9" y="90.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Symbol_5" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="p2_inner" centerPoint3DX="466.3" centerPoint3DY="90.15">
+                  <matrix>
+                    <Matrix a="0.792007446289063" d="0.792007446289063" tx="204.2" ty="18.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="330.85" y="90.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p2_inner" centerPoint3DX="-560.15" centerPoint3DY="90.15">
+                  <matrix>
+                    <Matrix a="0.792007446289063" d="0.792007446289063" tx="-822.35" ty="18.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="331.05" y="90.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p2_inner">
+                  <matrix>
+                    <Matrix a="-0.792022705078125" d="0.792022705078125" tx="-819.65" ty="18.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="331" y="90.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

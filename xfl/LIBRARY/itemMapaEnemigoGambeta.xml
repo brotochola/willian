@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="itemMapaEnemigoGambeta" itemID="5e4195b7-000000f4" linkageExportForAS="true" linkageClassName="itemMapaEnemigoGambeta" lastModified="1581356912">
+  <timeline>
+    <DOMTimeline name="itemMapaEnemigoGambeta">
+      <layers>
+        <DOMLayer name="Capa_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 38" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix b="-0.030548095703125" tx="-44.35" ty="-19.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="44.15" y="28.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="iconoEnemigo" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-86.7" ty="-80.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="86.75" y="80.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

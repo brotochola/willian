@@ -1,0 +1,96 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Carpeta de elementos duplicados/copia Símbolo 5 2" itemID="5dc08a1f-00000673" symbolType="graphic" lastModified="1570648028">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="copia Símbolo 5 2" currentFrame="17">
+      <layers>
+        <DOMLayer name="Capa_3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="a0001.png">
+                  <matrix>
+                    <Matrix a="1.33018493652344" d="1.33018493652344" tx="108" ty="10"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="a0003.png">
+                  <matrix>
+                    <Matrix a="1.33018493652344" d="1.33018493652344" tx="108" ty="10"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="a0005.png">
+                  <matrix>
+                    <Matrix a="1.33018493652344" d="1.33018493652344" tx="108" ty="10"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="a0007.png">
+                  <matrix>
+                    <Matrix a="1.33018493652344" d="1.33018493652344" tx="108" ty="10"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="a0009.png">
+                  <matrix>
+                    <Matrix a="1.33018493652344" d="1.33018493652344" tx="108" ty="10"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="a0011.png">
+                  <matrix>
+                    <Matrix a="1.33018493652344" d="1.33018493652344" tx="108" ty="10"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="a0013.png">
+                  <matrix>
+                    <Matrix a="1.33018493652344" d="1.33018493652344" tx="108" ty="10"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="a0015.png">
+                  <matrix>
+                    <Matrix a="1.33018493652344" d="1.33018493652344" tx="108" ty="10"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="a0017.png">
+                  <matrix>
+                    <Matrix a="1.33018493652344" d="1.33018493652344" tx="108" ty="10"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

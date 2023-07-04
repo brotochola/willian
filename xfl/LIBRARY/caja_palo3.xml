@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="caja_palo3" itemID="5e41ae65-00000de5" linkageExportForAS="true" linkageClassName="caja_palo3" lastModified="1581362826">
+  <timeline>
+    <DOMTimeline name="caja_palo3">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="caja_madera2">
+                  <matrix>
+                    <Matrix a="0" b="0.629119873046875" c="-0.629119873046875" d="0" tx="-127.55" ty="-17.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="caja_madera1">
+                  <matrix>
+                    <Matrix a="0.629119873046875" d="0.629119873046875" tx="-191.2" ty="-17.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="caja_madera3">
+                  <matrix>
+                    <Matrix a="0.629119873046875" d="0.629119873046875" tx="-66.75" ty="-17.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="caja_madera3">
+                  <matrix>
+                    <Matrix a="0" b="0.629119873046875" c="-0.629119873046875" d="0" tx="-2.45" ty="-17.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="caja_madera1">
+                  <matrix>
+                    <Matrix a="0" b="0.629119873046875" c="-0.629119873046875" d="0" tx="60.1" ty="-16.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="caja_madera2">
+                  <matrix>
+                    <Matrix a="0" b="-0.629119873046875" c="0.629119873046875" d="0" tx="124" ty="-17.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="caja_madera2">
+                  <matrix>
+                    <Matrix a="-0.629119873046875" d="-0.629119873046875" tx="187.7" ty="-17.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

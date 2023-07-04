@@ -1,0 +1,96 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ma_10" itemID="5e0fb707-00000197" symbolType="graphic" lastModified="1578088199">
+  <timeline>
+    <DOMTimeline name="ma_10" currentFrame="15">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ma_5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.5" b="-0.866012573242188" c="0.866012573242188" d="-0.5" tx="80.35" ty="157.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.5" y="45.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ma_5" symbolType="graphic" centerPoint3DX="74.7" centerPoint3DY="356.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.864608764648438" b="0.498153686523438" c="-0.498153686523438" d="0.864608764648438" tx="62.4" ty="296.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.45" y="45.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ma_5" symbolType="graphic" centerPoint3DX="140.6" centerPoint3DY="514.35" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.126846313476563" b="0.9896240234375" c="-0.9896240234375" d="-0.126846313476563" tx="190.75" ty="480.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.5" y="45.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ma_5" symbolType="graphic" centerPoint3DX="140.35" centerPoint3DY="682.7" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.964279174804688" b="0.25921630859375" c="-0.25921630859375" d="-0.964279174804688" tx="191.2" ty="716.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.45" y="45.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ma_5" symbolType="graphic" centerPoint3DX="133" centerPoint3DY="897.95" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.963211059570313" b="0.258544921875" c="-0.38214111328125" d="-0.739715576171875" tx="189.4" ty="921.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.45" y="45.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ma_5" symbolType="graphic" centerPoint3DX="189.3" centerPoint3DY="1053.7" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.963668823242188" b="0.2591552734375" c="-0.423553466796875" d="-0.570053100585938" tx="247.4" ty="1069.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.3" y="45.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ma_5" symbolType="graphic" centerPoint3DX="174.35" centerPoint3DY="1314.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.598175048828125" b="0.80133056640625" c="-0.80133056640625" d="0.598175048828125" tx="186.55" ty="1255.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.45" y="45.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

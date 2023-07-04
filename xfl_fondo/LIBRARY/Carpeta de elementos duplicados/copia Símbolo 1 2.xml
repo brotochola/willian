@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Carpeta de elementos duplicados/copia Símbolo 1 2" itemID="5dc08960-00000380" symbolType="graphic" lastModified="1572047984">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="copia Símbolo 1 2" currentFrame="8">
+      <layers>
+        <DOMLayer name="Capa_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/copia Símbolo 29" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.960678100585938" b="0.092376708984375" c="-0.092376708984375" d="0.960678100585938" tx="1.05" ty="-44.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="96.05" y="64.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/copia Símbolo 29" symbolType="graphic" firstFrame="6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.965087890625" b="-0.008148193359375" c="0.008148193359375" d="0.965087890625" tx="159.3" ty="-35.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="95.9" y="64.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/copia Símbolo 29" selected="true" symbolType="graphic" firstFrame="8" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9649658203125" b="0.01666259765625" c="-0.01666259765625" d="0.9649658203125" tx="324.6" ty="-41.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="96" y="64.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbodffddfdfdfdfdf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="10.0872955322266" d="1.53173828125" tx="3.85" ty="-17.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="36"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/copia Símbolo 30" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.001953125" d="1.53173828125" tx="-1.2" ty="-28.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.85" y="39.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="piso3" itemID="5c363657-000002a3" linkageExportForAS="true" linkageClassName="piso3" lastModified="1547668195">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="piso3">
+      <layers>
+        <DOMLayer name="Layer_1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="199" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 13" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="1632.95" y="76.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="199" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 13" selected="true" symbolType="graphic" centerPoint3DX="1087.75" centerPoint3DY="76.35" loop="loop">
+                  <matrix>
+                    <Matrix tx="-545.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1632.95" y="76.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

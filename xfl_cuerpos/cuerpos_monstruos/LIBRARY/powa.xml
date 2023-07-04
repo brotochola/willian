@@ -1,0 +1,159 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="powa" itemID="5e20f722-00000437" symbolType="graphic" lastModified="1579301771">
+  <timeline>
+    <DOMTimeline name="powa" currentFrame="3">
+      <layers>
+        <DOMLayer name="Capa 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 1">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="70" ty="-71"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="169.75" y="140.25"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 1">
+                  <matrix>
+                    <Matrix a="-2.28369140625" d="2.28369140625" tx="797.45" ty="-111"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="169.95" y="140.4"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 3">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="448" ty="-117"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="95.25" y="152.75"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 5">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="8" ty="-179"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="109.75" y="165.75"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 6">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="124" ty="-223"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="181.25" y="73.25"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 7">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="480" ty="70"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="97.75" y="107.25"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 8">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="68" ty="-81"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.75" y="23.25"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 9">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="114" ty="394"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="91.25" y="26.25"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 10">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-27" ty="12"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61.75" y="95.25"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Mapa de bits 11">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="660" ty="286"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.75" y="24.75"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Mapa de bits 12">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-21" ty="76"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33.75" y="58.75"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Mapa de bits 13">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="196" ty="-145"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.75" y="38.75"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Mapa de bits 14">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="394" ty="-207"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="57.25" y="42.25"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Mapa de bits 15">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="544" ty="-79"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.25" y="37.25"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 16">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="36" ty="288"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.75" y="0.75"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,65 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1280" height="720" currentTimeline="1" xflVersion="2.97" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 19.0 build 326" majorVersion="19" buildNumber="326" objectsSnapTo="false" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="2521F435672F5348824AE7D72AF0D8F0">
+     <folders>
+          <DOMFolderItem name="mainmenu" itemID="5d6c97bb-00000134"/>
+     </folders>
+     <symbols>
+          <Include href="BrazoA_piel1.xml" itemIcon="1" loadImmediate="false" itemID="5d4c343a-00000135" lastModified="1565288168"/>
+          <Include href="BrazoA_Piel2.xml" itemIcon="1" loadImmediate="false" itemID="5d4c5898-000001a1" lastModified="1565284504"/>
+          <Include href="BrazoB_Piel1.xml" itemIcon="1" loadImmediate="false" itemID="5d4c7cd5-000008a2" lastModified="1565293781"/>
+          <Include href="BrazoB_Piel2.xml" itemIcon="1" loadImmediate="false" itemID="5d4c58a4-000001a3" lastModified="1565284516"/>
+          <Include href="cabezaMaestra.xml" itemID="5c421275-000001f6" lastModified="1573054460"/>
+          <Include href="Flam1_Piel1.xml" itemID="5d5580a8-00000358" lastModified="1573054606"/>
+          <Include href="Flam1_Piel2.xml" itemID="5d5580a0-00000344" lastModified="1573054469"/>
+          <Include href="fondo.xml" itemIcon="1" loadImmediate="false" itemID="5d4c6120-000001c2" lastModified="1565286688"/>
+          <Include href="hierba.xml" itemIcon="1" loadImmediate="false" itemID="5d4b261b-000004cb" lastModified="1565206141"/>
+          <Include href="Manga_Flam1.xml" itemIcon="1" loadImmediate="false" itemID="5d55b6e8-00000364" lastModified="1565898733"/>
+          <Include href="numero.xml" itemIcon="1" loadImmediate="false" itemID="5d4c7d28-000008c3" lastModified="1565293864"/>
+          <Include href="PantalonA_Flam1Sao1Santos1Argen1City1.xml" itemIcon="1" loadImmediate="false" itemID="5d5daa8a-00000917" lastModified="1566419594"/>
+          <Include href="PantalonB_Flam1Sao1Santso1Vene1Argen1Dinamo1City1Manch1.xml" itemIcon="1" loadImmediate="false" itemID="5d5dbfa5-00001ab6" lastModified="1566424997"/>
+          <Include href="Pierna_Piel1.xml" itemIcon="1" loadImmediate="false" itemID="5d4c67c1-0000027c" lastModified="1565288385"/>
+          <Include href="Pierna_Piel2.xml" itemIcon="1" loadImmediate="false" itemID="5d4c58b0-000001a5" lastModified="1565284528"/>
+          <Include href="Símbolo 9.xml" loadImmediate="false" itemID="5c68a2e8-000000fd" lastModified="1550549336"/>
+          <Include href="Símbolo 10.xml" loadImmediate="false" itemID="5c68a2ec-00000102" lastModified="1550549340"/>
+          <Include href="Símbolo 13.xml" loadImmediate="false" itemID="5c68a2f3-0000010e" lastModified="1550549398"/>
+          <Include href="Torso_Flam1.xml" itemIcon="1" loadImmediate="false" itemID="5d5580c5-0000035c" lastModified="1565897835"/>
+          <Include href="Zapato_Corinth1Flam1Sao1Santos1.xml" itemIcon="1" loadImmediate="false" itemID="5d56e605-000000d8" lastModified="1565976069"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Escena 1">
+               <layers>
+                    <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Flam1_Piel1" selected="true">
+                                             <matrix>
+                                                  <Matrix tx="310.3" ty="409"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-16.55" y="-46.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Flam1_Piel2">
+                                             <matrix>
+                                                  <Matrix tx="712.65" ty="409"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-16.55" y="-46.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

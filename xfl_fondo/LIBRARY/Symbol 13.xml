@@ -1,0 +1,98 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 13" itemID="5c3635a1-00000295" symbolType="graphic" lastModified="1550671442">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="Symbol 13">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="p3_inner">
+                  <matrix>
+                    <Matrix a="0.834060668945313" d="0.834060668945313" ty="2.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="330.95" y="90.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p3_inner">
+                  <matrix>
+                    <Matrix a="0.834060668945313" d="0.834060668945313" tx="547.4" ty="2.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="330.95" y="90.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p3_inner">
+                  <matrix>
+                    <Matrix a="0.834060668945313" d="0.834060668945313" tx="1090.2" ty="2.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="330.95" y="90.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p3_inner">
+                  <matrix>
+                    <Matrix a="0.834060668945313" d="0.834060668945313" tx="1637.6" ty="2.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="330.95" y="90.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p3_inner">
+                  <matrix>
+                    <Matrix a="0.834060668945313" d="0.834060668945313" tx="2166.45" ty="2.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="330.95" y="90.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p3_inner">
+                  <matrix>
+                    <Matrix a="0.834060668945313" d="0.834060668945313" tx="2713.85" ty="2.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="330.95" y="90.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p3_inner">
+                  <matrix>
+                    <Matrix a="0.834060668945313" d="0.834060668945313" tx="-1639.75" ty="2.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="330.95" y="90.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p3_inner">
+                  <matrix>
+                    <Matrix a="0.834060668945313" d="0.834060668945313" tx="-1092.35" ty="2.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="330.95" y="90.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="p3_inner">
+                  <matrix>
+                    <Matrix a="0.834060668945313" d="0.834060668945313" tx="-549.55" ty="2.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="330.95" y="90.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

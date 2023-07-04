@@ -1,0 +1,271 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Pierna_Piel2" itemID="5d4c58b0-000001a5" symbolType="graphic" lastModified="1565284528">
+  <timeline>
+    <DOMTimeline name="Pierna_Piel2" currentFrame="6">
+      <layers>
+        <DOMLayer name="Piel2" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#5F3A1A"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#82532B"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#BB8B62"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!412 -40|19 -36!19 -36[0 -36 -13 -22!-13 -22[-27 -9 -27 10!-27 10|-32 1062!-32 1062[-32 1063 -32 1065!-32 1065|-20 1304!-20 1304[-19 1322 -5 1335!-5 1335[9 1347 27 1347!27 1347|422 1337!422 1337[441 1337 454 1323!454 1323[467 1309 467
+ 1291!467 1291|458 6!458 6[458 -14 444 -27!444 -27[430 -40 412 -40"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!278 54|367 53!367 53|375 1246!375 1246|289 1249"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!148 55|278 54"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!154 1252|70 1254!70 1254|60 1060!60 1060|65 56!65 56|148 55"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!289 1249|154 1252"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!148 55|154 1252"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!289 1249|278 54"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#5F3A1A"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#82532B"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#BB8B62"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!412 -40|19 -36!19 -36[5 -36 -7 -28!-7 -28[-19 -20 -24 -6!-24 -6[-29 7 -26 21!-26 21[91 533 -19 1295!-19 1295[-21 1308 -15 1321!-15 1321[-10 1333 2 1340!2 1340[14 1347 27 1347!27 1347|422 1337!422 1337[437 1337 450 1327!450 1327[462 1318
+ 466 1303!466 1303[635 664 457 -6!457 -6[452 -21 440 -30!440 -30[427 -40 412 -40"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!287 54|377 53!377 53[531 663 385 1246!385 1246|299 1248"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!159 55|287 54"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!164 1252|79 1254!79 1254[175 548 76 56!76 56|159 55"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!299 1248|164 1252"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!159 55[289 653 164 1252"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!299 1248[419 657 287 54"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#BB8B62"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#5F3A1A"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#82532B"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!412 -40|19 -36!19 -36[2 -36 -10 -25!-10 -25[-23 -15 -26 1!-26 1[-29 17 -21 32!-21 32[250 544 -17 1286!-17 1286[-23 1300 -18 1315!-18 1315[-13 1329 -1 1339!-1 1339[12 1347 27 1347!27 1347|422 1337!422 1337[435 1337 446 1330!446 1330[456
+ 1323 462 1312!462 1312[790 656 453 -14!453 -14[447 -26 436 -33!436 -33[425 -40 412 -40"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!170 55|300 54"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!176 1252|92 1254!92 1254[325 557 93 56!93 56|170 55"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!300 54|384 53!384 53[675 656 392 1246!392 1246|312 1248"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!312 1248|176 1252"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!170 55[449 653 176 1252"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!312 1248[588 644 300 54"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#5F3A1A"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#82532B"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#BB8B62"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!412 -40|19 -36!19 -36[1 -36 -12 -23!-12 -23[-26 -11 -27 8!-27 8[-28 25 -16 40!-16 40[400 546 -14 1279!-14 1279[-22 1293 -19 1310!-19 1310[-16 1326 -3 1337!-3 1337[10 1348 27 1347!27 1347|422 1337!422 1337[433 1337 442 1332!442 1332[451
+ 1327 458 1319!458 1319[961 657 449 -21!449 -21[442 -30 433 -35!433 -35[423 -40 412 -40"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!310 53|390 52!390 52[832 656 398 1246!398 1246|321 1248"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!181 55|310 53"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!187 1251|105 1253!105 1253[468 557 112 55!112 55|181 55"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!321 1248|187 1251"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!181 55[591 639 187 1251"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!321 1248[718 630 310 53"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#BB8B62"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#82532B"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#5F3A1A"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!412 -40|19 -36!19 -36[5 -36 -7 -28!-7 -28[-19 -20 -24 -6!-24 -6[-29 6 -26 20!-26 20[-23 34 -12 44!-12 44[531 562 -10 1273!-10 1273[-21 1287 -19 1306!-19 1306[-18 1323 -4 1336!-4 1336[9 1347 27 1347!27 1347|422 1337!422 1337[442 1336
+ 455 1322!455 1322[784 965 780 629!780 629[779 290 444 -27!444 -27[430 -40 412 -40"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!197 1251|118 1253!118 1253[592 571 128 55!128 55|192 55"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!192 55|321 53"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!321 53|394 52!394 52[683 332 688 629!688 629[687 928 400 1246!400 1246|333 1247"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!333 1247|197 1251"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!192 55[733 632 197 1251"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!333 1247[868 636 321 53"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#BB8B62"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#82532B"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#5F3A1A"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!412 -40|19 -36!19 -36[5 -36 -7 -28!-7 -28[-19 -20 -24 -6!-24 -6[-29 6 -26 20!-26 20[-23 34 -12 44!-12 44[216 259 256 508!256 508[#101.0E #204.7F 258 525!258 525[100 788 -310 961!-310 961[-327 968 -334 984!-334 984[-341 1000 -335 1018
+!-335 1018[-330 1035 -314 1044!-314 1044|33 1232!33 1232[42 1236 52 1237!52 1237[62 1238 72 1234!72 1234[690 999 760 610!760 610[761 607 761 604!761 604[787 267 442 -29!442 -29[429 -40 412 -40"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!192 55|321 53"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!-119 1044|-188 1007!-188 1007[196 825 345 558!345 558[352 544 351 530!351 530[349 513 347 496!347 496[347 495 347 494!347 494[311 261 127 55!127 55|192 55"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!321 53|395 52!395 52[686 308 669 596!669 596[596 930 59 1141!59 1141|0 1109"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!0 1109[428 960 594 581!594 581[566 314 321 53"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!192 55[435 314 461 581!461 581[309 895 -119 1044"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!0 1109|-119 1044"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#BB8B62"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#5F3A1A"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#82532B"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!-19 36S1|233 415!233 415[236 447 238 463!238 463[-12 606 -425 585!-425 585[-444 584 -457 596!-457 596[-471 608 -473 626!-473 626[-476 643 -465 658!-465 658|-233 979!-233 979[-227 987 -218 992!-218 992[-210 997 -200 998!-200 998[459 1054
+ 692 734!692 734|691 735!691 735[747 666 762 533!762 533[762 529 762 525!762 525[746 233 442 -29!442 -29[429 -40 412 -40!412 -40|19 -36!19 -36[1 -36 -11 -24!-11 -24[-24 -13 -26 4!-26 4[-29 21 -19 36"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!321 53S3|395 52!395 52[651 279 670 529!670 529[658 626 619 678!619 678|618 679!618 679[408 952 -171 908!-171 908|-210 853"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!-289 744S3|-335 680!-335 680[72 682 319 521!319 521[327 516 333 510!333 510[334 508 335 506!335 506[337 503 339 499!339 499[339 498 340 498!340 498|342 492!342 492[344 484 343 476!343 476[342 472 342 468!342 468[334 428 323 391!323 391
+[321 381 316 373!316 373|105 55!105 55|192 54"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!192 54S3|321 53"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!192 54S3[411 288 454 528!454 528|452 528!452 528|450 527!450 527|450 528!450 528[443 553 434 578!434 578[162 796 -289 744"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!-210 853S3[240 904 554 636!554 636[563 610 587 528!587 528[542 288 321 53"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!-210 853S3|-289 744"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

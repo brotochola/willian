@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 10" itemID="5dded0b0-0000006b" lastModified="1580856183">
+  <timeline>
+    <DOMTimeline name="Símbolo 10">
+      <layers>
+        <DOMLayer name="Símbolo 13" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 13">
+                  <matrix>
+                    <Matrix a="1.22193908691406" b="-0.0702362060546875" c="1.08486938476563" d="-0.908889770507813" tx="202.15" ty="268.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.75" y="60.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo 13" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 13">
+                  <matrix>
+                    <Matrix a="0.713058471679688" b="0.0684356689453125" c="1.74949645996094" d="-0.87030029296875" tx="-0.85" ty="234.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.65" y="60.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo 13" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 13">
+                  <matrix>
+                    <Matrix a="0.631240844726563" b="0.338577270507813" c="1.94990539550781" d="-0.126785278320313" tx="-36.9" ty="8.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.85" y="60.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo 13" color="#FF0000" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 13">
+                  <matrix>
+                    <Matrix a="1.30322265625" b="0.491744995117188" c="2.55325317382813" d="-0.508148193359375" tx="-71.35" ty="124.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.55" y="60.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

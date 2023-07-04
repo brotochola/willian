@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 73" itemID="5ded6132-00000134" lastModified="1575838003">
+  <timeline>
+    <DOMTimeline name="Símbolo 73">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#DBB500"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#BF6A07"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!77 0S6[107 16 139 25!139 25[267 49 375 2!375 2[202 703 374 1231!374 1231[376 1239 379 1247!379 1247[649 2043 497 2726!497 2726[492 2739 487 2752!487 2752|389 2533!389 2533|385 2526!385 2526|254 2720!254 2720[243 2733 233 2746!233 2746
+[357 2121 77 1245!77 1245[-76 636 77 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

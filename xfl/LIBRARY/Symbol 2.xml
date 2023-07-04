@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 2" itemID="5c24c236-0000000e" lastModified="1580597473">
+  <timeline>
+    <DOMTimeline name="Symbol 2">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 84" selected="true" centerPoint3DX="0.3" centerPoint3DY="-105.8">
+                  <matrix>
+                    <Matrix a="7.115966796875" d="7.02880859375" tx="-306.1" ty="-407"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.05" y="42.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 39" name="pelotaGiratoria" selected="true" centerPoint3DX="-3.5" centerPoint3DY="-89.65">
+                  <matrix>
+                    <Matrix a="7.115966796875" d="7.02880859375" tx="-290.6" ty="-378.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.35" y="40.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,329 @@
+body
+{
+  margin: 0px;
+  background-color: #4d8fb7;
+  overflow: hidden;
+}
+
+header
+{
+  background-image: url(../img/header.png);
+  height: 90px;
+}
+
+header .titulo
+{
+    background-image: url(../img/title_background.png);
+    width: 300px;
+    background-size: contain;
+    color: white;
+    height: 70px;
+    background-repeat: no-repeat;
+    margin: auto;
+    text-align: center;
+    background-position: center;
+    font-family: Delirium;
+    font-size: 4em;
+    padding-top: 19px;
+    text-shadow: 2px 2px 5px #822e2e;
+}
+
+header .monedas
+{
+    float: left;
+    color: white;
+    background-image: url(../img/coin_bg_big.png);
+    width: 90px;
+    height: 50px;
+    background-size: contain;
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    font-family: Delirium;
+    font-size: 3em;
+    padding-left: 50px;
+    background-repeat: no-repeat;
+    padding-top: 15px;
+    text-align: center;
+    padding-right: 60px;  
+}
+
+header .billetes
+{
+    float: right;
+    color: white;
+    background-image: url(../img/bill_bg_big.png);
+    width: 90px;
+    height: 50px;
+    background-size: contain;
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    font-family: Delirium;
+    font-size: 3em;
+    padding-left: 70px;
+    background-repeat: no-repeat;
+    padding-top: 15px;
+    text-align: center;
+    padding-right: 15px;
+    background-position: right; 
+}
+
+.contenido
+{
+}
+
+.contenido::before, .contenido::after
+{
+  content: "";
+  height: calc(100vh - 80px);
+  width: 60px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: inline-block;
+  position: absolute;
+}
+
+.contenido::before
+{
+  background-image: url(../img/aside_left.png);
+  left: 0px;
+}
+
+.contenido::after
+{
+  background-image: url(../img/aside_right.png);
+  right: 0px;
+}
+
+ul.principal
+{
+  margin: 0px;
+  background: #5cd4f2;
+  width: 55%;
+  position: absolute;
+  left: 57px;
+  height: calc(100vh - 90px);
+  padding: 0px;
+  list-style: none;
+  border: 5px solid #caf1f6;
+  overflow: scroll;
+}
+
+ul.principal>li
+{
+    padding: 5px 2px;
+    border-bottom: 5px solid #caf1f6;
+    display: block;
+    color: #2e658e;
+    font-family: DK Display Patrol;
+    font-size: 1.8em;
+    text-shadow: -2px -1px 3px #5992b9;
+    overflow: hidden;
+}
+
+ul.principal>li .owl-nav
+{
+  display: none;
+}
+
+ul.principal>li .desplegable
+{
+  max-height: 0px;
+  -webkit-transition: max-height 400ms linear;
+  -moz-transition: max-height 400ms linear;
+  -ms-transition: max-height 400ms linear;
+  -o-transition: max-height 400ms linear;
+  transition: max-height 400ms linear;
+}
+
+ul.principal>li.active .desplegable
+{
+  max-height: 500px;
+  -webkit-transition: max-height 400ms linear;
+  -moz-transition: max-height 400ms linear;
+  -ms-transition: max-height 400ms linear;
+  -o-transition: max-height 400ms linear;
+  transition: max-height 400ms linear;
+}
+
+ul.principal>li.active .owl-nav
+{
+  display: block;
+}
+
+ul.principal>li.active .titulo
+{
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f6a228+0,f6a228+68,c04f1b+100 */
+background: rgb(246,162,40); /* Old browsers */
+background: -moz-linear-gradient(left,  rgba(246,162,40,1) 0%, rgba(246,162,40,1) 68%, rgba(192,79,27,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  rgba(246,162,40,1) 0%,rgba(246,162,40,1) 68%,rgba(192,79,27,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  rgba(246,162,40,1) 0%,rgba(246,162,40,1) 68%,rgba(192,79,27,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6a228', endColorstr='#c04f1b',GradientType=1 ); /* IE6-9 */
+
+color: white;
+    text-shadow: -2px -1px 3px #000;
+}
+
+ul.principal span.item
+{
+    display: inline-block;
+    background: url(../img/item_bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+    height: 30px;
+    width: 110px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+ul.principal span.item img
+{
+  height: 100%;
+}
+
+.opciones
+{
+  background-image: url(../img/selection_background.png);
+  padding: 0px;
+  background-size: cover;
+  background-color: #1a355f;
+  height: 180px;
+}
+
+.opciones .items
+{
+  overflow: hidden;
+  width: 80%;
+  margin: auto;
+  padding: 0px;
+  list-style: none;
+  margin-bottom: 40px;
+}
+
+.opciones .items .owl-stage-outer
+{
+  margin: auto;
+  margin-top: 25px;
+}
+
+.opciones .items .owl-item
+{
+  display: inline-block;
+}
+
+.opciones .items .owl-item img
+{
+  width: 100%;
+}
+
+.opciones .owl-nav
+{
+    position: absolute;
+    left: 0px;
+    top: 120px;
+    width: 100%;
+}
+
+.opciones .owl-nav .owl-prev
+{
+  position: absolute;
+  top: 10px;
+  width: 30px;
+  height: 30px;
+  background: url(../img/left_arrow.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  border: none;
+  color: transparent;
+  left: 15px;
+  z-index: 3;
+}
+
+.opciones .owl-nav .owl-next
+{
+  position: absolute;
+  top: 10px;
+  width: 30px;
+  height: 30px;
+  background: url(../img/right_arrow.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  border: none;
+  color: transparent;
+  right: 15px;
+  z-index: 3;
+}
+
+.info
+{
+  background: #57b8d4;
+}
+
+.info .info1
+{
+    color: white;
+    text-shadow: 0px 0px 2px #00000082;
+    display: inline-block;
+    font-size: 1.3em;
+    font-family: Delirium;
+    margin-top: 10px;
+}
+
+.info .info2
+{
+  display: inline-block;
+  font-family: Delirium;
+  font-size: 1.3em;
+  text-shadow: none;
+}
+
+.info span.monedas
+{
+    background: url(../img/coin_bg.png);
+    width: 50px;
+    background-size: contain;
+    display: inline-block;
+    padding-left: 39px;
+    padding-top: 7px;
+}
+
+.info span.billetes
+{
+    background: url(../img/bill_bg.png);
+    width: 50px;
+    background-size: contain;
+    display: inline-block;
+    padding-left: 41px;
+    padding-top: 7px;
+    color: white;
+    background-repeat: no-repeat;
+}
+
+.info button
+{
+    background: url(../img/button_background.png);
+    font-size: 1.3em;
+    font-family: Delirium;
+    color: white;
+    border: none;
+    background-size: contain;
+    width: 100px;
+    background-repeat: no-repeat;
+    text-shadow: 0px 0px 2px #000;
+    padding-top: 3px;
+    height: 50px;
+}
+
+@font-face
+{
+  font-family: "Delirium";
+  src: url("../fonts/DELIRIUM NCV.ttf");
+}
+
+@font-face
+{
+  font-family: "DK Display Patrol";
+  src: url("../fonts/DK Display Patrol.otf");
+}

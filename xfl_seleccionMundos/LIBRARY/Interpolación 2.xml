@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interpolación 2" itemID="5cfae2c9-0000079c" symbolType="graphic" lastModified="1559945929">
+  <timeline>
+    <DOMTimeline name="Interpolación 2">
+      <layers>
+        <DOMLayer name="Capa_1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mainmenu/Símbolo 6" name="pupi1" selected="true" centerPoint3DX="-27.35" centerPoint3DY="-0.15">
+                  <matrix>
+                    <Matrix a="0.997589111328125" b="-0.06939697265625" c="0.06939697265625" d="0.997589111328125" tx="-35.5" ty="-11.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.35" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="mainmenu/Símbolo 7" name="pupi2" selected="true" centerPoint3DX="28.35" centerPoint3DY="1.75">
+                  <matrix>
+                    <Matrix a="0.997589111328125" b="-0.06939697265625" c="0.06939697265625" d="0.997589111328125" tx="21.05" ty="-8.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.6" y="10.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

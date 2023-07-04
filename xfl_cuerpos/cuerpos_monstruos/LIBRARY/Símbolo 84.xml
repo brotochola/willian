@@ -1,0 +1,106 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 84" itemID="5e174566-0000006f" symbolType="graphic" lastModified="1578583835">
+  <timeline>
+    <DOMTimeline name="Símbolo 84" currentFrame="4">
+      <layers>
+        <DOMLayer name="Símbolo 77" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 77" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.979949951171875" b="-0.199234008789063" c="0.199234008789063" d="0.979949951171875" tx="3" ty="42.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2" y="56.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 77" symbolType="graphic" centerPoint3DX="83.95" centerPoint3DY="73.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.99761962890625" b="0.068817138671875" c="-0.068817138671875" d="0.99761962890625" tx="18.05" ty="40.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.95" y="56.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 77" symbolType="graphic" centerPoint3DX="75.6" centerPoint3DY="55.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.979949951171875" b="-0.199234008789063" c="0.199234008789063" d="0.979949951171875" tx="3" ty="42.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2" y="56.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo 78" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 78" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.987136840820313" b="0.159866333007813" c="-0.159866333007813" d="0.987136840820313" tx="19.35" ty="72.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="32.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 78" symbolType="graphic" centerPoint3DX="83.35" centerPoint3DY="104.15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.998855590820313" b="0.0475311279296875" c="-0.0475311279296875" d="0.998855590820313" tx="15.65" ty="72.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.55" y="32.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 78" symbolType="graphic" centerPoint3DX="83.25" centerPoint3DY="111.7" loop="loop">
+                  <matrix>
+                    <Matrix a="0.987136840820313" b="0.159866333007813" c="-0.159866333007813" d="0.987136840820313" tx="19.35" ty="72.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="32.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 7" itemID="5d9ccc3b-0000071d" lastModified="1570556997">
+  <timeline>
+    <DOMTimeline name="Símbolo 7">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix a="0.25" d="0.25" tx="251.25" ty="108.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="335" y="145"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7EB72C"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 0S2|13400 0!13400 0|13400 5800!13400 5800|0 5800!0 5800|0 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

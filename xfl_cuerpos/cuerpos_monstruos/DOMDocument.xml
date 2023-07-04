@@ -1,0 +1,185 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#00FF66" width="1920" height="1080" currentTimeline="1" xflVersion="2.97" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 19.0 build 326" majorVersion="19" buildNumber="326" objectsSnapTo="false" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="540" previewMode="fast" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="3AF31FCA98C1374F8122E2080112750A">
+     <media>
+          <DOMBitmapItem name="img" itemID="5e0509d3-00001144" sourceLastImported="1577388499" externalFileSize="287857" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="img.png" bitmapDataHRef="M 1 1577388452.dat" frameRight="10240" frameBottom="10240"/>
+          <DOMBitmapItem name="Mapa de bits 1" itemID="5e20f754-0000043d" sourceLastImported="1579298820" externalFileSize="5725" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 1.png" bitmapDataHRef="M 2 1579218772.dat" frameRight="6800" frameBottom="5600"/>
+          <DOMBitmapItem name="Mapa de bits 10" itemID="5e20f79a-00000473" sourceLastImported="1579298820" externalFileSize="2246" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 10.png" bitmapDataHRef="M 11 1579218842.dat" frameRight="2460" frameBottom="3820"/>
+          <DOMBitmapItem name="Mapa de bits 11" itemID="5e20f7b5-00000479" sourceLastImported="1579298820" externalFileSize="408" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 11.png" bitmapDataHRef="M 12 1579218869.dat" frameRight="1080" frameBottom="1000"/>
+          <DOMBitmapItem name="Mapa de bits 12" itemID="5e20f7ba-0000047f" sourceLastImported="1579298820" externalFileSize="736" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 12.png" bitmapDataHRef="M 13 1579218874.dat" frameRight="1340" frameBottom="2360"/>
+          <DOMBitmapItem name="Mapa de bits 13" itemID="5e20f7d0-00000485" sourceLastImported="1579298821" externalFileSize="598" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 13.png" bitmapDataHRef="M 14 1579218896.dat" frameRight="760" frameBottom="1540"/>
+          <DOMBitmapItem name="Mapa de bits 14" itemID="5e20f7d3-0000048b" sourceLastImported="1579298821" externalFileSize="757" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 14.png" bitmapDataHRef="M 15 1579218899.dat" frameRight="2300" frameBottom="1680"/>
+          <DOMBitmapItem name="Mapa de bits 15" itemID="5e20f7d8-00000491" sourceLastImported="1579298821" externalFileSize="1168" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 15.png" bitmapDataHRef="M 16 1579218904.dat" frameRight="2780" frameBottom="1480"/>
+          <DOMBitmapItem name="Mapa de bits 16" itemID="5e20f7df-00000497" sourceLastImported="1579298821" externalFileSize="115" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 16.png" bitmapDataHRef="M 17 1579218911.dat" frameRight="320" frameBottom="40"/>
+          <DOMBitmapItem name="Mapa de bits 17" itemID="5e223860-000001bd" sourceLastImported="1579300960" externalFileSize="2045" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 17.png" bitmapDataHRef="M 19 1579300960.dat" frameRight="2740" frameBottom="1840"/>
+          <DOMBitmapItem name="Mapa de bits 18" itemID="5e223862-000001c3" sourceLastImported="1579300962" externalFileSize="2107" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 18.png" bitmapDataHRef="M 20 1579300962.dat" frameRight="2560" frameBottom="1760"/>
+          <DOMBitmapItem name="Mapa de bits 2" itemID="5e20f759-00000443" sourceLastImported="1579298821" externalFileSize="6616" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 2.png" bitmapDataHRef="M 3 1579218777.dat" frameRight="7820" frameBottom="6180"/>
+          <DOMBitmapItem name="Mapa de bits 3" itemID="5e20f75f-00000449" sourceLastImported="1579298821" externalFileSize="4500" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 3.png" bitmapDataHRef="M 4 1579218783.dat" frameRight="3820" frameBottom="6100"/>
+          <DOMBitmapItem name="Mapa de bits 4" itemID="5e22385d-000001b7" sourceLastImported="1579300957" externalFileSize="5793" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 4.png" bitmapDataHRef="M 18 1579300957.dat" frameRight="2960" frameBottom="2000"/>
+          <DOMBitmapItem name="Mapa de bits 5" itemID="5e20f76a-00000455" sourceLastImported="1579298821" externalFileSize="5306" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 5.png" bitmapDataHRef="M 6 1579218794.dat" frameRight="4400" frameBottom="6620"/>
+          <DOMBitmapItem name="Mapa de bits 6" itemID="5e20f777-0000045b" sourceLastImported="1579298821" externalFileSize="4962" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 6.png" bitmapDataHRef="M 7 1579218807.dat" frameRight="7260" frameBottom="2920"/>
+          <DOMBitmapItem name="Mapa de bits 7" itemID="5e20f787-00000461" sourceLastImported="1579298821" externalFileSize="3174" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 7.png" bitmapDataHRef="M 8 1579218823.dat" frameRight="3920" frameBottom="4300"/>
+          <DOMBitmapItem name="Mapa de bits 8" itemID="5e20f78d-00000467" sourceLastImported="1579298821" externalFileSize="414" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 8.png" bitmapDataHRef="M 9 1579218829.dat" frameRight="560" frameBottom="920"/>
+          <DOMBitmapItem name="Mapa de bits 9" itemID="5e20f795-0000046d" sourceLastImported="1579298821" externalFileSize="905" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 9.png" bitmapDataHRef="M 10 1579218837.dat" frameRight="3660" frameBottom="1060"/>
+          <DOMBitmapItem name="marca.png" itemID="5e152134-0000020d" sourceLastImported="1578443042" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="marca.png" bitmapDataHRef="M 17 1579300778.dat" frameRight="12220" frameBottom="8880"/>
+     </media>
+     <symbols>
+          <Include href="Interpolación 1.xml" itemIcon="1" loadImmediate="false" itemID="5e152240-00000251" lastModified="1578443328"/>
+          <Include href="Interpolación 2.xml" itemIcon="1" loadImmediate="false" itemID="5e152240-00000256" lastModified="1578443328"/>
+          <Include href="Interpolación 3.xml" itemIcon="1" loadImmediate="false" itemID="5e1746c3-000000e4" lastModified="1578583747"/>
+          <Include href="Interpolación 4.xml" itemIcon="1" loadImmediate="false" itemID="5e1746c3-000000e8" lastModified="1578583747"/>
+          <Include href="monstruo1.xml" itemIcon="1" itemID="5e22393b-0000024f" lastModified="1579301179"/>
+          <Include href="monstruo2.xml" itemIcon="1" itemID="5e20f6d7-00000435" lastModified="1579222068"/>
+          <Include href="monstruo3.xml" itemID="5e223923-0000024d" lastModified="1579301159"/>
+          <Include href="monstruo4.xml" itemIcon="1" itemID="5e223937-0000024e" lastModified="1579301694"/>
+          <Include href="monstruo5.xml" itemIcon="1" itemID="5e223940-00000250" lastModified="1579301205"/>
+          <Include href="powa.xml" itemIcon="1" loadImmediate="false" itemID="5e20f722-00000437" lastModified="1579301771"/>
+          <Include href="Símbolo 1.xml" loadImmediate="false" itemID="5e2239b7-0000051e" lastModified="1579301303"/>
+          <Include href="Símbolo 2.xml" loadImmediate="false" itemID="5e2239bc-00000522" lastModified="1579301308"/>
+          <Include href="Símbolo 3.xml" loadImmediate="false" itemID="5e2239c3-00000529" lastModified="1579301315"/>
+          <Include href="Símbolo 4.xml" loadImmediate="false" itemID="5e223a1a-00000534" lastModified="1579301402"/>
+          <Include href="Símbolo 5.xml" loadImmediate="false" itemID="5e223a1d-00000538" lastModified="1579301405"/>
+          <Include href="Símbolo 6.xml" loadImmediate="false" itemID="5e223a1f-0000053c" lastModified="1579301407"/>
+          <Include href="Símbolo 7.xml" loadImmediate="false" itemID="5e223a22-00000540" lastModified="1579301410"/>
+          <Include href="Símbolo 8.xml" loadImmediate="false" itemID="5e223a66-0000054a" lastModified="1579301478"/>
+          <Include href="Símbolo 9.xml" loadImmediate="false" itemID="5e223a67-0000054e" lastModified="1579301479"/>
+          <Include href="Símbolo 10.xml" loadImmediate="false" itemID="5e223a68-00000552" lastModified="1579301480"/>
+          <Include href="Símbolo 11.xml" loadImmediate="false" itemID="5e223a69-00000556" lastModified="1579301481"/>
+          <Include href="Símbolo 12.xml" loadImmediate="false" itemID="5e223a6b-0000055a" lastModified="1579301483"/>
+          <Include href="Símbolo 13.xml" loadImmediate="false" itemID="5e223a8b-00000565" lastModified="1579301515"/>
+          <Include href="Símbolo 14.xml" loadImmediate="false" itemID="5e223a8d-00000569" lastModified="1579301517"/>
+          <Include href="Símbolo 15.xml" loadImmediate="false" itemID="5e223a91-0000056d" lastModified="1579301521"/>
+          <Include href="Símbolo 16.xml" loadImmediate="false" itemID="5e223a92-00000571" lastModified="1579301523"/>
+          <Include href="Símbolo 17.xml" loadImmediate="false" itemID="5e223a96-00000575" lastModified="1579301526"/>
+          <Include href="Símbolo 18.xml" loadImmediate="false" itemID="5e223a97-00000579" lastModified="1579301527"/>
+          <Include href="Símbolo 19.xml" loadImmediate="false" itemID="5e223a9a-0000057d" lastModified="1579301530"/>
+          <Include href="Símbolo 20.xml" loadImmediate="false" itemID="5e223a9b-00000581" lastModified="1579301532"/>
+          <Include href="Símbolo 21.xml" loadImmediate="false" itemID="5e223a9e-00000585" lastModified="1579301534"/>
+          <Include href="Símbolo 22.xml" loadImmediate="false" itemID="5e223a9f-00000589" lastModified="1579301536"/>
+          <Include href="Símbolo 23.xml" itemIcon="1" loadImmediate="false" itemID="5e137ad6-0000001e" lastModified="1578354746"/>
+          <Include href="Símbolo 24.xml" itemIcon="1" loadImmediate="false" itemID="5e137ae4-00000024" lastModified="1579301326"/>
+          <Include href="Símbolo 25.xml" itemIcon="1" loadImmediate="false" itemID="5e137bf0-00000028" lastModified="1578355068"/>
+          <Include href="Símbolo 26.xml" itemIcon="1" loadImmediate="false" itemID="5e137c10-0000002c" lastModified="1578355056"/>
+          <Include href="Símbolo 27.xml" itemIcon="1" loadImmediate="false" itemID="5e137c49-00000030" lastModified="1578355023"/>
+          <Include href="Símbolo 28.xml" itemIcon="1" loadImmediate="false" itemID="5e137c4d-00000034" lastModified="1578355036"/>
+          <Include href="Símbolo 29.xml" loadImmediate="false" itemID="5e223aa2-0000058d" lastModified="1579301538"/>
+          <Include href="Símbolo 30.xml" itemIcon="1" loadImmediate="false" itemID="5e138a36-00000046" lastModified="1579301337"/>
+          <Include href="Símbolo 31.xml" itemIcon="1" loadImmediate="false" itemID="5e138a3e-0000004a" lastModified="1579301344"/>
+          <Include href="Símbolo 32.xml" itemIcon="1" loadImmediate="false" itemID="5e138abb-00000063" lastModified="1578364117"/>
+          <Include href="Símbolo 33.xml" itemIcon="1" loadImmediate="false" itemID="5e138ae3-00000067" lastModified="1578364159"/>
+          <Include href="Símbolo 34.xml" itemIcon="1" loadImmediate="false" itemID="5e138af4-0000006b" lastModified="1578364183"/>
+          <Include href="Símbolo 35.xml" itemIcon="1" loadImmediate="false" itemID="5e13913e-0000006f" lastModified="1578364204"/>
+          <Include href="Símbolo 36.xml" itemIcon="1" loadImmediate="false" itemID="5e139377-0000008a" lastModified="1578355080"/>
+          <Include href="Símbolo 37.xml" loadImmediate="false" itemID="5e223aeb-0000059e" lastModified="1579301611"/>
+          <Include href="Símbolo 38.xml" itemIcon="1" loadImmediate="false" itemID="5e139391-000000a0" lastModified="1578364230"/>
+          <Include href="Símbolo 39.xml" loadImmediate="false" itemID="5e223aed-000005a2" lastModified="1579301613"/>
+          <Include href="Símbolo 40.xml" loadImmediate="false" itemID="5e223af0-000005a6" lastModified="1579301616"/>
+          <Include href="Símbolo 41.xml" itemIcon="1" loadImmediate="false" itemID="5e14d6de-00000033" lastModified="1578432285"/>
+          <Include href="Símbolo 42.xml" itemIcon="1" loadImmediate="false" itemID="5e14db3a-00000039" lastModified="1578432238"/>
+          <Include href="Símbolo 43.xml" itemIcon="1" loadImmediate="false" itemID="5e14e257-000000bf" lastModified="1578432954"/>
+          <Include href="Símbolo 44.xml" itemIcon="1" loadImmediate="false" itemID="5e14e5f2-000000c5" lastModified="1578432733"/>
+          <Include href="Símbolo 45.xml" itemIcon="1" loadImmediate="false" itemID="5e14e8bf-000000c9" lastModified="1578432715"/>
+          <Include href="Símbolo 46.xml" itemIcon="1" loadImmediate="false" itemID="5e14ed21-000000cd" lastModified="1578432675"/>
+          <Include href="Símbolo 47.xml" itemIcon="1" loadImmediate="false" itemID="5e14f1e0-000000d9" lastModified="1578430944"/>
+          <Include href="Símbolo 48.xml" itemIcon="1" loadImmediate="false" itemID="5e14f353-000000dd" lastModified="1578432513"/>
+          <Include href="Símbolo 49.xml" itemIcon="1" loadImmediate="false" itemID="5e14f357-000000e1" lastModified="1578432467"/>
+          <Include href="Símbolo 50.xml" itemIcon="1" loadImmediate="false" itemID="5e14f497-000000e8" lastModified="1578432547"/>
+          <Include href="Símbolo 51.xml" loadImmediate="false" itemID="5e223af1-000005aa" lastModified="1579301618"/>
+          <Include href="Símbolo 52.xml" itemIcon="1" loadImmediate="false" itemID="5e150938-000001a8" lastModified="1578440368"/>
+          <Include href="Símbolo 53.xml" itemIcon="1" loadImmediate="false" itemID="5e1509b4-000001ac" lastModified="1579301650"/>
+          <Include href="Símbolo 54.xml" itemIcon="1" loadImmediate="false" itemID="5e151d51-000001be" lastModified="1578442065"/>
+          <Include href="Símbolo 55.xml" itemIcon="1" loadImmediate="false" itemID="5e151d58-000001c2" lastModified="1578442072"/>
+          <Include href="Símbolo 56.xml" itemIcon="1" loadImmediate="false" itemID="5e151d5d-000001c6" lastModified="1578442778"/>
+          <Include href="Símbolo 57.xml" itemIcon="1" loadImmediate="false" itemID="5e151d62-000001ca" lastModified="1578442082"/>
+          <Include href="Símbolo 58.xml" itemIcon="1" loadImmediate="false" itemID="5e151da6-000001ce" lastModified="1578442150"/>
+          <Include href="Símbolo 59.xml" itemIcon="1" loadImmediate="false" itemID="5e151db1-000001d2" lastModified="1578443128"/>
+          <Include href="Símbolo 60.xml" itemIcon="1" loadImmediate="false" itemID="5e151dc1-000001d6" lastModified="1578442177"/>
+          <Include href="Símbolo 61.xml" itemIcon="1" loadImmediate="false" itemID="5e151e1f-000001dd" lastModified="1578442271"/>
+          <Include href="Símbolo 62.xml" itemIcon="1" loadImmediate="false" itemID="5e152060-000001eb" lastModified="1579301646"/>
+          <Include href="Símbolo 63.xml" loadImmediate="false" itemID="5e223af4-000005ae" lastModified="1579301620"/>
+          <Include href="Símbolo 64.xml" loadImmediate="false" itemID="5e223af6-000005b2" lastModified="1579301622"/>
+          <Include href="Símbolo 65.xml" itemIcon="1" loadImmediate="false" itemID="5e164582-00000055" lastModified="1579301566"/>
+          <Include href="Símbolo 66.xml" itemIcon="1" loadImmediate="false" itemID="5e164586-0000005b" lastModified="1578517962"/>
+          <Include href="Símbolo 67.xml" itemIcon="1" loadImmediate="false" itemID="5e164932-0000006e" lastModified="1578518834"/>
+          <Include href="Símbolo 68.xml" itemIcon="1" loadImmediate="false" itemID="5e164acd-00000072" lastModified="1579301557"/>
+          <Include href="Símbolo 69.xml" itemIcon="1" loadImmediate="false" itemID="5e164ad2-00000076" lastModified="1579301497"/>
+          <Include href="Símbolo 70.xml" loadImmediate="false" itemID="5e223af8-000005b6" lastModified="1579301624"/>
+          <Include href="Símbolo 71.xml" itemIcon="1" loadImmediate="false" itemID="5e16555d-000000f5" lastModified="1578584167"/>
+          <Include href="Símbolo 72.xml" itemIcon="1" loadImmediate="false" itemID="5e165668-000000f9" lastModified="1579301422"/>
+          <Include href="Símbolo 73.xml" itemIcon="1" loadImmediate="false" itemID="5e165771-000000fd" lastModified="1578584708"/>
+          <Include href="Símbolo 74.xml" itemIcon="1" loadImmediate="false" itemID="5e165889-00000101" lastModified="1578584747"/>
+          <Include href="Símbolo 75.xml" itemIcon="1" loadImmediate="false" itemID="5e165f13-00000109" lastModified="1578583277"/>
+          <Include href="Símbolo 76.xml" itemIcon="1" loadImmediate="false" itemID="5e165f17-0000010d" lastModified="1578584822"/>
+          <Include href="Símbolo 77.xml" itemIcon="1" loadImmediate="false" itemID="5e166025-00000113" lastModified="1578583948"/>
+          <Include href="Símbolo 78.xml" itemIcon="1" loadImmediate="false" itemID="5e166028-00000117" lastModified="1578583979"/>
+          <Include href="Símbolo 79.xml" loadImmediate="false" itemID="5e223afa-000005ba" lastModified="1579301626"/>
+          <Include href="Símbolo 80.xml" itemIcon="1" loadImmediate="false" itemID="5e1661e3-00000125" lastModified="1578584105"/>
+          <Include href="Símbolo 81.xml" itemIcon="1" loadImmediate="false" itemID="5e166215-00000129" lastModified="1578584685"/>
+          <Include href="Símbolo 82.xml" itemIcon="1" loadImmediate="false" itemID="5e16622a-0000012d" lastModified="1578584129"/>
+          <Include href="Símbolo 83.xml" itemIcon="1" loadImmediate="false" itemID="5e1744ed-00000060" lastModified="1578585019"/>
+          <Include href="Símbolo 84.xml" itemIcon="1" loadImmediate="false" itemID="5e174566-0000006f" lastModified="1578583835"/>
+          <Include href="Símbolo 85.xml" loadImmediate="false" itemID="5e223afc-000005be" lastModified="1579301628"/>
+          <Include href="Símbolo 86.xml" loadImmediate="false" itemID="5e223afe-000005c2" lastModified="1579301630"/>
+          <Include href="Símbolo 88.xml" itemIcon="1" loadImmediate="false" itemID="5e1cc74b-00000422" lastModified="1579198707"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Escena 1">
+               <layers>
+                    <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="monstruo1" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="553.05" ty="576.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="monstruo2" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="1406.7" ty="634.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="monstruo3" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="2193.4" ty="429.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="404.9" y="249.6"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="monstruo5" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="2650.95" ty="-459.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="335.05" y="232.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="monstruo4" selected="true" symbolType="graphic" centerPoint3DX="1907.25" centerPoint3DY="196.8" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="1610.6" ty="-86.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="294.6" y="298.1"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

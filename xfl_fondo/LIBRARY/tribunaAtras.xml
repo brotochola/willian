@@ -1,0 +1,83 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="tribunaAtras" itemID="5d9bc73b-000003bb" linkageExportForAS="true" linkageClassName="tribunaAtras" symbolType="graphic" lastModified="1570490960">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="tribunaAtras">
+      <layers>
+        <DOMLayer name="Capa_1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 1" symbolType="graphic" centerPoint3DX="172.55" centerPoint3DY="272.4" loop="loop">
+                  <matrix>
+                    <Matrix a="0.653854370117188" b="-0.0240631103515625" d="0.653854370117188" tx="12.9" ty="242.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="-69.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 2" symbolType="graphic" centerPoint3DX="173" centerPoint3DY="305.65" loop="loop">
+                  <matrix>
+                    <Matrix a="0.653854370117188" d="0.7923583984375" tx="12.9" ty="289.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="244.85" y="20.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Copia de Símbolo 3 3" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.582534790039063" b="-0.136688232421875" c="0.136688232421875" d="0.582534790039063" tx="65.6" ty="138.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="122.1" y="95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 1" symbolType="graphic" firstFrame="23" centerPoint3DX="172.55" centerPoint3DY="200.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.653854370117188" b="-0.1318359375" d="0.653854370117188" tx="12.9" ty="195.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.9" y="-3.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Copia de teho2.png">
+                  <matrix>
+                    <Matrix a="0.662551879882813" b="-0.0390167236328125" d="0.662551879882813" tx="12.65" ty="-4.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.45" y="234.45"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

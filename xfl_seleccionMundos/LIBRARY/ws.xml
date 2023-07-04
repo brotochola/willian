@@ -1,0 +1,98 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ws" itemID="5dddaed2-000029a4" lastModified="1581694171">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="ws">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Copia_de_Símbolo_181_3" color="#FF800A" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="w2" name="w2" selected="true">
+                  <matrix>
+                    <Matrix a="-1.7269287109375" d="1.7269287109375" tx="769.7" ty="6.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="137.05" y="215.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Copia_de_Símbolo_181_2" color="#FF4FFF" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="w1" name="w1" selected="true">
+                  <matrix>
+                    <Matrix a="-1.7269287109375" d="1.7269287109375" tx="769.7" ty="6.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="137.05" y="215.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo_181" color="#9933CC" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="w4" name="w4">
+                  <matrix>
+                    <Matrix a="-1.7269287109375" d="1.7269287109375" tx="769.7" ty="6.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="137.05" y="215.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Copia_de_Símbolo_181" color="#009999" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="cabeza w3" name="w3" selected="true">
+                  <matrix>
+                    <Matrix a="-1.7269287109375" d="1.7269287109375" tx="769.7" ty="6.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="137.05" y="215.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Copia_de_Símbolo_181_3" color="#FF0000" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="w5" name="w5" selected="true">
+                  <matrix>
+                    <Matrix a="-1.7269287109375" d="1.7269287109375" tx="769.7" ty="6.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="137.05" y="215.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 3" itemID="5c24c25c-00000014" lastModified="1575403178">
+  <timeline>
+    <DOMTimeline name="Symbol 3">
+      <layers>
+        <DOMLayer name="Capa_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#CCCCCC"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="!933 0[#3A5.18 #182.3 659.5 659!659.5 659|659 659.5!659 659.5[#182.3 #3A5.18 0 933!0 933[#FFFE7D.BD #3A4.E3 -660 659!-660 659[#FFFC5B.0E #182.34 -933 0!-933 0[#FFFC5B.04 #FFFE7D.D3 -660.5 -660!-660.5 -660|-660 -660.5!-660 -660.5[#FFFE7D.D3
+ #FFFC5B.04 0 -933!0 -933[#182.34 #FFFC5B.0E 659 -660!659 -660[#3A4.E3 #FFFE7D.BD 933 0"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!828.5 829|829 828.5!829 828.5[#494.E6 #1E5.76 1173 0!1173 0[#495.1C #FFFE1A.42 829 -830!829 -830[#1E5.CD #FFFB6A.F3 0 -1173!0 -1173[#FFFE1A.86 #FFFB6A.FD -829.5 -830!-829.5 -830|-830 -829.5!-830 -829.5[#FFFB6A.FD #FFFE1A.86 -1173 0!-1173
+ 0[#FFFB6A.F3 #1E5.CD -830 829!-830 829[#FFFE1A.42 #495.1C 0 1173!0 1173[#1E5.76 #494.E6 828.5 829"/>
+                    <Edge fillStyle0="2" edges="
+!970.5 970.5[#55D.21 #237.CB 1373 0!1373 0[#55D.11 #FFFDC7.25 970.5 -971.5!970.5 -971.5[#238.F #FFFAA3.04 0 -1373!0 -1373[#FFFDCB.01 #FFFAA3.02 -966.5 -975!-966.5 -975|-970 -971.5!-970 -971.5[-970.75 #FFFC35.3F -971.5 -970!-971.5 -970
+[#FFFAA3.02 #FFFDC8.7C -1373 0!-1373 0[#FFFAA3.04 #238.F -971.5 970.5!-971.5 970.5[#FFFDC7.25 #55D.11 0 1373!0 1373[#237.CB #55D.21 970.5 970.5!-829 -1030|-830 -1029!-830 -1029[#FFFCC1.49 -1029 -831.5 -1029!-831.5 -1029|-829 -1030"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

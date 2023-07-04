@@ -1,0 +1,115 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1280" height="720" currentTimeline="1" xflVersion="2.97" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 19.0 build 326" majorVersion="19" buildNumber="326" objectsSnapTo="false" viewAngle3D="100.925968316201" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="79C23C5CDF85354A9382B877E4DFDFDA">
+     <folders>
+          <DOMFolderItem name="mainmenu" itemID="5d6c97bb-00000134"/>
+     </folders>
+     <symbols>
+          <Include href="Argen1_Piel1.xml" itemID="5d5ada88-0000008a" lastModified="1573669408"/>
+          <Include href="Argen1_Piel2.xml" itemID="5d5ada81-00000077" lastModified="1573669405"/>
+          <Include href="bocas.xml" loadImmediate="false" itemID="5c425437-00004f04" lastModified="1565216213"/>
+          <Include href="BrazoA_piel1.xml" itemIcon="1" loadImmediate="false" itemID="5d4c343a-00000135" lastModified="1565288168"/>
+          <Include href="BrazoA_Piel2.xml" itemIcon="1" loadImmediate="false" itemID="5d4c5898-000001a1" lastModified="1565284504"/>
+          <Include href="BrazoB_Piel1.xml" itemIcon="1" loadImmediate="false" itemID="5d4c7cd5-000008a2" lastModified="1565293781"/>
+          <Include href="BrazoB_Piel2.xml" itemIcon="1" loadImmediate="false" itemID="5d4c58a4-000001a3" lastModified="1565284516"/>
+          <Include href="cabezaMaestra.xml" itemID="5c421275-000001f6" lastModified="1572984087"/>
+          <Include href="cejas.xml" loadImmediate="false" itemID="5c42543d-00004f05" lastModified="1565216328"/>
+          <Include href="cejas_1.xml" loadImmediate="false" itemID="5d13b836-0000058d" lastModified="1565216341"/>
+          <Include href="cejas_2.xml" loadImmediate="false" itemID="5d13b820-0000058b" lastModified="1565216326"/>
+          <Include href="cejas_4.xml" loadImmediate="false" itemID="5d13b8ba-00000596" lastModified="1565216286"/>
+          <Include href="cejas_wililan.xml" loadImmediate="false" itemID="5d13b83a-0000058e" lastModified="1565216312"/>
+          <Include href="copia Símbolo 29.xml" loadImmediate="false" itemID="5c4250fe-00001ba3" lastModified="1565216437"/>
+          <Include href="copia Símbolo 35.xml" loadImmediate="false" itemID="5c425587-00005bf5" lastModified="1565216247"/>
+          <Include href="copia Símbolo 176.xml" itemIcon="1" loadImmediate="false" itemID="5cbe91f3-00000cfa" lastModified="1561574810"/>
+          <Include href="copia tapa.xml" loadImmediate="false" itemID="5cbe91d0-00000cf6" lastModified="1555995395"/>
+          <Include href="craneos.xml" loadImmediate="false" itemID="5c42542c-00004f02" lastModified="1567400659"/>
+          <Include href="fondo.xml" itemIcon="1" loadImmediate="false" itemID="5d4c6120-000001c2" lastModified="1565286688"/>
+          <Include href="forma_ojos.xml" loadImmediate="false" itemID="5d13b5ef-00000554" lastModified="1565840776"/>
+          <Include href="hierba.xml" itemIcon="1" loadImmediate="false" itemID="5d4b261b-000004cb" lastModified="1565206141"/>
+          <Include href="mainmenu/copia Símbolo 1 3.xml" itemIcon="1" loadImmediate="false" itemID="5d13b542-00000544" lastModified="1556667372"/>
+          <Include href="mainmenu/copia Símbolo 17 2.xml" itemIcon="1" loadImmediate="false" itemID="5d13b542-00000543" lastModified="1556665945"/>
+          <Include href="mainmenu/copia Símbolo 18.xml" itemIcon="1" loadImmediate="false" itemID="5d13b96d-000005c9" lastModified="1560963403"/>
+          <Include href="mainmenu/copia Símbolo 21.xml" itemIcon="1" loadImmediate="false" itemID="5d13b96d-000005c3" lastModified="1560979046"/>
+          <Include href="mainmenu/copia Símbolo 22.xml" itemIcon="1" loadImmediate="false" itemID="5d13b96d-000005c4" lastModified="1560979079"/>
+          <Include href="mainmenu/copia Símbolo 23.xml" itemIcon="1" loadImmediate="false" itemID="5d13b96d-000005c5" lastModified="1560979138"/>
+          <Include href="mainmenu/copia Símbolo 24.xml" itemIcon="1" loadImmediate="false" itemID="5d13b96d-000005c6" lastModified="1560979148"/>
+          <Include href="mainmenu/copia Símbolo 26.xml" itemIcon="1" loadImmediate="false" itemID="5d13b96d-000005c7" lastModified="1560979163"/>
+          <Include href="mainmenu/copia Símbolo 27.xml" itemIcon="1" loadImmediate="false" itemID="5d13b96d-000005c8" lastModified="1560979166"/>
+          <Include href="mainmenu/copia Símbolo 29.xml" itemIcon="1" loadImmediate="false" itemID="5d13b96d-000005c2" lastModified="1561061394"/>
+          <Include href="mainmenu/copia Símbolo 50.xml" itemIcon="1" loadImmediate="false" itemID="5d13b434-000004ff" lastModified="1565216144"/>
+          <Include href="mainmenu/copia Símbolo 72.xml" itemIcon="1" loadImmediate="false" itemID="5d4b5119-000012dd" lastModified="1565217429"/>
+          <Include href="mainmenu/Símbolo 8.xml" itemIcon="1" loadImmediate="false" itemID="5d13b434-000004f4" lastModified="1561572507"/>
+          <Include href="mainmenu/Símbolo 10.xml" loadImmediate="false" itemID="5d13b434-000004fb" lastModified="1561043610"/>
+          <Include href="mainmenu/Símbolo 19.xml" itemIcon="1" loadImmediate="false" itemID="5d13b96d-000005b9" lastModified="1560979108"/>
+          <Include href="mainmenu/Símbolo 25.xml" itemIcon="1" loadImmediate="false" itemID="5d13b96d-000005be" lastModified="1560979155"/>
+          <Include href="mainmenu/Símbolo 44.xml" itemIcon="1" loadImmediate="false" itemID="5d13b434-000004f7" lastModified="1565216208"/>
+          <Include href="mainmenu/Símbolo 69.xml" itemIcon="1" loadImmediate="false" itemID="5d4b5119-000012d9" lastModified="1565217405"/>
+          <Include href="mainmenu/Símbolo 70.xml" itemIcon="1" loadImmediate="false" itemID="5d4b5119-000012da" lastModified="1565217417"/>
+          <Include href="mainmenu/Símbolo 71.xml" itemIcon="1" loadImmediate="false" itemID="5d4b5119-000012db" lastModified="1565217424"/>
+          <Include href="mainmenu/Símbolo 73.xml" itemIcon="1" loadImmediate="false" itemID="5d4b5119-000012d6" lastModified="1565819122"/>
+          <Include href="mainmenu/Símbolo 74.xml" itemIcon="1" loadImmediate="false" itemID="5d4b5119-000012d7" lastModified="1565217374"/>
+          <Include href="mainmenu/Símbolo 75.xml" itemIcon="1" loadImmediate="false" itemID="5d4b5119-000012d8" lastModified="1565819715"/>
+          <Include href="Manga_Corinth1Sao1Santos1Argen1Para1Arcenal1.xml" itemIcon="1" loadImmediate="false" itemID="5d5c71d9-00000e7a" lastModified="1566339545"/>
+          <Include href="numero.xml" itemIcon="1" loadImmediate="false" itemID="5d4c7d28-000008c3" lastModified="1565293864"/>
+          <Include href="PantalonA_Flam1Sao1Santos1Argen1City1.xml" itemIcon="1" loadImmediate="false" itemID="5d5daa8a-00000917" lastModified="1566419594"/>
+          <Include href="PantalonB_Flam1Sao1Santso1Vene1Argen1Dinamo1City1Manch1.xml" itemIcon="1" loadImmediate="false" itemID="5d5dbfa5-00001ab6" lastModified="1566424997"/>
+          <Include href="pelos.xml" loadImmediate="false" itemID="5c425427-00004f01" lastModified="1565217265"/>
+          <Include href="pestaneos.xml" itemIcon="1" loadImmediate="false" itemID="5cbe9155-00000ce9" lastModified="1561574792"/>
+          <Include href="Pierna_Piel1.xml" itemIcon="1" loadImmediate="false" itemID="5d4c67c1-0000027c" lastModified="1565288385"/>
+          <Include href="Pierna_Piel2.xml" itemIcon="1" loadImmediate="false" itemID="5d4c58b0-000001a5" lastModified="1565284528"/>
+          <Include href="pupilas.xml" loadImmediate="false" itemID="5c425432-00004f03" lastModified="1555992469"/>
+          <Include href="Símbolo 3.xml" itemIcon="1" loadImmediate="false" itemID="5c4216ed-00000066" lastModified="1565216166"/>
+          <Include href="Símbolo 6.xml" loadImmediate="false" itemID="5c424be4-000000e5" lastModified="1547848676"/>
+          <Include href="Símbolo 7.xml" loadImmediate="false" itemID="5c424be6-000000ea" lastModified="1547848678"/>
+          <Include href="Símbolo 9.xml" loadImmediate="false" itemID="5c68a2e8-000000fd" lastModified="1550549336"/>
+          <Include href="Símbolo 10.xml" loadImmediate="false" itemID="5c68a2ec-00000102" lastModified="1550549340"/>
+          <Include href="Símbolo 13.xml" loadImmediate="false" itemID="5c68a2f3-0000010e" lastModified="1550549398"/>
+          <Include href="Símbolo 28.xml" itemIcon="1" loadImmediate="false" itemID="5d0aa6fb-0000008a" lastModified="1561061408"/>
+          <Include href="Símbolo 35.xml" loadImmediate="false" itemID="5c424bfb-000000f6" lastModified="1565216199"/>
+          <Include href="Símbolo 37.xml" loadImmediate="false" itemID="5c424bfd-000000fa" lastModified="1547848701"/>
+          <Include href="Símbolo 41.xml" loadImmediate="false" itemID="5c424bfe-00000100" lastModified="1565216188"/>
+          <Include href="Símbolo 42.xml" loadImmediate="false" itemID="5c424c0a-00000106" lastModified="1547848714"/>
+          <Include href="Símbolo 56.xml" itemIcon="1" loadImmediate="false" itemID="5d13b070-00000055" lastModified="1561571440"/>
+          <Include href="Símbolo 58.xml" itemIcon="1" loadImmediate="false" itemID="5d13b0a5-0000006b" lastModified="1561574738"/>
+          <Include href="Símbolo 176.xml" itemIcon="1" loadImmediate="false" itemID="5cbe8be2-000001eb" lastModified="1561574779"/>
+          <Include href="tapa.xml" loadImmediate="false" itemID="5cbe8b25-000001e0" lastModified="1555994033"/>
+          <Include href="Torso_Argen1.xml" itemIcon="1" loadImmediate="false" itemID="5d5ada9a-0000008e" lastModified="1566237002"/>
+          <Include href="Zapato_Argen1.xml" itemIcon="1" loadImmediate="false" itemID="5d5ae410-00000310" lastModified="1566238468"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Escena 1">
+               <layers>
+                    <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Argen1_Piel1" selected="true">
+                                             <matrix>
+                                                  <Matrix tx="950" ty="284.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-16.55" y="-46.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Argen1_Piel2">
+                                             <matrix>
+                                                  <Matrix tx="552.15" ty="268"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-16.55" y="-46.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

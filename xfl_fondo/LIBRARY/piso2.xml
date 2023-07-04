@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="piso2" itemID="5c36364e-000002a1" linkageExportForAS="true" linkageClassName="piso2" lastModified="1547671451">
+  <timeline>
+    <DOMTimeline name="piso2">
+      <layers>
+        <DOMLayer name="Layer_1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="199" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 12" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="298" ty="10.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1963.4" y="90.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="199" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 12" selected="true" symbolType="graphic" centerPoint3DX="1748.15" centerPoint3DY="100.6" loop="loop">
+                  <matrix>
+                    <Matrix tx="-215.25" ty="10.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1963.4" y="90.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 11erwewerrw" itemID="5db1b3bf-00001fed" symbolType="graphic" lastModified="1571926975">
+  <timeline>
+    <DOMTimeline name="Símbolo 11erwewerrw">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CCCCCC"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#40424A"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="2" edges="!1337 175|1337 349"/>
+                    <Edge fillStyle1="1" edges="!0 175|0 0!0 0|1337 0!1337 0|1337 175"/>
+                    <Edge fillStyle1="2" edges="!0 349|0 175"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!0 175|1337 175"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="!0 349S2|1337 349"/>
+                    <Edge fillStyle1="3" edges="!1337 349S2|1337 2181!1337 2181|0 2181!0 2181|0 349"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

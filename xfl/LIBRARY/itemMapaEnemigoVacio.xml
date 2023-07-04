@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="itemMapaEnemigoVacio" itemID="5e41bbb6-0000189c" linkageExportForAS="true" linkageClassName="itemMapaEnemigoVacio" lastModified="1581366202">
+  <timeline>
+    <DOMTimeline name="itemMapaEnemigoVacio">
+      <layers>
+        <DOMLayer name="Capa_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="iconoEnemigo" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-86.7" ty="-80.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="86.75" y="80.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

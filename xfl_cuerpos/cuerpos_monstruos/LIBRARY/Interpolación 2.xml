@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interpolación 2" itemID="5e152240-00000256" symbolType="graphic" lastModified="1578443328">
+  <timeline>
+    <DOMTimeline name="Interpolación 2">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="marca.png">
+                  <matrix>
+                    <Matrix a="0.454986572265625" d="0.454986572265625" tx="-139" ty="-101"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="273" y="222"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

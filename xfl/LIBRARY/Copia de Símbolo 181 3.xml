@@ -1,0 +1,15 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Copia de Símbolo 181 3" itemID="5ddc27bc-0000045b" symbolType="graphic" lastModified="1577208524" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="Copia de Símbolo 181 3">
+      <layers>
+        <DOMLayer name="Capa 8" color="#FF4F4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

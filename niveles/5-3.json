@@ -1,0 +1,184 @@
+{
+  "_debug_cejas": [
+    "cejas_willian",
+    "cejas_1",
+    "cejas_2",
+    "cejas_3"
+  ],
+  "_debug_pelos": [
+    "willian",
+    "negro1",
+    "rubio1",
+    "willian_trencitas",
+    "willian2",
+    "willian3",
+    "disco1",
+    "johnny_bravo",
+    "johnyy_bravo2",
+    "johnny_bravo3"
+  ],
+  "amigos": [
+    {
+      "accionCuandoLaPelotaLoPasa": "parado",
+      "accionDpsDePegarle": "parado",
+      "altura": 1.8,
+      "cara": {
+        "boca": 1,
+        "cejas": "cejas_willian",
+        "flequillo": "johnny_bravo",
+        "ojos": 0,
+        "pelo": "johnny_bravo",
+        "piel": 1
+      },
+      "empieza": "parado",
+      "fuerzaX": 290,
+      "fuerzaY": -230,
+      "nombre": "charly",
+      "precision": 1,
+      "queHaceCuandoLaRecupera": "caminando",
+      "saltaParaPararla": false,
+      "saltoMax": 150,
+      "tiempoEsperaParaPasarselaAWillian": 1.1,
+      "velMaxParaPararla": 500,
+      "velocidadMax": 200,
+      "x": -1900,
+      "y": 750
+    },
+    {
+      "accionCuandoLaPelotaLoPasa": "parado",
+      "accionDpsDePegarle": "parado",
+      "altura": 1.8,
+      "cara": {
+        "boca": 1,
+        "cejas": "cejas_willian",
+        "flequillo": "johnny_bravo",
+        "ojos": 0,
+        "pelo": "johnny_bravo",
+        "piel": 1
+      },
+      "empieza": "caminando",
+      "fuerzaX": 160,
+      "fuerzaY": -370,
+      "nombre": "charly",
+      "precision": 1,
+      "queHaceCuandoLaRecupera": "caminando",
+      "saltaParaPararla": false,
+      "saltoMax": 150,
+      "tiempoEsperaParaPasarselaAWillian": 0.6,
+      "velMaxParaPararla": 500,
+      "velocidadMax": 200,
+      "x": 2600,
+      "y": 750
+    }
+  ],
+  "arco": {
+    "x": 1800
+  },
+  "arquero": {
+    "_debug_opciones_accionAnteWillian": [
+      "reventarla",
+      "atajada"
+    ],
+    "_debug_opciones_accionCuandoVeAWillian": [
+      "corriendo",
+      "trotando",
+      "caminando",
+      "vuelveALaLinea",
+      "esperaEnElAreaChica",
+      "esperaEnElAreaGrande"
+    ],
+    "aQVelDaReboteAbajo": 900,
+    "aQVelDaReboteArriba": 900,
+    "aQVelDaReboteMedio": 900,
+    "aQVelLaAtajaAbajo": 500,
+    "aQVelLaAtajaArriba": 500,
+    "aQVelLaAtajaMedio": 500,
+    "aQueDistanciaVeAWillian": 2000,
+    "accionAnteWillian": "reventarla",
+    "accionCuandoVeAWillian": "esperaEnElAreaChica",
+    "altura": 140,
+    "cara": {
+      "boca": 1,
+      "cejas": "cejas_willian",
+      "ojos": 0,
+      "pelo": "rubio1",
+      "piel": 1
+    },
+    "empieza": "parado",
+    "flanqueableConGambeta360": false,
+    "fuerzaX": -50,
+    "fuerzaY": -50,
+    "nombre": "arqui",
+    "saltaAnteSombrerito": true,
+    "saltoMax": 150,
+    "velocidadMax": 210,
+    "x": 1700,
+    "y": 750
+  },
+  "camisetaContrincantes": "brasil",
+  "camisetaRival": 3,
+  "camisetaWillian": "brasil",
+  "descripcion": "hacerla rebotar en el enemigo y después cabecear rápido el centro",
+  "enemigos": [
+    {
+      "accionCuandoLaPelotaLoPasa": "parado",
+      "accionDpsDePegarle": "parado",
+      "altura": 1.8,
+      "cara": {
+        "boca": 1,
+        "cejas": "cejas_willian",
+        "flequillo": "johnny_bravo",
+        "ojos": 0,
+        "pelo": "johnny_bravo",
+        "piel": 1
+      },
+      "empieza": "parado",
+      "fuerzaX": 160,
+      "fuerzaY": -370,
+      "nombre": "charly",
+      "precision": 1,
+      "queHaceCuandoLaRecupera": "reventarla",
+      "saltaParaCabecear": true,
+      "saltoMax": 180,
+      "tiempoEsperaParaPasarselaAWillian": 0.6,
+      "velMaxParaPararla": 800,
+      "velocidadMax": 200,
+      "x": -800,
+      "y": 750
+    }
+  ],
+  "estrella": {
+    "x": -1200,
+    "y": 480
+  },
+  "fondo": "potrero",
+  "key": "-LkQ_Qv3lDVxbJTDPcl5",
+  "mundo": 5,
+  "nombre": "nivel 2 tiro libre",
+  "orden": 3,
+  "pelota": {
+    "angularVel": 0,
+    "fuerzaX": 0,
+    "fuerzaY": 0,
+    "x": -1100,
+    "y": 850
+  },
+  "piso": "cesped",
+  "tiempoObjetivo": 8,
+  "willian": {
+    "accionDpsDePegarle": "corriendo",
+    "cara": {
+      "boca": 0,
+      "cejas": "cejas_willian",
+      "ojos": 0,
+      "pelo": "willian2",
+      "piel": 0
+    },
+    "empieza": "parado",
+    "nombre": "Willian",
+    "saltoMax": 150,
+    "velocidadMax": 180,
+    "x": -1200,
+    "y": 750
+  }
+}

@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="itemMapaEnemigoSalto" itemID="5e419605-000000f5" linkageExportForAS="true" linkageClassName="itemMapaEnemigoSalto" lastModified="1581357586">
+  <timeline>
+    <DOMTimeline name="itemMapaEnemigoSalto">
+      <layers>
+        <DOMLayer name="Capa_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 36" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.912017822265625" b="0.410049438476563" c="-0.410049438476563" d="0.912017822265625" tx="9.15" ty="-51.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.6" y="46.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 37" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.99029541015625" b="0.13897705078125" c="-0.13897705078125" d="0.99029541015625" tx="-8.2" ty="-10.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.25" y="10.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="iconoEnemigo" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-86.7" ty="-80.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="86.75" y="80.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

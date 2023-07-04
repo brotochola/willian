@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mainmenu/Símbolo 6" itemID="5cff1b39-0000064a" lastModified="1547848676">
+  <timeline>
+    <DOMTimeline name="Símbolo 6">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!262 84S1|261 83!261 83[255 71 249 62!249 62[224 24 193 10!193 10|193 11!193 11[171 0 148 0!148 0[79 -5 34 83!34 83[0 148 0 240!0 240[0 332 34 397!34 397[79 486 148 480!148 480[216 486 261 397!261 397[295 332 295 240!295 240[295 149 262
+ 84"/>
+                    <Edge cubics="!193 10(;193,10 193,11 193,11q193 10 193 11);"/>
+                    <Edge cubics="!193 11(;178,4 163,0 148,0q193 11Q171 0q148 0);"/>
+                    <Edge cubics="!261 83(;257,75 253,68 249,62q261 83Q255 71q249 62);"/>
+                    <Edge cubics="!148 0(;102,-3 64,24 34,83q148 0Q79 -5q34 83);"/>
+                    <Edge cubics="!249 62(;232,37 214,19 193,10q249 62Q224 24q193 10);"/>
+                    <Edge cubics="!262 84(262,84;262,84 261,83 261,83q262 84 261 83);"/>
+                    <Edge cubics="!261 397(;284,354 295,301 295,240q261 397Q295 332q295 240);"/>
+                    <Edge cubics="!34 397(;64,456 102,484 148,480q34 397Q79 486q148 480);"/>
+                    <Edge cubics="!0 240(;0,301 11,354 34,397q0 240Q0 332q34 397);"/>
+                    <Edge cubics="!148 480(;193,484 231,456 261,397q148 480Q216 486q261 397);"/>
+                    <Edge cubics="!295 240(;295,179 284,127 262,84q295 240Q295 149q262 84);"/>
+                    <Edge cubics="!34 83(;11,126 0,179 0,240q34 83Q0 148q0 240);"/>
+                  </edges>
+                </DOMShape>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#ECE7E3"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!180 49S2[207 49 226 68!226 68[246 88 246 115!246 115[246 142 226 161!226 161[207 181 180 181!180 181[153 181 133 161!133 161[114 142 114 115!114 115[114 88 133 68!133 68[153 49 180 49"/>
+                        <Edge cubics="!226 68(;239,81 246,97 246,115q226 68Q246 88q246 115)246,115;"/>
+                        <Edge cubics="!180 49(180,49;198,49 213,55 226,68q180 49Q207 49q226 68);"/>
+                        <Edge cubics="!133 68(133,68;146,55 162,49 180,49q133 68Q153 49q180 49);"/>
+                        <Edge cubics="!114 115(114,115;114,97 120,81 133,68q114 115Q114 88q133 68);"/>
+                        <Edge cubics="!180 181(;162,181 146,174 133,161q180 181Q153 181q133 161)133,161;"/>
+                        <Edge cubics="!226 161(226,161;213,174 198,181 180,181q226 161Q207 181q180 181);"/>
+                        <Edge cubics="!133 161(133,161;120,148 114,133 114,115q133 161Q114 142q114 115);"/>
+                        <Edge cubics="!246 115(246,115;246,133 239,148 226,161q246 115Q246 142q226 161);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

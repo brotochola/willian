@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 24" itemID="5e137ae4-00000024" symbolType="graphic" lastModified="1579301326">
+  <timeline>
+    <DOMTimeline name="Símbolo 24" currentFrame="1">
+      <layers>
+        <DOMLayer name="Capa 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 1">
+                  <matrix>
+                    <Matrix tx="191" ty="117.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 2" selected="true">
+                  <matrix>
+                    <Matrix tx="191" ty="117.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 3">
+                  <matrix>
+                    <Matrix tx="191" ty="117.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 2">
+                  <matrix>
+                    <Matrix tx="191" ty="117.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 1" selected="true">
+                  <matrix>
+                    <Matrix tx="191" ty="117.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

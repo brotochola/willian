@@ -1,0 +1,109 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="forma_ojos" itemID="5d13b5ef-00000554" lastModified="1565840776">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="forma_ojos" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;68&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Capa_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop();]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ojos_normales" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mainmenu/Símbolo 73">
+                  <matrix>
+                    <Matrix tx="-4.2" ty="-4.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.45" y="31.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mainmenu/Símbolo 74">
+                  <matrix>
+                    <Matrix tx="-4.15" ty="-4.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="56.85" y="31.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mainmenu/Símbolo 75" selected="true">
+                  <matrix>
+                    <Matrix tx="6.7" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="48.4" y="19.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mainmenu/Símbolo 69">
+                  <matrix>
+                    <Matrix d="1.27078247070313" tx="-4.2" ty="2.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.45" y="18.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mainmenu/Símbolo 70">
+                  <matrix>
+                    <Matrix tx="-4.2" ty="4.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.45" y="22.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mainmenu/Símbolo 71">
+                  <matrix>
+                    <Matrix tx="-4.2" ty="0.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.45" y="26.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mainmenu/copia Símbolo 72" selected="true">
+                  <matrix>
+                    <Matrix tx="-3.6" ty="-1.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54.85" y="27.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

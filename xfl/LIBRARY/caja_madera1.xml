@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="caja_madera1" itemID="5e34d183-000000df" linkageExportForAS="true" linkageClassName="caja_madera1" lastModified="1581714778">
+  <timeline>
+    <DOMTimeline name="caja_madera1">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 8">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-53" ty="-54"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107" y="109"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,324 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Copia de Símbolo 45 2 2" itemID="5de98253-00000137" symbolType="graphic" lastModified="1575838134">
+  <timeline>
+    <DOMTimeline name="Copia de Símbolo 45 2 2" currentFrame="51">
+      <layers>
+        <DOMLayer name="Capa_1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 89">
+                  <matrix>
+                    <Matrix tx="0.15" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.05" y="69.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 90">
+                  <matrix>
+                    <Matrix tx="2.2" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9.45" y="69.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 91">
+                  <matrix>
+                    <Matrix tx="3.65" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9" y="69.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 92">
+                  <matrix>
+                    <Matrix tx="3.7" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9.35" y="69.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 93">
+                  <matrix>
+                    <Matrix tx="2.85" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.35" y="69.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 94">
+                  <matrix>
+                    <Matrix tx="2.1" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.35" y="69.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 95">
+                  <matrix>
+                    <Matrix tx="1.4" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.25" y="69.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 96">
+                  <matrix>
+                    <Matrix tx="0.8" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.05" y="69.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 97">
+                  <matrix>
+                    <Matrix tx="0.25" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.75" y="69.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 98">
+                  <matrix>
+                    <Matrix tx="-0.3" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14.5" y="69.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 99">
+                  <matrix>
+                    <Matrix tx="-0.55" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14.85" y="69.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 100">
+                  <matrix>
+                    <Matrix tx="-0.75" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.1" y="69.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 101" selected="true">
+                  <matrix>
+                    <Matrix tx="-0.85" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.25" y="69.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 101" selected="true">
+                  <matrix>
+                    <Matrix tx="-0.85" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.25" y="69.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 100">
+                  <matrix>
+                    <Matrix tx="-0.75" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.1" y="69.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 99">
+                  <matrix>
+                    <Matrix tx="-0.55" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14.85" y="69.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 98">
+                  <matrix>
+                    <Matrix tx="-0.3" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14.5" y="69.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 97">
+                  <matrix>
+                    <Matrix tx="0.25" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.75" y="69.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 96">
+                  <matrix>
+                    <Matrix tx="0.8" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.05" y="69.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 95">
+                  <matrix>
+                    <Matrix tx="1.4" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.25" y="69.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 94">
+                  <matrix>
+                    <Matrix tx="2.1" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.35" y="69.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 93">
+                  <matrix>
+                    <Matrix tx="2.85" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.35" y="69.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 92">
+                  <matrix>
+                    <Matrix tx="3.7" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9.35" y="69.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 91">
+                  <matrix>
+                    <Matrix tx="3.65" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9" y="69.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 90" selected="true">
+                  <matrix>
+                    <Matrix tx="2.2" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9.45" y="69.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 89">
+                  <matrix>
+                    <Matrix tx="0.15" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.05" y="69.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,338 @@
+<html>
+    <head>
+        <title>Willian's</title>
+        <!-- title -->
+        <meta charset="utf-8">
+        <!-- META -->
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="title" content="Página principal">
+        <meta name="Keywords" content="aplication">
+        <meta name="description" content="Página">
+        <meta name="robots" content="index, follow">
+        <!-- Icon -->
+        <link href="logo.png" rel="icon" />
+        <!-- General Style -->
+        <link rel="stylesheet" href="media/css/style.css">
+        <!-- Font-awesome -->
+        <link rel="stylesheet" href="media/fontawesome/web-fonts-with-css/css/fontawesome-all.min.css">
+        <!-- Fonts Google -->
+        <!--<link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">-->
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" rel="stylesheet">
+        <!-- jquery -->
+        <script src="media/js/jquery.js" ></script>
+        <!-- Bootstrap Css -->
+        <link rel="stylesheet" href="media/css/bootstrap.min.css">
+        <!-- Bootstrap Js -->
+        <script src="media/js/bootstrap.js" ></script>
+        <!-- carousel -->
+        <link rel="stylesheet" href="media/owlcarousel2/assets/owl.carousel.min.css">
+        <link rel="stylesheet" href="media/owlcarousel2/assets/owl.theme.default.min.css">
+        <script src="media/owlcarousel2/owl.carousel.min.js"></script>
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    
+    
+    
+<script>
+
+    function mandarFormu(){
+        let tokenCaptcha=grecaptcha.getResponse();
+        if(tokenCaptcha.length<2) {
+            console.error("wrong captcha!")
+            return;
+        }
+        errores=0;
+        
+        if($("#nombre").val()==""){
+                //$("#nombre").attr("placeholder","INSERT NAME");
+                errores++;
+        }
+        if($("#email").val()==""){
+                //$("#email").attr("placeholder","INSERT VALID EMAIL");
+                errores++;
+        }
+        if($("#tema").val()==""){
+                //$("#tema").attr("placeholder","INSERT VALID SUBJECT");
+                errores++;
+        }
+        if($("#mensaje").val()==""){
+              //  $("#mensaje").attr("placeholder","INSERT VALID MESSAGE");
+                errores++;
+        }
+        
+    
+        if(errores==0){
+                $.ajax({
+                    dataType:"json",
+                    url: "mandarMail.php",
+                    data:{
+                        nombre:$("#nombre").val(),
+                        mensaje:$("#mensaje").val(),
+                        email:$("#email").val(),
+                        tema:$("#tema").val()
+                       
+                    },
+                    success: function(respuesta) {
+                        console.log(respuesta)
+                            //if(respuesta==1){
+                                $("#formuContacto").html("");
+                                $("#formuContacto").append("<h6 class='gracias'></h6>");
+                            //}
+            
+    
+                    }
+                });	
+        }
+    }
+    
+    
+    </script>
+
+
+    </head>
+    
+    <body>
+        
+        <section class="main-responsibe">
+            <div class="container-fluid">
+                <div class="row bar">
+                    <div class="col-6">
+                        <a href="index.html"><img class="logo" src="logo.png" alt="logo"></a>
+                    </div>
+                    <div class="col-6 text-right">
+                        <button id="buttondesple" class="btn btn-primary"><i class="fas fa-bars"></i></button>
+                        <button id="buttonocult" class="btn btn-primary" style="display: none;"><i class="fas fa-times"></i></button>
+                    </div>
+                </div>
+                <div class="row option" style="display: none">
+                    <div class="col-12">
+                        <ul>
+                            <li><a href="#" >Servicios</a></li>
+                            <li><a href="#">Nosotros</a></li>
+                            <li><a href="#">Instalaciones</a></li>
+                            <li><a href="#">Experiencias</a></li>
+                            <li><a href="#">Contacto</a></li>                         
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <script>
+        $("#buttondesple").click(function(){ 
+            $('.option').toggle(); 
+            $("#buttondesple").hide();
+            $("#buttonocult").show();
+        });   
+        $("#buttonocult").click(function(){ 
+            $('.option').toggle(); 
+            $("#buttonocult").hide();
+            $("#buttondesple").show();
+        });     
+        </script>
+        
+        <section class="main-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <ul>
+                            <li><a href="#" class="logo"><img src="logo.png"></a></li>
+                            <li><a href="#" class="link active">About Willian The Game</a></li>
+                            <li><a href="#" class="link">The Team</a></li>
+                            <li><a href="#" class="link">Main Features</a> </a></li>
+                            <li><a href="#" class="link">Contact</a></li>
+                            <li>
+                               
+                                <div class="gplay roboto-family" style="background-image:url(appstore.png)"></div>
+                                   
+                                
+                           
+                                <div class="gplay roboto-family" style="background-image:url(playstore.png)">  </div>
+                            
+                            
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="header">
+            <video id="fondo_video" autoplay mute muted loop  src="fondo_brasil.mp4"></video>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="title-header">
+                            <h1>Willian's Football Challenge</h1>
+                            <p>Go through the funniest challenges on the playing field with Willian!<br>
+                                Solve all the levels and score the best goals!<br>                                
+                                Win all matches alongside Willian!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--
+            <div class="meuContainer">
+                <div class="tablet">
+                    <div class="tela">
+                        <video src="fondo_brasil.mp4" autoplay loop muted class="video"></video>
+                    </div>
+                </div>
+            </div> -->
+        </section>
+        
+        <section class="biografia">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h1><div class="line-left"></div>About Willian The Game<div class="line-right"></div></h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <img src="media/img/biografia.png">
+                    </div>
+                    <div class="col-md-6">
+                        
+                        <p>
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                        </p>
+                        
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+  
+        <section class="team trailer" >
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h1><div class="line-left"></div>Trailer<div class="line-right"></div></h1>
+                    </div>
+                </div>
+                <div class="row">
+                   <video id="trailer" src="trailer.mp4" autoplay loop muted ></video>
+                    
+              
+                </div>
+            </div>
+        </section>
+
+
+        <section class="team">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h1><div class="line-left"></div>The Team<div class="line-right"></div></h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4"><div class="team-profile profile1"><div class="info"><div class="triangle"></div><h3>FACUNDO <span>/Lead Dev</span><img  class="ln" src="ln.png"></div></h3> </div></div>
+                    <div class="col-md-4"><div class="team-profile profile2"><div class="info"><div class="triangle"></div><h3>BRAIAN <span>/Producer</span><img  class="ln" src="ln.png"></div></h3> </div></div>
+
+                    <div class="col-md-4"><div class="team-profile profile3"><div class="info"><div class="triangle"></div><h3>GABI <span>/Lead Designer</span><img  class="ln" src="ln.png"></div></h3> </div></div>
+                    <div class="col-md-4"><div class="team-profile profile6"><div class="info"><div class="triangle"></div><h3>LEO <span>/Illustrator & Animator</span><img  class="ln" src="ln.png"></div></h3> </div></div>
+                    <div class="col-md-4"><div class="team-profile profile4"><div class="info"><div class="triangle"></div><h3>SANTIAGO <span>/Game Designer</span><img  class="ln" src="ln.png"></div></h3> </div></div>
+                    <div class="col-md-4"><div class="team-profile profile9"><div class="info"><div class="triangle"></div><h3>ANDREINA <span>/UI Designer</span><img  class="ln" src="ln.png"></div></h3> </div></div>
+                    <div class="col-md-4"><div class="team-profile profile7"><div class="info"><div class="triangle"></div><h3>AYLEN <span>/Illustrator</span><img  class="ln" src="ln.png"></div></h3> </div></div>
+                    <div class="col-md-4"><div class="team-profile profile8"><div class="info"><div class="triangle"></div><h3>MARTIN <span>/Dev</span><img  class="ln" src="ln.png"></div></h3> </div></div>
+                    <div class="col-md-4"><div class="team-profile profile5"><div class="info"><div class="triangle"></div><h3>NACHO <span>/Producer</span><img  class="ln" src="ln.png"></div></h3> </div></div>
+                    
+                    
+                    <!--
+                        Brai: Producer
+Facu: Lead Dev
+Gabi: Lead Designer
+Leo: Illustrator/animator
+Martín: Dev
+Aylen: Illustrator
+Nacho: Producer
+Santiago: Game Designer
+Andreina: UI Designer
+
+
+                    -->
+                </div>
+            </div>
+        </section>
+        
+
+
+      
+
+
+
+        <section class="gamers">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h1><div class="line-left"></div>Main Features<div class="line-right"></div></h1>
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-7 col-md-6 not-padding">
+                        <div class="back-img"></div>
+                    </div>
+                    <div class="col-lg-5 col-md-6 text-left" >
+                        <div class="content">
+                            
+                            <p>Duis aute irure dolor in reprehenderit in<br> voluptate velit esse cillum dolore eu fugiat<br> nulla pariatur.</p>
+                            <ul>
+                                <li><i class="fas fa-check"></i> Refresing to get such a personal touch. </li>
+                                <li><i class="fas fa-check"></i> Duis aute irure dolor in reprehenderit in voluptate. </li>
+                                <li><i class="fas fa-check"></i> Velit esse cillum dolore eu fugiat nulla pariatur. </li>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 reduc-div-20">
+                        <div class="contenedor">
+                            <input type="text" id="nombre" class="inputText form-control " required="">
+                            <span class="floating-label family-ubuntu">Name*</span>
+                        </div>
+                        <div class="contenedor">
+                            <input type="text" id="tema" class="inputText form-control" required="">
+                            <span class="floating-label family-ubuntu">Subject*</span>
+                        </div>
+                        <div class="contenedor">
+                            <input type="text" id="email" class="inputText form-control" required="">
+                            <span class="floating-label family-ubuntu">E-mail</span>
+                        </div>
+                        <div class="contenedor">
+                            <textarea type="text" id="mensaje" class="inputText form-control" required=""></textarea>
+                            <span class="floating-label family-ubuntu">Message*</span>
+                        </div>
+                        
+                        <div class="text-center">
+                            <div class="g-recaptcha" data-sitekey="6LdfoOUUAAAAAPZ5Y2x6Bh-ArwouGrq0vQBLYtNW"></div>
+
+                        </div>
+
+                        <div class="text-center">
+                            <button class="family-ubuntu send" onclick="mandarFormu()">Send</button>
+                        </div>
+                    </div>
+                </div>
+               <br><br><br><br><br><br><br><br><br><br><br><br>
+               <div class="nuevoFooter">
+                <div class="gplay roboto-family" style="background-image:url(appstore.png)"></div>
+                <div class="gplay roboto-family" style="background-image:url(playstore.png)">  </div>
+                           
+               </div>
+
+            </div>
+        </section>
+    
+    </body>
+
+    </html>

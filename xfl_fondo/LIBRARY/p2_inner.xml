@@ -1,0 +1,85 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="p2_inner" itemID="5c3836c6-00000042" lastModified="1570556883">
+  <timeline>
+    <DOMTimeline name="p2_inner">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 122">
+                  <matrix>
+                    <Matrix a="1.2640380859375" d="1.2640380859375" tx="353.65" ty="79.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.2" y="6.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 124">
+                  <matrix>
+                    <Matrix a="1.2640380859375" d="1.2640380859375" tx="572.7" ty="71.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 124">
+                  <matrix>
+                    <Matrix a="1.2640380859375" d="1.2640380859375" tx="45.95" ty="46.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.85" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 122">
+                  <matrix>
+                    <Matrix a="1.2640380859375" d="1.2640380859375" tx="479.4" ty="131.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.2" y="6.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Símbolo 122">
+                  <matrix>
+                    <Matrix a="1.2640380859375" d="1.2640380859375" tx="185.75" ty="157.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.2" y="6.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pasto_shape" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 31">
+                  <transformationPoint>
+                    <Point x="330.95" y="23.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo_2" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 3" centerPoint3DX="331.2" centerPoint3DY="160">
+                  <matrix>
+                    <Matrix a="4" d="4" tx="-1041.6" ty="-380"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="343.2" y="135"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

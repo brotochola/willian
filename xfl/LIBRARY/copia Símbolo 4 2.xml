@@ -1,0 +1,51 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="copia Símbolo 4 2" itemID="5e0fb728-000001bf" symbolType="graphic" lastModified="1575394515">
+  <timeline>
+    <DOMTimeline name="copia Símbolo 4 2">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.194076538085938" b="-0.0045318603515625" d="0.194076538085938" tx="151.2" ty="76.95"/>
+                        </matrix>
+                        <GradientEntry color="#FFFF00" ratio="0.254901960784314"/>
+                        <GradientEntry color="#FFC400" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FF9900"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!505.5 151[#13F.FA #CD.59 172 580!172 580[#F.9B #3D0.6E 828 1569.5!828 1569.5[#668.1D #872.9B 1316.5 2206"/>
+                    <Edge fillStyle0="2" edges="!505.5 151[#A2.99 #EE.C3 40 604!40 604[-99 1038 245 1321!245 1321|1193 2113!1193 2113[#4E7.BC #872.BA 1316.5 2206"/>
+                    <Edge fillStyle0="1" edges="!1316.5 2206|1317 2207!1317 2207|1317 2206.5!1317 2206.5[#7FC.75 #AA2.4 2489 2293!2489 2293[#AF2.E #7C6.A 2976 1218!2976 1218[#CAB.B9 #FFFEF6.12 1876 0!1876 0|632 129!632 129[#241.59 #86.9D 527 146!527 146[#204.1 #94.78 505.5 151"/>
+                    <Edge cubics="!1876 0(1876,0;1876,0 632,129 632,129q1876 0 632 129);"/>
+                    <Edge cubics="!632 129(;597,133 563,139 527,146q632 129 527 146);"/>
+                    <Edge cubics="!245 1321(245,1321;245,1321 1193,2113 1193,2113q245 1321 1193 2113);"/>
+                    <Edge cubics="!1317 2207(;1802,2550 2192,2580 2489,2293q1317 2207Q2044 2722q2489 2293);"/>
+                    <Edge cubics="!2489 2293(;2698,2093 2860,1734 2976,1218q2489 2293Q2803 1991q2976 1218);"/>
+                    <Edge cubics="!2976 1218(;3155,229 2788,-177 1876,0q2976 1218Q3244 -266q1876 0);"/>
+                    <Edge cubics="!1193 2113(;1235,2146 1276,2177 1317,2206q1193 2113Q1256 2163q1317 2206);"/>
+                    <Edge cubics="!1317 2206(;1317,2206 1317,2207 1317,2207q1317 2206 1317 2207);"/>
+                    <Edge cubics="!506 151(506,151;382,187 271,330 172,580q506 151Q320 205q172 580);"/>
+                    <Edge cubics="!506 151(;277,210 122,361 40,604q506 151Q163 239q40 604);"/>
+                    <Edge cubics="!527 146(527,146;520,147 513,149 506,151q527 146Q516 148q506 151);"/>
+                    <Edge cubics="!172 580(172,580;68,844 287,1174 828,1570q172 580Q16 976q828 1570);"/>
+                    <Edge cubics="!40 604(;-53,893 16,1132 245,1321q40 604Q-99 1038q245 1321);"/>
+                    <Edge cubics="!828 1570(;1369,1965 1532,2177 1317,2206q828 1570Q1640 2163q1317 2206);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

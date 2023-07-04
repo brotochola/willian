@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Carpeta de elementos duplicados/Símbolo 13" itemID="5dc08960-00000371" symbolType="graphic" lastModified="1571924483">
+  <timeline>
+    <DOMTimeline name="Símbolo 13">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#D9F1FF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#83B1D2"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#A0BBCB"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="3" edges="!2300 266|2300 815!2300 815|-46 815!-46 815|-46 266"/>
+                    <Edge fillStyle1="1" edges="!-46 123|-46 0!-46 0|2381 0!2381 0|2381 123"/>
+                    <Edge fillStyle0="2" edges="!2300 266|2381 266!2381 266|2381 123"/>
+                    <Edge fillStyle1="2" edges="!-46 266|-46 123"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="!-46 266|2300 266"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!-46 123|2381 123"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

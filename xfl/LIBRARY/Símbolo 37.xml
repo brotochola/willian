@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 37" itemID="5e419692-000000fb" symbolType="graphic" lastModified="1581356690">
+  <timeline>
+    <DOMTimeline name="Símbolo 37">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="5.46746826171875" d="5.46746826171875" tx="-3441.5" ty="-3164.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!12664 11613[12664 11628 12653 11639!12653 11639[12642 11650 12627 11650!12627 11650[12611 11650 12600 11639!12600 11639[12589 11628 12589 11613!12589 11613[12589 11597 12600 11587!12600 11587[12611 11576 12627 11576!12627 11576[12642
+ 11576 12653 11587!12653 11587[12664 11597 12664 11613"/>
+                    <Edge cubics="!12664 11613(;12664,11633 12647,11650 12627,11650q12664 11613Q12664 11628q12653 11639Q12642 11650q12627 11650);"/>
+                    <Edge cubics="!12627 11650(;12606,11650 12589,11633 12589,11613q12627 11650Q12611 11650q12600 11639Q12589 11628q12589 11613);"/>
+                    <Edge cubics="!12589 11613(;12589,11592 12606,11576 12627,11576q12589 11613Q12589 11597q12600 11587Q12611 11576q12627 11576);"/>
+                    <Edge cubics="!12627 11576(;12647,11576 12664,11592 12664,11613q12627 11576Q12642 11576q12653 11587Q12664 11597q12664 11613);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

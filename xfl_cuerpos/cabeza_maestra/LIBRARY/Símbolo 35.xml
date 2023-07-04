@@ -1,0 +1,142 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 35" itemID="5c424bfb-000000f6" lastModified="1575241557">
+  <timeline>
+    <DOMTimeline name="Símbolo 35" currentFrame="3">
+      <layers>
+        <DOMLayer name="Capa_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop()]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" name="sonrisa" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="enojado" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" name="normal" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" name="dolor" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" name="o" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" name="sonrisa_abierta" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" name="triste" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_1" color="#003333" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 42">
+                  <transformationPoint>
+                    <Point x="43.5" y="27.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 41">
+                  <matrix>
+                    <Matrix tx="23.95" ty="1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.7" y="21.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 37">
+                  <matrix>
+                    <Matrix tx="-3.4" ty="3.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="47.1" y="22.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mainmenu/copia Símbolo 50" symbolType="graphic" centerPoint3DX="42.05" centerPoint3DY="28.65" loop="loop">
+                  <matrix>
+                    <Matrix tx="5.6" ty="4.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.45" y="24.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mainmenu/Símbolo 8" selected="true" symbolType="graphic" centerPoint3DX="45.7" centerPoint3DY="30.35" loop="loop">
+                  <matrix>
+                    <Matrix tx="26.55" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.15" y="24.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mainmenu/Símbolo 10">
+                  <matrix>
+                    <Matrix a="0.957427978515625" d="0.957427978515625" tx="-4.15" ty="1.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="81.3" y="12.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mainmenu/Símbolo 44" symbolType="graphic" centerPoint3DX="45.25" centerPoint3DY="30.35" loop="loop">
+                  <matrix>
+                    <Matrix a="0.918991088867188" d="0.918991088867188" tx="23.45" ty="9.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="48.6" y="5.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo_41" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo_37" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="numero" itemID="5d4c7d28-000008c3" symbolType="graphic" lastModified="1565293864">
+  <timeline>
+    <DOMTimeline name="numero">
+      <layers>
+        <DOMLayer name="Capa_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText selected="true" fontRenderingMode="standard" width="128.3" height="135.35" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.153472900390625" b="0.0301513671875" c="-0.0331878662109375" d="0.216598510742188" tx="3.2" ty="-8.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>00</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="135.35" size="96" bitmapSize="1920" face="Arial-Black" fillColor="#009900"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,219 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pupilas" itemID="5c425432-00004f03" lastModified="1555992469" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="pupilas" currentFrame="2">
+      <layers>
+        <DOMLayer name="Capa_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop()]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" name="e" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="s" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" name="se" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" name="o" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" name="no" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" name="n" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" name="ne" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo_7" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 7" name="pupi2" centerPoint3DX="66.2" centerPoint3DY="13.55">
+                  <matrix>
+                    <Matrix tx="59.65" ty="3.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.55" y="10.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 7" name="pupi2" centerPoint3DX="60.25" centerPoint3DY="21.35">
+                  <matrix>
+                    <Matrix tx="53.7" ty="10.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.55" y="10.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 7" name="pupi2" centerPoint3DX="66.15" centerPoint3DY="20.8">
+                  <matrix>
+                    <Matrix tx="59.6" ty="10.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.55" y="10.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 7" name="pupi2" centerPoint3DX="50.35" centerPoint3DY="13.95">
+                  <matrix>
+                    <Matrix tx="43.8" ty="3.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.55" y="10.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 7" name="pupi2" centerPoint3DX="53.55" centerPoint3DY="1.9">
+                  <matrix>
+                    <Matrix tx="47" ty="-8.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.55" y="10.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 7" name="pupi2" centerPoint3DX="60.1" centerPoint3DY="0.55">
+                  <matrix>
+                    <Matrix tx="53.55" ty="-9.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.55" y="10.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 7" name="pupi2" centerPoint3DX="64.05" centerPoint3DY="5.1">
+                  <matrix>
+                    <Matrix tx="57.5" ty="-5.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.55" y="10.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo_6" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 6" name="pupi1" centerPoint3DX="12.3" centerPoint3DY="12">
+                  <matrix>
+                    <Matrix tx="4.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.35" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 6" name="pupi1" centerPoint3DX="4.8" centerPoint3DY="19.8">
+                  <matrix>
+                    <Matrix tx="-2.55" ty="7.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.35" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 6" name="pupi1" centerPoint3DX="12.1" centerPoint3DY="19.65">
+                  <matrix>
+                    <Matrix tx="4.75" ty="7.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.35" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 6" name="pupi1" centerPoint3DX="-9.3" centerPoint3DY="10.45">
+                  <matrix>
+                    <Matrix tx="-16.65" ty="-1.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.35" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 6" name="pupi1" centerPoint3DX="-8.15" centerPoint3DY="-2.65">
+                  <matrix>
+                    <Matrix tx="-15.5" ty="-14.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.35" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 6" name="pupi1" centerPoint3DX="5.1" centerPoint3DY="-3.95">
+                  <matrix>
+                    <Matrix tx="-2.25" ty="-15.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.35" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Símbolo 6" name="pupi1" centerPoint3DX="13.4" centerPoint3DY="0.85">
+                  <matrix>
+                    <Matrix tx="6.05" ty="-11.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.35" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,826 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="bla/estrellaAnimada" itemID="5df3e21b-00001a2c" linkageExportForAS="true" linkageClassName="estrellaAnimada" symbolType="graphic" lastModified="1576264238">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="estrellaAnimada" currentFrame="89">
+      <layers>
+        <DOMLayer name="Capa 9" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="88" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="88" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.gotoAndPlay(0);]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="89" name="agarrada" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="90" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="94" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-265 -1622[6 -1553 184 -1344!184 -1344[701 -739 670 37!670 37[645 635 391 1183!391 1183[370 1227 313 1238!313 1238[-31 1302 -255 1059!-255 1059[-511 783 -620 448!-620 448[-655 339 -674 225!-674 225[-795 -518 -576 -1249!-576 -1249[-500
+ -1499 -265 -1622!-213 -902[-326 -441 -264 26!-264 26[-206 461 124 765!124 765[144 784 165 768!165 768[249 313 159 -132!159 -132[71 -564 -213 -902"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="95" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-191 -1130[-554 -578 -490 -12!-490 -12[-429 523 13 939!13 939[22 947 42 951!42 951[515 415 366 -177!366 -177[321 -357 255 -534!255 -534[127 -880 -191 -1130!-204 -1664[402 -1520 625 -1099!625 -1099[987 -420 838 344!838 344[767 715 568
+ 1062!568 1062[352 1438 -200 1250!-200 1250[-772 1055 -845 610!-845 610[-935 63 -907 -497!-907 -497[-884 -971 -567 -1398!-567 -1398[-434 -1578 -204 -1664"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="96" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-222 -1597[385 -1467 643 -1085!643 -1085[1058 -468 841 247!841 247[738 587 593 918!593 918[408 1341 -238 1194!-238 1194[-841 1057 -902 643!-902 643[-927 472 -947 298!-947 298[-1027 -381 -723 -1075!-723 -1075[-584 -1390 -222 -1597!-253
+ -1294[-731 -621 -671 63!-671 63[-652 271 -612 478!-612 478[-552 787 -223 977!-223 977[71 1146 267 923!267 923[408 763 461 589!461 589[674 -111 407 -753!407 -753[255 -1118 -253 -1294"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="97" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-245 -1709[412 -1496 681 -1090!681 -1090[772 -1163 862 -1237!862 -1237[864 -1238 867 -1238!867 -1238[789 -1149 690 -1076!690 -1076[827 -862 857 -595!857 -595[894 -264 875 73!875 73[885 78 896 83!896 83[1044 156 1183 236!1183 236[1045
+ 180 913 111!913 111[893 101 874 92!874 92[870 167 862 242!862 242[881 246 899 249!899 249[1007 270 1107 312!1107 312[1113 314 1118 317!1118 317[991 286 861 261!861 261[830 570 752 883!752 883[696 1112 499 1306!499 1306[403 1399 239 1414
+!239 1414[234 1415 228 1415!228 1415[247 1505 263 1596!263 1596[237 1513 213 1417!213 1417[-418 1467 -694 1105!-694 1105[-741 1043 -780 980!-780 980[-782 982 -784 984!-784 984[-782 981 -781 978!-781 978[-834 893 -873 804!-873 804[-959
+ 870 -1046 934!-1046 934[-969 859 -883 783!-883 783[-951 624 -978 454!-978 454[-1035 92 -1013 -284!-1013 -284[-998 -538 -914 -778!-914 -778[-1085 -870 -1262 -951!-1262 -951[-1263 -952 -1253 -952!-1253 -952[-1075 -886 -908 -794!-908 -794
+[-880 -870 -845 -945!-845 -945[-914 -992 -980 -1039!-980 -1039|-977 -1039!-977 -1039[-909 -996 -841 -953!-841 -953[-656 -1345 -275 -1697!-275 -1697[-262 -1709 -245 -1709!-287 -1616[-577 -1255 -721 -876!-721 -876[-707 -867 -693 -858!-693
+ -858[-546 -764 -421 -653!-421 -653[-543 -742 -673 -829!-673 -829[-699 -846 -725 -864!-725 -864[-752 -792 -774 -719!-774 -719[-656 -653 -539 -584!-539 -584[-653 -637 -778 -704!-778 -704[-854 -442 -862 -170!-862 -170[-874 257 -730 653
+!-730 653[-657 593 -580 540!-580 540[-579 539 -578 539!-578 539[-645 612 -720 680!-720 680[-694 749 -663 817!-663 817[-639 793 -613 770!-613 770|-612 770!-612 770[-633 800 -657 831!-657 831[-614 924 -561 1016!-561 1016[-453 1206 -173
+ 1291!-173 1291[37 1355 192 1326!192 1326[166 1210 153 1104!153 1104[182 1212 207 1322!207 1322[361 1287 457 1155!457 1155[519 1070 546 975!546 975[682 499 708 30!708 30[644 12 582 6!582 6[647 7 709 19!709 19[722 -244 701 -506!701 -506
+[680 -763 559 -973!559 -973[514 -932 474 -885!474 -885[507 -937 553 -984!553 -984[317 -1386 -287 -1616"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="98" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-29 -1697[149 -1658 273 -1568!273 -1568[392 -1481 442 -1381!442 -1381[347 -1462 237 -1544!237 -1544[100 -1647 -43 -1694!-43 -1694|-29 -1697!541 -1305[857 -1049 937 -713!937 -713[1014 -399 973 -73!973 -73[948 -370 870 -677!870 -677[785
+ -1020 541 -1305!-171 -1736[-158 -1735 -145 -1734!-145 -1734[-130 -1731 -116 -1727!-116 -1727[-114 -1726 -112 -1724!-112 -1724[-591 -1560 -809 -1238!-809 -1238[-1075 -841 -1072 -416!-1072 -416[-1071 -330 -1112 -241!-1112 -241[-1158 -576
+ -1020 -939!-1020 -939[-844 -1402 -238 -1709!-238 -1709[-207 -1725 -171 -1736!-1095 -50[-1086 11 -1087 74!-1087 74[-1087 137 -1083 199!-1083 199[-1113 151 -1108 75!-1108 75[-1103 12 -1100 -50!-1100 -50|-1095 -50!-1076 448[-1005 783 -745
+ 1075!-745 1075[-476 1376 99 1391!99 1391[-413 1440 -707 1180!-707 1180[-1011 911 -1080 585!-1080 585[-1096 509 -1076 448!884 99[948 438 865 791!865 791[828 947 778 1103!778 1103[714 1300 453 1382!453 1382[861 1101 843 709!843 709[840
+ 636 847 556!847 556[866 322 884 99"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="99" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!412 -1629[619 -1495 764 -1291!764 -1291[907 -1093 1006 -877!1006 -877[904 -1050 787 -1222!787 -1222[618 -1470 412 -1629!352 -1836[298 -1765 265 -1679!265 -1679[231 -1592 202 -1506!202 -1506[203 -1580 235 -1670!235 -1670[270 -1770 350
+ -1836!350 -1836[351 -1836 352 -1836!1257 -773[1134 -687 989 -631!989 -631[837 -573 707 -522!707 -522[850 -607 1022 -673!1022 -673[1141 -719 1255 -773!1255 -773[1256 -773 1257 -773!1099 -540[1058 -518 997 -510!997 -510[933 -503 874 -481
+!874 -481[854 -474 836 -476!836 -476[910 -528 1023 -532!1023 -532[1048 -533 1072 -538!1072 -538[1086 -541 1099 -540!790 369[860 373 927 394!927 394[994 415 1064 430!1064 430[1070 431 1077 436!1077 436[1010 427 943 407!943 407[822 372
+ 695 386!695 386[717 337 790 370!790 370|790 369!933 589[924 620 923 652!923 652[922 682 919 714!919 714[919 717 917 720!917 720[901 697 907 657!907 657[912 623 926 591!926 591[927 588 933 589!630 855[754 899 869 962!869 962[988 1029
+ 1093 1115!1093 1115[1005 1060 909 1004!909 1004[767 920 625 855!625 855|630 855!842 1104[816 1171 755 1216!755 1216[695 1258 636 1279!636 1279[709 1233 777 1178!777 1178[814 1148 835 1106!835 1106[836 1103 842 1104!385 1212[445 1260
+ 495 1317!495 1317[546 1375 583 1443!583 1443[585 1446 585 1449!585 1449[543 1401 500 1347!500 1347[443 1275 382 1212!382 1212|385 1212!335 1262[390 1338 437 1419!437 1419[484 1501 537 1580!537 1580[474 1519 425 1432!425 1432[373 1342
+ 334 1262!334 1262|335 1262!-852 -1795[-726 -1668 -614 -1528!-614 -1528[-502 -1390 -414 -1242!-414 -1242[-523 -1376 -632 -1511!-632 -1511[-754 -1661 -852 -1795!-562 -1712[-524 -1658 -483 -1605!-483 -1605[-443 -1554 -418 -1494!-418 -1494
+[-452 -1536 -494 -1592!-494 -1592[-540 -1654 -563 -1712!-563 -1712|-562 -1712!-877 -1371[-988 -1193 -1071 -1000!-1071 -1000[-1152 -811 -1193 -611!-1193 -611[-1172 -791 -1097 -979!-1097 -979[-1013 -1191 -877 -1371!-1270 -262[-1234 -261
+ -1200 -249!-1200 -249[-1169 -239 -1138 -254!-1138 -254[-1131 -258 -1122 -260!-1122 -260[-1127 -245 -1158 -243!-1158 -243[-1216 -240 -1272 -258!-1272 -258[-1278 -259 -1270 -262!-886 -67[-1018 -35 -1168 -8!-1168 -8[-1312 19 -1457 37!-1457
+ 37[-1331 7 -1199 -21!-1199 -21[-1050 -53 -898 -66!-898 -66[-892 -67 -886 -67!-1193 531[-1158 719 -1052 883!-1052 883[-953 1038 -836 1179!-836 1179[-979 1033 -1093 842!-1093 842[-1184 691 -1194 531!-1194 531|-1193 531!-329 1185[-319 1240
+ -330 1298!-330 1298[-342 1353 -348 1407!-348 1407[-364 1353 -354 1296!-354 1296[-343 1241 -332 1186!-332 1186[-332 1185 -329 1185!-437 1245[-432 1286 -436 1327!-436 1327[-440 1368 -454 1407!-454 1407[-457 1375 -450 1327!-450 1327[-444
+ 1287 -440 1246!-440 1246[-440 1245 -437 1245"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="100" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.stop()]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo 4" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/Símbolo 4" symbolType="graphic" centerPoint3DX="-41.65" centerPoint3DY="-13.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-78.9" ty="-39.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="147.1" y="61.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/Símbolo 4" symbolType="graphic" centerPoint3DX="-45.2" centerPoint3DY="-7.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.33544921875" b="-0.0470733642578125" c="0.069488525390625" d="0.495147705078125" tx="-62.1" ty="-32.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="147.1" y="61.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/Símbolo 4" symbolType="graphic" centerPoint3DX="-41.65" centerPoint3DY="-13.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-78.9" ty="-39.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="147.1" y="61.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/Símbolo 4" symbolType="graphic" centerPoint3DX="-45.2" centerPoint3DY="-7.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.33544921875" b="-0.0470733642578125" c="0.069488525390625" d="0.495147705078125" tx="-62.1" ty="-32.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="147.1" y="61.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/Símbolo 4" symbolType="graphic" centerPoint3DX="-41.65" centerPoint3DY="-13.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-78.9" ty="-39.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="147.1" y="61.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" duration="17" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/Símbolo 4" symbolType="graphic" centerPoint3DX="-45.2" centerPoint3DY="-7.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.33544921875" b="-0.0470733642578125" c="0.069488525390625" d="0.495147705078125" tx="-62.1" ty="-32.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="147.1" y="61.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/Símbolo 4" symbolType="graphic" centerPoint3DX="-41.65" centerPoint3DY="-13.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-78.9" ty="-39.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="147.1" y="61.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="93" tweenType="motion" motionTweenSnap="true" hasCustomEase="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.333333333333333" y="0.444444444444444"/>
+                  <Point x="0.666666666666667" y="0.777777777777778"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/Símbolo 4" symbolType="graphic" centerPoint3DX="-13.05" centerPoint3DY="-4.8" loop="loop">
+                  <matrix>
+                    <Matrix a="0.338470458984375" b="-0.0135345458984375" c="0.0199737548828125" d="0.499588012695313" tx="-27.45" ty="-30.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="147.05" y="61.35"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo 3" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/copia Símbolo 3" symbolType="graphic" centerPoint3DX="-31.7" centerPoint3DY="26.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-57.9" ty="-10.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.8" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/copia Símbolo 3" symbolType="graphic" centerPoint3DX="-17.9" centerPoint3DY="27.55" loop="loop">
+                  <matrix>
+                    <Matrix a="0.460296630859375" b="-0.195266723632813" c="0.195266723632813" d="0.460296630859375" tx="-56.25" ty="4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.75" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/copia Símbolo 3" symbolType="graphic" centerPoint3DX="-31.7" centerPoint3DY="26.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-57.9" ty="-10.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.8" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/copia Símbolo 3" symbolType="graphic" centerPoint3DX="-17.9" centerPoint3DY="27.55" loop="loop">
+                  <matrix>
+                    <Matrix a="0.460296630859375" b="-0.195266723632813" c="0.195266723632813" d="0.460296630859375" tx="-56.25" ty="4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.75" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/copia Símbolo 3" symbolType="graphic" centerPoint3DX="-31.7" centerPoint3DY="26.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-57.9" ty="-10.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.8" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" duration="17" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/copia Símbolo 3" symbolType="graphic" centerPoint3DX="-17.9" centerPoint3DY="27.55" loop="loop">
+                  <matrix>
+                    <Matrix a="0.460296630859375" b="-0.195266723632813" c="0.195266723632813" d="0.460296630859375" tx="-56.25" ty="4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.75" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/copia Símbolo 3" symbolType="graphic" centerPoint3DX="-31.7" centerPoint3DY="26.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-57.9" ty="-10.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.8" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="93" tweenType="motion" motionTweenSnap="true" hasCustomEase="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.333333333333333" y="0.444444444444444"/>
+                  <Point x="0.666666666666667" y="0.777777777777778"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/copia Símbolo 3" symbolType="graphic" centerPoint3DX="0.9" centerPoint3DY="23" loop="loop">
+                  <matrix>
+                    <Matrix a="0.263259887695313" b="-0.215118408203125" c="0.250961303710938" d="0.421951293945313" tx="-29.15" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.6" y="0.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo 2" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/Símbolo 2" symbolType="graphic" centerPoint3DX="20.65" centerPoint3DY="25.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-5.55" ty="-10.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/Símbolo 2" symbolType="graphic" centerPoint3DX="16.9" centerPoint3DY="24.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.496261596679688" b="0.0610198974609375" c="-0.0610198974609375" d="0.496261596679688" tx="-4.75" ty="-14.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/Símbolo 2" symbolType="graphic" centerPoint3DX="20.65" centerPoint3DY="25.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-5.55" ty="-10.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/Símbolo 2" symbolType="graphic" centerPoint3DX="16.9" centerPoint3DY="24.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.496261596679688" b="0.0610198974609375" c="-0.0610198974609375" d="0.496261596679688" tx="-4.75" ty="-14.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/Símbolo 2" symbolType="graphic" centerPoint3DX="20.65" centerPoint3DY="25.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-5.55" ty="-10.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" duration="17" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/Símbolo 2" symbolType="graphic" centerPoint3DX="16.9" centerPoint3DY="24.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.496261596679688" b="0.0610198974609375" c="-0.0610198974609375" d="0.496261596679688" tx="-4.75" ty="-14.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/Símbolo 2" symbolType="graphic" centerPoint3DX="20.65" centerPoint3DY="25.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-5.55" ty="-10.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="93" tweenType="motion" motionTweenSnap="true" hasCustomEase="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.333333333333333" y="0.444444444444444"/>
+                  <Point x="0.666666666666667" y="0.777777777777778"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/Símbolo 2" symbolType="graphic" centerPoint3DX="10.2" centerPoint3DY="22.25" loop="loop">
+                  <matrix>
+                    <Matrix a="0.358322143554688" b="0.157852172851563" c="-0.147354125976563" d="0.472610473632813" tx="2.15" ty="-19.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Símbolo 5" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/copia Símbolo 5 2" symbolType="graphic" centerPoint3DX="-5.2" centerPoint3DY="-42.75" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-32.75" ty="-77.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.1" y="140.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/copia Símbolo 5 2" symbolType="graphic" centerPoint3DX="-10.5" centerPoint3DY="-42.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.445999145507813" b="-0.062591552734375" c="0.069488525390625" d="0.495147705078125" tx="-39.95" ty="-73.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.1" y="140.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/copia Símbolo 5 2" symbolType="graphic" centerPoint3DX="-5.2" centerPoint3DY="-42.75" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-32.75" ty="-77.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.1" y="140.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/copia Símbolo 5 2" symbolType="graphic" centerPoint3DX="-10.5" centerPoint3DY="-42.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.445999145507813" b="-0.062591552734375" c="0.069488525390625" d="0.495147705078125" tx="-39.95" ty="-73.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.1" y="140.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/copia Símbolo 5 2" symbolType="graphic" centerPoint3DX="-5.2" centerPoint3DY="-42.75" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-32.75" ty="-77.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.1" y="140.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" duration="17" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/copia Símbolo 5 2" symbolType="graphic" centerPoint3DX="-10.5" centerPoint3DY="-42.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.445999145507813" b="-0.062591552734375" c="0.069488525390625" d="0.495147705078125" tx="-39.95" ty="-73.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.1" y="140.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/copia Símbolo 5 2" symbolType="graphic" centerPoint3DX="-5.2" centerPoint3DY="-42.75" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-32.75" ty="-77.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.1" y="140.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="93" tweenType="motion" motionTweenSnap="true" hasCustomEase="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.333333333333333" y="0.444444444444444"/>
+                  <Point x="0.666666666666667" y="0.777777777777778"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bla/copia Símbolo 5 2" symbolType="graphic" centerPoint3DX="-7.05" centerPoint3DY="-42.15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.383193969726563" b="-0.0556488037109375" c="0.0718536376953125" d="0.494796752929688" tx="-33.3" ty="-74"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.05" y="140.6"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Mapa de bits 1" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 4" symbolType="graphic" centerPoint3DX="-42.2" centerPoint3DY="-13.1" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.524826049804688" d="0.5" tx="71.75" ty="-39.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="146.9" y="61.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 4" symbolType="graphic" centerPoint3DX="-43.65" centerPoint3DY="-7.8" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.385391235351563" b="0.0540771484375" c="0.069488525390625" d="0.495147705078125" tx="46" ty="-47.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="146.9" y="61.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 4" symbolType="graphic" centerPoint3DX="-42.2" centerPoint3DY="-13.1" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.524826049804688" d="0.5" tx="71.75" ty="-39.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="146.9" y="61.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 4" symbolType="graphic" centerPoint3DX="-43.65" centerPoint3DY="-7.8" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.385391235351563" b="0.0540771484375" c="0.069488525390625" d="0.495147705078125" tx="46" ty="-47.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="146.9" y="61.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 4" symbolType="graphic" centerPoint3DX="-42.2" centerPoint3DY="-13.1" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.524826049804688" d="0.5" tx="71.75" ty="-39.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="146.9" y="61.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" duration="17" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 4" symbolType="graphic" centerPoint3DX="-43.65" centerPoint3DY="-7.8" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.385391235351563" b="0.0540771484375" c="0.069488525390625" d="0.495147705078125" tx="46" ty="-47.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="146.9" y="61.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 4" symbolType="graphic" centerPoint3DX="-42.2" centerPoint3DY="-13.1" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.524826049804688" d="0.5" tx="71.75" ty="-39.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="146.9" y="61.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="93" tweenType="motion" motionTweenSnap="true" hasCustomEase="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.333333333333333" y="0.444444444444444"/>
+                  <Point x="0.666666666666667" y="0.777777777777778"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Copia de Símbolo 4" symbolType="graphic" centerPoint3DX="-64.3" centerPoint3DY="-6.75" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.366195678710938" b="0.0146331787109375" c="0.0199737548828125" d="0.499588012695313" tx="25.85" ty="-37"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="146.85" y="61.35"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

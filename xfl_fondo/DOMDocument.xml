@@ -1,0 +1,304 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1280" height="720" currentTimeline="1" xflVersion="2.97" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 19.0 build 326" majorVersion="19" buildNumber="326" viewAngle3D="100.925968316201" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="42D1C28F05372E4F98C2456FEF47AF94">
+     <folders>
+          <DOMFolderItem name="Carpeta de elementos duplicados" itemID="5d9b8afc-00000245" isExpanded="true"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="a0001.png" itemID="5d9e3139-000015b3" sourceLastImported="1570647867" externalFileSize="16920" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="a0001.png" bitmapDataHRef="M 55 1570647966.dat" frameRight="2100" frameBottom="2120"/>
+          <DOMBitmapItem name="a0003.png" itemID="5d9e3139-000015b5" sourceLastImported="1570647869" externalFileSize="16852" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="a0003.png" bitmapDataHRef="M 57 1570647966.dat" frameRight="2100" frameBottom="2120"/>
+          <DOMBitmapItem name="a0005.png" itemID="5d9e3139-000015b7" sourceLastImported="1570647871" externalFileSize="16725" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="a0005.png" bitmapDataHRef="M 59 1570647967.dat" frameRight="2100" frameBottom="2120"/>
+          <DOMBitmapItem name="a0007.png" itemID="5d9e3139-000015b9" sourceLastImported="1570647873" externalFileSize="16812" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="a0007.png" bitmapDataHRef="M 61 1570647967.dat" frameRight="2100" frameBottom="2120"/>
+          <DOMBitmapItem name="a0009.png" itemID="5d9e3139-000015bb" sourceLastImported="1570647875" externalFileSize="16825" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="a0009.png" bitmapDataHRef="M 63 1570647967.dat" frameRight="2100" frameBottom="2120"/>
+          <DOMBitmapItem name="a0011.png" itemID="5d9e3139-000015bd" sourceLastImported="1570647877" externalFileSize="17399" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="a0011.png" bitmapDataHRef="M 65 1570647967.dat" frameRight="2100" frameBottom="2120"/>
+          <DOMBitmapItem name="a0013.png" itemID="5d9e3139-000015bf" sourceLastImported="1570647879" externalFileSize="16938" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="a0013.png" bitmapDataHRef="M 67 1570647967.dat" frameRight="2100" frameBottom="2120"/>
+          <DOMBitmapItem name="a0015.png" itemID="5d9e3139-000015c1" sourceLastImported="1570647881" externalFileSize="18264" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="a0015.png" bitmapDataHRef="M 69 1570647967.dat" frameRight="2100" frameBottom="2120"/>
+          <DOMBitmapItem name="a0017.png" itemID="5d9e3139-000015c3" sourceLastImported="1570647882" externalFileSize="17627" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="a0017.png" bitmapDataHRef="M 71 1570647967.dat" frameRight="2100" frameBottom="2120"/>
+          <DOMBitmapItem name="aduken.png" itemID="5db1a530-00001e31" sourceLastImported="1571923224" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="aduken.png" bitmapDataHRef="M 125 1572899333.dat" frameRight="4000" frameBottom="980"/>
+          <DOMBitmapItem name="b0001.png" itemID="5d9e3139-000015c6" sourceLastImported="1570647892" externalFileSize="22852" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="b0001.png" bitmapDataHRef="M 74 1570648063.dat" frameRight="3000" frameBottom="2180"/>
+          <DOMBitmapItem name="b0003.png" itemID="5d9e3139-000015c8" sourceLastImported="1570647894" externalFileSize="22341" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="b0003.png" bitmapDataHRef="M 76 1570648063.dat" frameRight="3000" frameBottom="2180"/>
+          <DOMBitmapItem name="b0005.png" itemID="5d9e3139-000015ca" sourceLastImported="1570647896" externalFileSize="22636" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="b0005.png" bitmapDataHRef="M 78 1570648063.dat" frameRight="3000" frameBottom="2180"/>
+          <DOMBitmapItem name="b0007.png" itemID="5d9e3139-000015cc" sourceLastImported="1570647899" externalFileSize="22181" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="b0007.png" bitmapDataHRef="M 80 1570648063.dat" frameRight="3000" frameBottom="2180"/>
+          <DOMBitmapItem name="b0009.png" itemID="5d9e3139-000015ce" sourceLastImported="1570647901" externalFileSize="22680" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="b0009.png" bitmapDataHRef="M 82 1570648063.dat" frameRight="3000" frameBottom="2180"/>
+          <DOMBitmapItem name="b0011.png" itemID="5d9e3139-000015d0" sourceLastImported="1570647903" externalFileSize="23132" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="b0011.png" bitmapDataHRef="M 84 1570648063.dat" frameRight="3000" frameBottom="2180"/>
+          <DOMBitmapItem name="b0013.png" itemID="5d9e3139-000015d2" sourceLastImported="1570647905" externalFileSize="23451" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="b0013.png" bitmapDataHRef="M 86 1570648063.dat" frameRight="3000" frameBottom="2180"/>
+          <DOMBitmapItem name="b0015.png" itemID="5d9e3139-000015d4" sourceLastImported="1570647907" externalFileSize="23803" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="b0015.png" bitmapDataHRef="M 88 1570648064.dat" frameRight="3000" frameBottom="2180"/>
+          <DOMBitmapItem name="b0017.png" itemID="5d9e3139-000015d6" sourceLastImported="1570647909" externalFileSize="23708" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="b0017.png" bitmapDataHRef="M 90 1570648064.dat" frameRight="3000" frameBottom="2180"/>
+          <DOMBitmapItem name="chel00170001.png" itemID="5db189cd-00001144" sourceLastImported="1571916202" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="chel00170001.png" bitmapDataHRef="M 129 1572899333.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="chel00170003.png" itemID="5db189cd-00001148" sourceLastImported="1571916202" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="chel00170003.png" bitmapDataHRef="M 130 1572899333.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="chel00170005.png" itemID="5db189cd-00001128" sourceLastImported="1571916202" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="chel00170005.png" bitmapDataHRef="M 131 1572899333.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="chel00170007.png" itemID="5db189cd-0000112c" sourceLastImported="1571916203" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="chel00170007.png" bitmapDataHRef="M 132 1572899333.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="chel00170009.png" itemID="5db189cd-00001130" sourceLastImported="1571916203" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="chel00170009.png" bitmapDataHRef="M 133 1572899333.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="chel00170011.png" itemID="5db189cd-00001134" sourceLastImported="1571916203" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="chel00170011.png" bitmapDataHRef="M 134 1572899333.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="chel00170013.png" itemID="5db189cd-00001138" sourceLastImported="1571916203" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="chel00170013.png" bitmapDataHRef="M 135 1572899333.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="chel00170015.png" itemID="5db189cd-0000113c" sourceLastImported="1571916204" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="chel00170015.png" bitmapDataHRef="M 136 1572899333.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="chel00170017.png" itemID="5db189cd-00001140" sourceLastImported="1571916204" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="chel00170017.png" bitmapDataHRef="M 137 1572899333.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="cocacola.png" itemID="5db1a530-00001e35" sourceLastImported="1571923226" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="cocacola.png" bitmapDataHRef="M 126 1572899333.dat" frameRight="4000" frameBottom="980"/>
+          <DOMBitmapItem name="Copia de aduken.png" itemID="5db385bf-000001bc" sourceLastImported="1571923224" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Copia de aduken.png" bitmapDataHRef="M 96 1572899091.dat" frameRight="4000" frameBottom="980"/>
+          <DOMBitmapItem name="Copia de juega.png" itemID="5db380d8-000000da" sourceLastImported="1572045010" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Copia de juega.png" bitmapDataHRef="M 95 1572899091.dat" frameRight="5920" frameBottom="1440"/>
+          <DOMBitmapItem name="Copia de teho2.png" itemID="5d94e248-0000012e" sourceLastImported="1570038337" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Copia de teho2.png" bitmapDataHRef="M 17 1570490184.dat" frameRight="11400" frameBottom="6420"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/copia Mapa de bits 1" itemID="5dc08a02-00000572" sourceLastImported="1579978760" externalFileCRC32="2822706592" externalFileSize="106" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/copia Mapa de bits 1.png" bitmapDataHRef="M 120 1572899168.dat" frameRight="120" frameBottom="1580"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/copia Mapa de bits 1 2" itemID="5dc089ed-00000571" sourceLastImported="1571437013" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/copia Mapa de bits 1 2.png" bitmapDataHRef="M 124 1572899309.dat" frameRight="120" frameBottom="1580"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/copia Mapa de bits 1 3" itemID="5dc08a05-000005d4" sourceLastImported="1571437013" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/copia Mapa de bits 1 3.png" bitmapDataHRef="M 138 1572899333.dat" frameRight="120" frameBottom="1580"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/copia Mapa de bits 1 4" itemID="5dc08a1f-00000678" sourceLastImported="1571437013" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/copia Mapa de bits 1 4.png" bitmapDataHRef="M 143 1572899359.dat" frameRight="120" frameBottom="1580"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/copia Mapa de bits 3" itemID="5dc08a1f-00000679" sourceLastImported="1571437013" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/copia Mapa de bits 3.png" bitmapDataHRef="M 142 1572899359.dat" frameRight="1000" frameBottom="820"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/copia misa.png" itemID="5dc08a1f-0000067a" sourceLastImported="1572043562" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/copia misa.png" bitmapDataHRef="M 140 1572899359.dat" frameRight="5920" frameBottom="1440"/>
+          <DOMBitmapItem name="corin0001.png" itemID="5db18fcb-00001737" sourceLastImported="1571917685" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="corin0001.png" bitmapDataHRef="M 97 1572899091.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="corin0003.png" itemID="5db18fcc-0000173b" sourceLastImported="1571917685" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="corin0003.png" bitmapDataHRef="M 98 1572899091.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="corin0005.png" itemID="5db18fcc-0000173f" sourceLastImported="1571917685" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="corin0005.png" bitmapDataHRef="M 99 1572899091.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="corin0007.png" itemID="5db18fcc-00001743" sourceLastImported="1571917685" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="corin0007.png" bitmapDataHRef="M 100 1572899091.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="corin0009.png" itemID="5db18fcc-00001747" sourceLastImported="1571917686" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="corin0009.png" bitmapDataHRef="M 101 1572899091.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="corin0011.png" itemID="5db18fcc-0000174b" sourceLastImported="1571917686" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="corin0011.png" bitmapDataHRef="M 102 1572899091.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="corin0013.png" itemID="5db18fcc-0000174f" sourceLastImported="1571917686" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="corin0013.png" bitmapDataHRef="M 103 1572899091.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="corin0015.png" itemID="5db18fcc-00001753" sourceLastImported="1571917687" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="corin0015.png" bitmapDataHRef="M 104 1572899091.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="corin0017.png" itemID="5db18fcc-00001757" sourceLastImported="1571917687" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="corin0017.png" bitmapDataHRef="M 105 1572899091.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="faro.png.png" itemID="5db19a9c-00001d91" sourceLastImported="1571920530" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="faro.png.png" bitmapDataHRef="M 107 1572899091.dat" frameRight="2160" frameBottom="8080"/>
+          <DOMBitmapItem name="fffffdd0001.png" itemID="5d94e0c8-000000d9" sourceLastImported="1570037900" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="fffffdd0001.png" bitmapDataHRef="M 12 1570490184.dat" frameRight="6360" frameBottom="4540"/>
+          <DOMBitmapItem name="fffffdd0007.png" itemID="5d94e0c8-000000dd" sourceLastImported="1570037901" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="fffffdd0007.png" bitmapDataHRef="M 11 1570490184.dat" frameRight="6360" frameBottom="4540"/>
+          <DOMBitmapItem name="fffffdd0013.png" itemID="5d94e0c8-000000e1" sourceLastImported="1570037901" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="fffffdd0013.png" bitmapDataHRef="M 10 1570490184.dat" frameRight="6360" frameBottom="4540"/>
+          <DOMBitmapItem name="ggggg0001.png" itemID="5d94e747-000001ab" sourceLastImported="1570039585" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="ggggg0001.png" bitmapDataHRef="M 16 1570490184.dat" frameRight="4880" frameBottom="3800"/>
+          <DOMBitmapItem name="ggggg0006.png" itemID="5d94e747-000001af" sourceLastImported="1570039585" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="ggggg0006.png" bitmapDataHRef="M 15 1570490184.dat" frameRight="4880" frameBottom="3800"/>
+          <DOMBitmapItem name="ggggg0011.png" itemID="5d94e747-000001b3" sourceLastImported="1570039586" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="ggggg0011.png" bitmapDataHRef="M 14 1570490184.dat" frameRight="4880" frameBottom="3800"/>
+          <DOMBitmapItem name="ggggg0016.png" itemID="5d94e747-000001b7" sourceLastImported="1570039586" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="ggggg0016.png" bitmapDataHRef="M 13 1570490184.dat" frameRight="4880" frameBottom="3800"/>
+          <DOMBitmapItem name="gol.png" itemID="5db38277-0000013c" sourceLastImported="1572043601" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="gol.png" bitmapDataHRef="M 121 1572899309.dat" frameRight="5920" frameBottom="1440"/>
+          <DOMBitmapItem name="gre.png" itemID="5db1a530-00001e39" sourceLastImported="1571923228" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="gre.png" bitmapDataHRef="M 93 1572899091.dat" frameRight="4000" frameBottom="980"/>
+          <DOMBitmapItem name="hack0001.png" itemID="5db1b34d-00001fb6" sourceLastImported="1571926812" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="hack0001.png" bitmapDataHRef="M 111 1572899168.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="hack0003.png" itemID="5db1b34e-00001fba" sourceLastImported="1571926812" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="hack0003.png" bitmapDataHRef="M 112 1572899168.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="hack0005.png" itemID="5db1b34e-00001fbe" sourceLastImported="1571926812" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="hack0005.png" bitmapDataHRef="M 113 1572899168.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="hack0007.png" itemID="5db1b34e-00001fc2" sourceLastImported="1571926813" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="hack0007.png" bitmapDataHRef="M 114 1572899168.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="hack0009.png" itemID="5db1b34e-00001fc6" sourceLastImported="1571926813" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="hack0009.png" bitmapDataHRef="M 115 1572899168.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="hack0011.png" itemID="5db1b34e-00001fca" sourceLastImported="1571926813" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="hack0011.png" bitmapDataHRef="M 116 1572899168.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="hack0013.png" itemID="5db1b34e-00001fce" sourceLastImported="1571926814" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="hack0013.png" bitmapDataHRef="M 117 1572899168.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="hack0015.png" itemID="5db1b34e-00001fd2" sourceLastImported="1571926814" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="hack0015.png" bitmapDataHRef="M 118 1572899168.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="hack0017.png" itemID="5db1b34e-00001fd6" sourceLastImported="1571926814" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="hack0017.png" bitmapDataHRef="M 119 1572899168.dat" frameRight="3840" frameBottom="2580"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/juega.png" itemID="5dc08a1f-0000060d" sourceLastImported="1572045010" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/juega.png" bitmapDataHRef="M 141 1572899359.dat" frameRight="5920" frameBottom="1440"/>
+          <DOMBitmapItem name="juega.png" itemID="5db38277-00000140" sourceLastImported="1572045010" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="juega.png" bitmapDataHRef="M 122 1572899309.dat" frameRight="5920" frameBottom="1440"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/Mapa de bits 1" itemID="5dc08913-00000218" sourceLastImported="1571437013" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/Mapa de bits 1.png" bitmapDataHRef="M 106 1572899091.dat" frameRight="120" frameBottom="1580"/>
+          <DOMBitmapItem name="Mapa de bits 11" itemID="5dd9b22c-0000030a" sourceLastImported="1574548012" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 11.png" bitmapDataHRef="M 106 1574548012.dat" frameRight="10820" frameBottom="7520"/>
+          <DOMBitmapItem name="Mapa de bits 2" itemID="5d9ccb79-000006ef" sourceLastImported="1570491186" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 2.png" bitmapDataHRef="M 19 1570491109.dat" frameRight="960" frameBottom="1440"/>
+          <DOMBitmapItem name="Mapa de bits 20" itemID="5dc08eef-00000b2b" sourceLastImported="1579978760" externalFileSize="27228" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 20.png" bitmapDataHRef="M 146 1572900591.dat" frameRight="6500" frameBottom="2780"/>
+          <DOMBitmapItem name="Mapa de bits 25" itemID="5dc0923e-00000e19" sourceLastImported="1579978761" externalFileSize="11293" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 25.png" bitmapDataHRef="M 151 1572901438.dat" frameRight="22020" frameBottom="6620"/>
+          <DOMBitmapItem name="Mapa de bits 27" itemID="5dc09264-00000e25" sourceLastImported="1579978761" externalFileSize="9938" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 27.png" bitmapDataHRef="M 153 1572901476.dat" frameRight="22440" frameBottom="2860"/>
+          <DOMBitmapItem name="Mapa de bits 29" itemID="5dc0929b-00000e31" sourceLastImported="1579978761" externalFileSize="19511" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 29.png" bitmapDataHRef="M 155 1572901531.dat" frameRight="22480" frameBottom="5420"/>
+          <DOMBitmapItem name="Mapa de bits 3" itemID="5de82b2d-00001d0f" sourceLastImported="1579978761" externalFileSize="21562" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 3.png" bitmapDataHRef="M 109 1575496493.dat" frameRight="22180" frameBottom="6920"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/Mapa de bits 3" itemID="5dc08a02-00000573" sourceLastImported="1579978761" externalFileCRC32="3827622610" externalFileSize="195" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/Mapa de bits 3.png" bitmapDataHRef="M 123 1572899309.dat" frameRight="1000" frameBottom="820"/>
+          <DOMBitmapItem name="Mapa de bits 6" itemID="5d9cdec0-0000104f" sourceLastImported="1570561728" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 6" bitmapDataHRef="M 45 1570561728.dat" frameRight="460" frameBottom="360"/>
+          <DOMBitmapItem name="Mapa de bits 8" itemID="5d9b8c7e-000002a7" sourceLastImported="1570475134" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Mapa de bits 8.png" bitmapDataHRef="M 9 1570486548.dat" frameRight="23840" frameBottom="3720"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/misa.png" itemID="5dc08a05-0000059b" sourceLastImported="1572043562" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/misa.png" bitmapDataHRef="M 127 1572899333.dat" frameRight="5920" frameBottom="1440"/>
+          <DOMBitmapItem name="misa.png" itemID="5db38c2b-00000252" sourceLastImported="1572043562" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="misa.png" bitmapDataHRef="M 110 1572899168.dat" frameRight="5920" frameBottom="1440"/>
+          <DOMBitmapItem name="Carpeta de elementos duplicados/nube.png" itemID="5dc08a05-0000059c" sourceLastImported="1572044611" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Carpeta de elementos duplicados/nube.png" bitmapDataHRef="M 128 1572899333.dat" frameRight="5920" frameBottom="1440"/>
+          <DOMBitmapItem name="nube.png" itemID="5db38c2b-0000024a" sourceLastImported="1572044611" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="nube.png" bitmapDataHRef="M 108 1572899168.dat" frameRight="5920" frameBottom="1440"/>
+          <DOMBitmapItem name="pixel.png" itemID="5db1a530-00001e2d" sourceLastImported="1571923221" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="pixel.png" bitmapDataHRef="M 94 1572899091.dat" frameRight="4000" frameBottom="980"/>
+          <DOMBitmapItem name="sun.png" itemID="5db38c2b-0000024e" sourceLastImported="1572043679" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sun.png" bitmapDataHRef="M 109 1572899168.dat" frameRight="5920" frameBottom="1440"/>
+          <DOMBitmapItem name="Símbolo 31.png.png.png" itemID="5d9410eb-00000134" sourceLastImported="1569984742" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Símbolo 31.png.png.png" bitmapDataHRef="M 8 1570486548.dat" frameRight="17760" frameBottom="5080"/>
+     </media>
+     <symbols>
+          <Include href="Carpeta de elementos duplicados/cielo1.xml" itemID="5dd44e8a-000029ca" lastModified="1576003765"/>
+          <Include href="Carpeta de elementos duplicados/cielo3.xml" itemID="5dc08ba6-00000963" lastModified="1572901440"/>
+          <Include href="Carpeta de elementos duplicados/cielo5.xml" itemID="5dc08b83-0000094a" lastModified="1572901492"/>
+          <Include href="Carpeta de elementos duplicados/Copia de Símbolo 1.xml" itemIcon="1" loadImmediate="false" itemID="5d94e132-00000110" lastModified="1570038011"/>
+          <Include href="Carpeta de elementos duplicados/Copia de Símbolo 3 3.xml" itemIcon="1" loadImmediate="false" itemID="5d94e7af-000001f2" lastModified="1570039708"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 1.xml" itemIcon="1" loadImmediate="false" itemID="5dc08913-00000234" lastModified="1572045123"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 1 2.xml" itemIcon="1" loadImmediate="false" itemID="5dc08960-00000380" lastModified="1572047984"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 1 3.xml" itemIcon="1" loadImmediate="false" itemID="5dc089ed-0000056e" lastModified="1570648486"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 1 4.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a05-000005d2" lastModified="1571928435"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 1 5.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a1f-00000672" lastModified="1570648486"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 2.xml" itemIcon="1" loadImmediate="false" itemID="5dc08960-0000037f" lastModified="1571924466"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 2 2.xml" itemIcon="1" loadImmediate="false" itemID="5dc089ed-0000056c" lastModified="1571922674"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 2 3.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a05-000005d0" lastModified="1571924466"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 2 4.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a1f-0000066f" lastModified="1571922674"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 5.xml" itemIcon="1" loadImmediate="false" itemID="5dc089ed-00000565" lastModified="1570648095"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 5 2.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a1f-00000673" lastModified="1570648028"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 5 3.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a1f-00000674" lastModified="1570648095"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 10.xml" loadImmediate="false" itemID="5dc08a1f-00000671" lastModified="1570561728"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 13.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a05-000005d1" lastModified="1571924483"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 15.xml" loadImmediate="false" itemID="5dc08960-0000037c" lastModified="1570475134"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 15 2.xml" loadImmediate="false" itemID="5dc089ed-00000568" lastModified="1570475134"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 15 3.xml" loadImmediate="false" itemID="5dc08a05-000005cd" lastModified="1570475134"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 15 4.xml" loadImmediate="false" itemID="5dc08a1f-0000066b" lastModified="1570475134"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 25.xml" itemIcon="1" loadImmediate="false" itemID="5dc08960-0000037e" lastModified="1572047974"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 25 2.xml" itemIcon="1" loadImmediate="false" itemID="5dc089ed-0000056a" lastModified="1572045509"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 25 3.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a05-000005cf" lastModified="1572049086"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 25 4.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a1f-0000066d" lastModified="1572050933"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 29.xml" itemIcon="1" loadImmediate="false" itemID="5dc08960-00000381" lastModified="1571927004"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 29 2.xml" itemIcon="1" loadImmediate="false" itemID="5dc089ed-0000056f" lastModified="1570491115"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 29 3.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a1f-00000675" lastModified="1570491115"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 30.xml" itemIcon="1" loadImmediate="false" itemID="5dc08960-00000382" lastModified="1570491106"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 30 2.xml" itemIcon="1" loadImmediate="false" itemID="5dc089ed-00000570" lastModified="1570491106"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 30 3.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a05-000005d3" lastModified="1570491106"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 30 4.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a1f-00000676" lastModified="1570491106"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 31.xml" itemIcon="1" loadImmediate="false" itemID="5dc08913-00000233" lastModified="1569984601"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 31 2.xml" itemIcon="1" loadImmediate="false" itemID="5dc089ed-0000056b" lastModified="1569984601"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 31 3.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a1f-0000066e" lastModified="1569984601"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 34.xml" itemIcon="1" loadImmediate="false" itemID="5dc089ed-0000056d" lastModified="1570491142"/>
+          <Include href="Carpeta de elementos duplicados/copia Símbolo 34 2.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a1f-00000670" lastModified="1570491142"/>
+          <Include href="Carpeta de elementos duplicados/copia tribuna.xml" itemIcon="1" loadImmediate="false" itemID="5dc08913-00000232" lastModified="1572901586"/>
+          <Include href="Carpeta de elementos duplicados/copia tribuna 2.xml" itemIcon="1" loadImmediate="false" itemID="5dc08960-0000037d" lastModified="1572901616"/>
+          <Include href="Carpeta de elementos duplicados/copia tribuna 3.xml" itemIcon="1" loadImmediate="false" itemID="5dc089ed-00000569" lastModified="1572045552"/>
+          <Include href="Carpeta de elementos duplicados/copia tribuna 4.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a05-000005ce" lastModified="1572901604"/>
+          <Include href="Carpeta de elementos duplicados/copia tribuna 5.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a1f-0000066c" lastModified="1572900533"/>
+          <Include href="Carpeta de elementos duplicados/fondo1.xml" itemIcon="1" itemID="5dd44ba8-000020d4" lastModified="1576003719"/>
+          <Include href="Carpeta de elementos duplicados/fondo2.xml" itemIcon="1" itemID="5dd44ba5-000020d3" lastModified="1576003724"/>
+          <Include href="Carpeta de elementos duplicados/fondo3.xml" itemIcon="1" itemID="5dc08969-00000384" lastModified="1572899180"/>
+          <Include href="Carpeta de elementos duplicados/fondo4.xml" itemIcon="1" itemID="5dc08a0b-000005d5" lastModified="1572899345"/>
+          <Include href="Carpeta de elementos duplicados/fondo5.xml" itemIcon="1" itemID="5dc08a25-0000067b" lastModified="1572899367"/>
+          <Include href="Carpeta de elementos duplicados/Símbodffddfdfdfdfdf.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a05-000005c9" lastModified="1571927000"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 2.xml" itemIcon="1" loadImmediate="false" itemID="5dc08913-0000022d" lastModified="1571924466"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 5.xml" itemIcon="1" loadImmediate="false" itemID="5dc089ed-00000564" lastModified="1570648028"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 9.xml" itemIcon="1" loadImmediate="false" itemID="5dc08913-00000231" lastModified="1571923895"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 10.xml" loadImmediate="false" itemID="5dc089ed-00000557" lastModified="1570561728"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 11erwewerrw.xml" itemIcon="1" loadImmediate="false" itemID="5dc08a05-000005ca" lastModified="1571926975"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 13.xml" itemIcon="1" loadImmediate="false" itemID="5dc08960-00000371" lastModified="1571924483"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 15.xml" loadImmediate="false" itemID="5dc08913-00000210" lastModified="1570475134"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 25.xml" itemIcon="1" loadImmediate="false" itemID="5dc08913-0000022b" lastModified="1572046295"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 29.xml" itemIcon="1" loadImmediate="false" itemID="5dc08913-0000022f" lastModified="1571924103"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 30.xml" itemIcon="1" loadImmediate="false" itemID="5dc08913-00000230" lastModified="1570491106"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 36.xml" itemIcon="1" loadImmediate="false" itemID="5d9b8afc-00000246" lastModified="1575496275"/>
+          <Include href="Carpeta de elementos duplicados/Símbolo 37.xml" itemIcon="1" loadImmediate="false" itemID="5d9b8afc-00000249" lastModified="1572046022"/>
+          <Include href="cielo2.xml" itemID="5dd44e96-000029cb" lastModified="1576003739"/>
+          <Include href="cielo4.xml" itemID="5dc08e0e-00000a25" lastModified="1572901534"/>
+          <Include href="Copia de Símbolo 1.xml" itemIcon="1" loadImmediate="false" itemID="5d9250e9-0000009f" lastModified="1570490656"/>
+          <Include href="Copia de Símbolo 2.xml" itemIcon="1" loadImmediate="false" itemID="5d925187-000000bc" lastModified="1570039851"/>
+          <Include href="p0_inner.xml" loadImmediate="false" itemID="5c38368a-0000003d" lastModified="1570556968"/>
+          <Include href="p1_inner.xml" loadImmediate="false" itemID="5c38369f-0000003f" lastModified="1570556930"/>
+          <Include href="p2_inner.xml" loadImmediate="false" itemID="5c3836c6-00000042" lastModified="1570556883"/>
+          <Include href="p3_inner.xml" loadImmediate="false" itemID="5c3836e6-00000044" lastModified="1570556994"/>
+          <Include href="pasto_shape.xml" loadImmediate="false" itemID="5c422df9-00000dd8" lastModified="1551116698"/>
+          <Include href="piso0.xml" itemID="5c3633d3-00000171" lastModified="1570558930"/>
+          <Include href="piso1.xml" itemID="5c363499-000001ef" lastModified="1547660035"/>
+          <Include href="piso2.xml" itemID="5c36364e-000002a1" lastModified="1547671451"/>
+          <Include href="piso3.xml" itemID="5c363657-000002a3" lastModified="1547668195"/>
+          <Include href="Symbol 10.xml" itemIcon="1" loadImmediate="false" itemID="5c363345-0000012c" lastModified="1550671419"/>
+          <Include href="Symbol 11.xml" itemIcon="1" loadImmediate="false" itemID="5c363450-000001c3" lastModified="1550671424"/>
+          <Include href="Symbol 12.xml" itemIcon="1" loadImmediate="false" itemID="5c3634d8-0000023b" lastModified="1567398423"/>
+          <Include href="Symbol 13.xml" itemIcon="1" loadImmediate="false" itemID="5c3635a1-00000295" lastModified="1550671442"/>
+          <Include href="Símbodffddfdfdfdfdf.xml" itemIcon="1" loadImmediate="false" itemID="5db1b3d8-00002003" lastModified="1571927000"/>
+          <Include href="Símbolo 3.xml" loadImmediate="false" itemID="5d9ccbc0-00000711" lastModified="1570556876"/>
+          <Include href="Símbolo 4.xml" loadImmediate="false" itemID="5d9ccbf6-00000715" lastModified="1570556924"/>
+          <Include href="Símbolo 6.xml" loadImmediate="false" itemID="5d9ccc1f-00000719" lastModified="1570556964"/>
+          <Include href="Símbolo 7.xml" loadImmediate="false" itemID="5d9ccc3b-0000071d" lastModified="1570556997"/>
+          <Include href="Símbolo 8.xml" loadImmediate="false" itemID="5c6d560f-000009b3" lastModified="1551116792"/>
+          <Include href="Símbolo 9.xml" itemIcon="1" loadImmediate="false" itemID="5db383a8-000001b1" lastModified="1572046065"/>
+          <Include href="Símbolo 11.xml" itemIcon="1" loadImmediate="false" itemID="5db1a854-00001e8f" lastModified="1571924212"/>
+          <Include href="Símbolo 11erwewerrw.xml" itemIcon="1" loadImmediate="false" itemID="5db1b3bf-00001fed" lastModified="1571926975"/>
+          <Include href="Símbolo 13.xml" itemIcon="1" loadImmediate="false" itemID="5db1a9b2-00001eb5" lastModified="1571924483"/>
+          <Include href="Símbolo 14.xml" itemIcon="1" loadImmediate="false" itemID="5db1b133-00001f47" lastModified="1572901947"/>
+          <Include href="Símbolo 17.xml" itemIcon="1" loadImmediate="false" itemID="5db38e7e-000002ff" lastModified="1572048728"/>
+          <Include href="Símbolo 19.xml" itemIcon="1" loadImmediate="false" itemID="5db38fd9-00000431" lastModified="1572048857"/>
+          <Include href="Símbolo 24.xml" itemIcon="1" loadImmediate="false" itemID="5dc08eb5-00000b22" lastModified="1572901902"/>
+          <Include href="Símbolo 27.xml" itemIcon="1" loadImmediate="false" itemID="5db18a7b-00001158" lastModified="1571916489"/>
+          <Include href="Símbolo 28.xml" itemIcon="1" loadImmediate="false" itemID="5db18fd3-00001759" lastModified="1571917823"/>
+          <Include href="Símbolo 31.xml" loadImmediate="false" itemID="5c6d5624-000009b8" lastModified="1551116815"/>
+          <Include href="Símbolo 34.xml" loadImmediate="false" itemID="5c6d5640-000009bc" lastModified="1551116885"/>
+          <Include href="Símbolo 38.xml" itemIcon="1" loadImmediate="false" itemID="5d94e157-00000119" lastModified="1570491085"/>
+          <Include href="Símbolo 40.xml" itemIcon="1" loadImmediate="false" itemID="5d94edab-000001ff" lastModified="1572046092"/>
+          <Include href="Símbolo 114.xml" loadImmediate="false" itemID="5c903ec9-000010b8" lastModified="1552957129"/>
+          <Include href="Símbolo 115.xml" loadImmediate="false" itemID="5c903ece-000010bc" lastModified="1552957134"/>
+          <Include href="Símbolo 116.xml" loadImmediate="false" itemID="5c903ed3-000010c0" lastModified="1552957139"/>
+          <Include href="Símbolo 120.xml" loadImmediate="false" itemID="5c903eeb-000010d0" lastModified="1552957164"/>
+          <Include href="Símbolo 122.xml" loadImmediate="false" itemID="5c903f0b-000010db" lastModified="1552957196"/>
+          <Include href="Símbolo 124.xml" loadImmediate="false" itemID="5c903f17-000010e3" lastModified="1552957209"/>
+          <Include href="Símbolo 127.xml" loadImmediate="false" itemID="5c9040aa-0000111b" lastModified="1552957610"/>
+          <Include href="tribunaAtras.xml" itemIcon="1" itemID="5d9bc73b-000003bb" lastModified="1570490960"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Escena 1">
+               <layers>
+                    <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="cielo2">
+                                             <matrix>
+                                                  <Matrix tx="3507.05" ty="-262.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1108.5" y="170.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/fondo2">
+                                             <matrix>
+                                                  <Matrix tx="-1533.75" ty="-524.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1035.9" y="673"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/fondo3">
+                                             <matrix>
+                                                  <Matrix tx="-1385.8" ty="-1121.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1035.9" y="673"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/fondo1">
+                                             <matrix>
+                                                  <Matrix tx="-1376.9" ty="-3657.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1035.9" y="673"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/fondo4">
+                                             <matrix>
+                                                  <Matrix tx="-1347.7" ty="-1902"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1035.9" y="673"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/fondo5">
+                                             <matrix>
+                                                  <Matrix tx="-1221.75" ty="-2602.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1035.9" y="673"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/cielo5">
+                                             <matrix>
+                                                  <Matrix tx="4545.2" ty="-2828.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1108.5" y="170.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/cielo3">
+                                             <matrix>
+                                                  <Matrix tx="4674.6" ty="-1608.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1108.5" y="170.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/cielo1">
+                                             <matrix>
+                                                  <Matrix tx="3743.45" ty="-889.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1108.5" y="170.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="cielo4">
+                                             <matrix>
+                                                  <Matrix tx="4633.6" ty="-2292.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1108.5" y="170.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

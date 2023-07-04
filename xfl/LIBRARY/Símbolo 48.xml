@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 48" itemID="5e696caa-00000111" lastModified="1583967403">
+  <timeline>
+    <DOMTimeline name="Símbolo 48">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF9900"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2867 420S2[2988 614 2874 822!2874 822|2715 1093!2715 1093|231 1093!231 1093|57 782!57 782[-57 594 57 400!57 400|281 0!281 0|2618 0!2618 0|2867 420"/>
+                    <Edge cubics="!2867 420(;2947,548 2947,681 2874,822q2867 420Q2988 614q2874 822);"/>
+                    <Edge cubics="!2618 0(;2618,0 2867,420 2867,420q2618 0 2867 420);"/>
+                    <Edge cubics="!57 400(;57,400 281,0 281,0q57 400 281 0);"/>
+                    <Edge cubics="!57 782(;-17,655 -17,527 57,400q57 782Q-57 594q57 400);"/>
+                    <Edge cubics="!2874 822(;2874,822 2715,1093 2715,1093q2874 822 2715 1093);"/>
+                    <Edge cubics="!231 1093(;231,1093 57,782 57,782q231 1093 57 782);"/>
+                    <Edge cubics="!2618 0(;2618,0 281,0 281,0q2618 0 281 0);"/>
+                    <Edge cubics="!2715 1093(;2715,1093 231,1093 231,1093q2715 1093 231 1093);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

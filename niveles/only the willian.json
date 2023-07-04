@@ -1,0 +1,132 @@
+{
+  "_debug_cejas": [
+    "cejas_willian",
+    "cejas_1",
+    "cejas_2",
+    "cejas_3"
+  ],
+  "_debug_pelos": [
+    "willian",
+    "negro1",
+    "rubio1",
+    "willian_trencitas",
+    "willian2",
+    "willian3",
+    "disco1",
+    "johnny_bravo",
+    "johnyy_bravo2",
+    "johnny_bravo3"
+  ],
+  "amigos": [
+    {
+      "accionCuandoLaPelotaLoPasa": "parado",
+      "accionDpsDePegarle": "parado",
+      "altura": 1.8,
+      "camiseta": "brasil",
+      "cara": {
+        "boca": 1,
+        "cejas": "cejas_willian",
+        "flequillo": "johnny_bravo",
+        "ojos": 0,
+        "pelo": "johnny_bravo",
+        "piel": 1
+      },
+      "empieza": "caminando",
+      "fuerzaX": 500,
+      "fuerzaY": 0,
+      "nombre": "charly",
+      "precision": 0.1,
+      "queHaceCuandoLaRecupera": "caminando",
+      "saltaParaPararla": false,
+      "saltoMax": 150,
+      "tiempoEsperaParaPasarselaAWillian": 0,
+      "velMaxParaPararla": 500,
+      "velocidadMax": 250,
+      "x": 1000,
+      "y": 750
+    }
+  ],
+  "arco": {
+    "x": 3500
+  },
+  "arquero": {
+    "_debug_opciones_accionAnteWillian": [
+      "reventarla",
+      "atajada"
+    ],
+    "_debug_opciones_accionCuandoVeAWillian": [
+      "corriendo",
+      "trotando",
+      "caminando",
+      "vuelveALaLinea",
+      "esperaEnElAreaChica",
+      "esperaEnElAreaGrande"
+    ],
+    "aQVelDaReboteAbajo": 5520,
+    "aQVelDaReboteArriba": 520,
+    "aQVelDaReboteMedio": 520,
+    "aQVelLaAtajaAbajo": 100,
+    "aQVelLaAtajaArriba": 100,
+    "aQVelLaAtajaMedio": 100,
+    "aQueDistanciaVeAWillian": 0,
+    "accionAnteWillian": "reventarla",
+    "accionCuandoVeAWillian": "vuelveALaLinea",
+    "altura": 140,
+    "cara": {
+      "boca": 1,
+      "cejas": "cejas_willian",
+      "ojos": 0,
+      "pelo": "rubio1",
+      "piel": 1
+    },
+    "empieza": "parado",
+    "flanqueableConGambeta360": false,
+    "fuerzaX": -500,
+    "fuerzaY": -500,
+    "nombre": "arqui",
+    "saltaAnteSombrerito": true,
+    "saltoMax": 180,
+    "velocidadMax": 210,
+    "x": 3300,
+    "y": 750
+  },
+  "camisetaContrincantes": "brasil",
+  "camisetaRival": 3,
+  "camisetaWillian": "brasil",
+  "descripcion": "Darle un pase alto al amigo (altura justa) y pasar por abajo",
+  "estrella": {
+    "x": -1620,
+    "y": 0
+  },
+  "fondo": "potrero",
+  "key": "-LkQ_Qv3lDVxbJTDPcl5",
+  "mundo": 5,
+  "nombre": "only the willian",
+  "orden": 7,
+  "pelota": {
+    "angularVel": 0,
+    "fuerzaX": 0,
+    "fuerzaY": 0,
+    "x": 1100,
+    "y": 850
+  },
+  "piso": "cesped",
+  "tiempoObjetivo": 9,
+  "willian": {
+    "accionDpsDePegarle": "corriendo",
+    "camiseta": "brasil",
+    "cara": {
+      "boca": 0,
+      "cejas": "cejas_willian",
+      "ojos": 0,
+      "pelo": "willian2",
+      "piel": 0
+    },
+    "empieza": "corriendo",
+    "nombre": "Willian",
+    "saltoMax": 150,
+    "velocidadMax": 200,
+    "x": -1000,
+    "y": 750
+  }
+}

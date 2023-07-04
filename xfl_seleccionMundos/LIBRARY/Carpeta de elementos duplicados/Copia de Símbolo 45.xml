@@ -1,0 +1,300 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Carpeta de elementos duplicados/Copia de Símbolo 45" itemID="5defe561-00000408" symbolType="graphic" lastModified="1575838032">
+  <timeline>
+    <DOMTimeline name="Copia de Símbolo 45" currentFrame="35">
+      <layers>
+        <DOMLayer name="Capa_1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 76">
+                  <matrix>
+                    <Matrix tx="0.15" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.05" y="69.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 77">
+                  <matrix>
+                    <Matrix tx="1.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9.75" y="69.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 78">
+                  <matrix>
+                    <Matrix tx="3.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.55" y="69"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 79">
+                  <matrix>
+                    <Matrix tx="4.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.65" y="68.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 80">
+                  <matrix>
+                    <Matrix tx="3.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9.35" y="68.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 81">
+                  <matrix>
+                    <Matrix tx="2.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.35" y="68.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 82">
+                  <matrix>
+                    <Matrix tx="2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.3" y="68.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 83">
+                  <matrix>
+                    <Matrix tx="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.15" y="68.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 85">
+                  <matrix>
+                    <Matrix tx="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.9" y="68.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 86">
+                  <matrix>
+                    <Matrix tx="0.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.5" y="68.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 87">
+                  <matrix>
+                    <Matrix tx="0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14" y="68.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 88">
+                  <matrix>
+                    <Matrix tx="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14.35" y="68.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 88" selected="true">
+                  <matrix>
+                    <Matrix tx="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14.35" y="68.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 87">
+                  <matrix>
+                    <Matrix tx="0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14" y="68.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 86">
+                  <matrix>
+                    <Matrix tx="0.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.5" y="68.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 85">
+                  <matrix>
+                    <Matrix tx="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.9" y="68.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 83">
+                  <matrix>
+                    <Matrix tx="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.15" y="68.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 82">
+                  <matrix>
+                    <Matrix tx="2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.3" y="68.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 81">
+                  <matrix>
+                    <Matrix tx="2.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.35" y="68.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 80">
+                  <matrix>
+                    <Matrix tx="3.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9.35" y="68.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 79">
+                  <matrix>
+                    <Matrix tx="4.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.65" y="68.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 78">
+                  <matrix>
+                    <Matrix tx="3.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.55" y="69"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 77" selected="true">
+                  <matrix>
+                    <Matrix tx="1.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9.75" y="69.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 76">
+                  <matrix>
+                    <Matrix tx="0.15" ty="-0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.05" y="69.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

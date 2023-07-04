@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Carpeta de elementos duplicados/copia Símbolo 2" itemID="5dc08960-0000037f" symbolType="graphic" lastModified="1571924466">
+  <timeline>
+    <DOMTimeline name="copia Símbolo 2">
+      <layers>
+        <DOMLayer name="Capa_1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Carpeta de elementos duplicados/Símbolo 13" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="4.17108154296875" tx="7.55" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.95" y="26.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

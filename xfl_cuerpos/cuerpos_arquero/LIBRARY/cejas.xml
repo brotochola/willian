@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="cejas" itemID="5c42543d-00004f05" lastModified="1565216328">
+  <timeline>
+    <DOMTimeline name="cejas" currentFrame="1">
+      <layers>
+        <DOMLayer name="cejas_willian" color="#669900" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="cejas_wililan" name="cejas_willian" selected="true">
+                  <matrix>
+                    <Matrix tx="-0.25" ty="-0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.15" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cejas_2" color="#9933CC" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="cejas_4" name="cejas_4" selected="true">
+                  <matrix>
+                    <Matrix tx="-0.25" ty="-0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.15" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cejas_2" color="#FF4F4F" locked="true" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="cejas_2" name="cejas_2">
+                  <matrix>
+                    <Matrix tx="-0.25" ty="-0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.15" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cejas_1" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="cejas_1" name="cejas_1" selected="true">
+                  <matrix>
+                    <Matrix tx="-0.25" ty="-0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.15" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
