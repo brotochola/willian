@@ -508,6 +508,10 @@ button.botonesEditor {
   overflow: visible !important;
 }
 
+#contBotones button {
+  cursor: pointer;
+}
+
 button#botonMenu {
   left: 77vw;
   top: 0px;
